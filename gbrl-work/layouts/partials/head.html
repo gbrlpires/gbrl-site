@@ -1,0 +1,12 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  {{ if isset .Params "title" }}
+    <title>{{ site.Title }} | {{ .Title }}</title>
+  {{ else }}
+    <title>{{ site.Title }}</title>
+  {{ end }}
+
+  <link rel="stylesheet" href="../../static/css/main.css">
+</head>

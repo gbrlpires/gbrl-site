@@ -3,23 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/list1/teste/</loc>
+    <loc>https://gbrl.work/blog/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://gbrl.work/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/list1/</loc>
+    <loc>https://gbrl.work/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://gbrl.work/tags/</loc>
   </url>
   
 </urlset>
