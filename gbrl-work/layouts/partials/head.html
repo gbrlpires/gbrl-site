@@ -8,5 +8,7 @@
     <title>{{ site.Title }}</title>
   {{ end }}
 
-  <link rel="stylesheet" href="../../static/css/main.css">
+  {{ $style := resources.Get "css/main.css" }}
+  {{ $style = $style | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $style.Permalink }}">
 </head>

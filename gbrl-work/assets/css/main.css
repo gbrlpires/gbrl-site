@@ -1,0 +1,11 @@
+/* --- IMPORTS --- */
+@import "reset.css";
+@import url('typography.css');
+@import "variables.css";
+
+
+html {
+  color: var(--color-primary);
+  font-family: geomanistbook;
+
+}
