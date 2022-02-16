@@ -2,10 +2,11 @@
 <html lang="pt-br" dir="ltr">
   {{ partial "head.html" . }}
 
-  <body>
-    <p>topo</p>
-    {{ block "main" . }}
-    {{ end }}
-    <p>RODAPE</p>
+<body>
+  {{ partial "header.html" . }}
+
+  {{ block "main" . }}
+  {{ end }}
+  <p>RODAPE</p>
 </body>
 </html>

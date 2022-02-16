@@ -1,3 +1,28 @@
 baseURL = "https://gbrl.work/"
 languageCode = "pt-br"
 title = "gbrlpires"
+
+[menu]
+  [[menu.main]]
+    identifier = "projetos"
+    name = "projetos"
+    url = "/projetos/"
+    weight = 1
+
+    [[menu.main]]
+      identifier = "sobre"
+      name = "sobre"
+      url = "/sobre/"
+      weight = 2
+
+    [[menu.main]]
+      identifier = "blog"
+      name = "blog"
+      url = "/blog/"
+      weight = 3
+
+    [[menu.main]]
+      identifier = "wiki"
+      name = "wiki"
+      url = "/wiki/"
+      weight = 4
