@@ -1,0 +1,18 @@
+.header__container {
+  @include flexSpaceBetween;
+}
+
+.nav__list {
+  line-height: 0;
+}
+
+.logo,
+.nav__link {
+  font-size: 1.3em;
+  text-decoration: none;
+}
+
+.nav__item {
+  display: inline-block;
+  padding: 0 0.5em;
+}

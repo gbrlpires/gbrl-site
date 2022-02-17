@@ -1,0 +1,8 @@
+html {
+  color: var(--color-primary);
+  font-family: geomanistbook;
+}
+
+.container {
+  padding: 60px;
+}

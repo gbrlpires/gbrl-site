@@ -8,7 +8,14 @@
     <title>{{ site.Title }}</title>
   {{ end }}
 
-  {{ $style := resources.Get "css/main.css" }}
-  {{ $style = $style | minify | fingerprint }}
+  {{/* Incluir targetPaths no futuro */}}
+
+  {{ $options := (dict) }}
+  {{ if eq hugo.Environment "development" }}
+    {{ $options = (dict "enableSourceMap" true) }}
+  {{ end }}
+
+  {{ $style := resources.Get "scss/main.scss" | resources.ToCSS $options}}
+  {{ $style = $style | fingerprint | minify }}
   <link rel="stylesheet" href="{{ $style.Permalink }}">
 </head>

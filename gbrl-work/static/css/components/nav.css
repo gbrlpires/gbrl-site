@@ -1,0 +1,17 @@
+.header__container {
+  display: flex;
+  justify-content: space-between;
+}
+
+a.header__item,
+.nav__list-item {
+  font-size: 20px;
+}
+
+.nav__list {
+  line-height: 0;
+}
+
+.nav__list-item {
+  display: inline-block;
+}

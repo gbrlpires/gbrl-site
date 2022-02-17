@@ -1,6 +1,6 @@
-<header>
-  <div>
-    <a href="{{ .Site.BaseURL }}">gbrlpires</a>
+<header class="header">
+  <div class="header__container container">
+    <a class="logo" href="{{ .Site.BaseURL }}">gbrlpires</a>
+    <nav class="nav">{{ partial "nav.html" . }}</nav>
   </div>
-  <nav>{{ partial "nav.html" . }}</nav>
 </header>
