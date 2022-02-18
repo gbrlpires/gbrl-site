@@ -1,18 +1,40 @@
+.header {
+  font-family: geomanist-medium;
+  font-size: 1.3em;
+  width: 100%;
+}
+
 .header__container {
-  @include flexSpaceBetween;
+  @include flex-space-between;
+  padding-top: 32px;
+  padding-bottom: 12px;
 }
 
 .nav__list {
-  line-height: 0;
+  margin: 0;
+  padding: 0;
+}
+
+.nav__item {
+  text-align: right;
+  display: block;
+
+  @include for-tablet-up {
+    display: inline-block;
+    padding: 0 0.5em;
+  }
+}
+
+.nav__item:first-child {
+  padding-left: 0;
 }
 
 .logo,
 .nav__link {
-  font-size: 1.3em;
   text-decoration: none;
 }
 
-.nav__item {
-  display: inline-block;
-  padding: 0 0.5em;
+.nav__link:hover {
+  color: $color-secondary;
+  box-shadow: inset 0px -24px $color-primary;
 }

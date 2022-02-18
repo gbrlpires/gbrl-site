@@ -1,5 +1,10 @@
-@mixin flexSpaceBetween {
+@mixin flex-space-between {
   display: flex;
   justify-content: space-between;
   align-items: baseline;
+}
+
+// -- BREAKPOINTS --
+@mixin for-tablet-up {
+  @media (min-width: 600px) { @content; }
 }
