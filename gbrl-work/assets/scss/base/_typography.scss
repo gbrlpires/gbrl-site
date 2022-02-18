@@ -1,9 +1,14 @@
 html {
-  font-family: geomanist-book;
+  font-family: geomanist-medium;
   color: $color-tertiary;
 }
 
+p {
+  font-size: $text-body;
+}
+
 .h1,h1 {
+  font-family: geomanist-book;
   font-size: 4em;
 }
 

@@ -1,7 +1,26 @@
 <footer class="footer">
   <span class= "footer__separator"></span>
-  <div class="footer__item">
-    <h5 class="footer__title h5">{{ .Title }}</h5>
-    <a class="footer__link" href="{{ .Permalink }}">{{ .Permalink }}</a>
+  <div class="container">
+    <ul class="footer__list">
+      <li class="footer__item">
+        <h5 class="footer__title h5">Contato</h5>
+        <p class="footer__info">ola@gbrl.work</p>
+      </li>
+      <li class="footer__item">
+        <h5 class="footer__title h5">Behance</h5>
+        <a class="footer__link" href="https://www.behance.net/gbrlpires">behance.net/gbrlpires</a>
+      </li>
+      <li class="footer__item">
+        <h5 class="footer__title h5">Linkedin</h5>
+        <a class="footer__link" href="https://www.linkedin.com/in/gbrlpires/">linkedin.com/in/gbrlpires</a>
+      </li>
+      <li class="footer__item">
+        <h5 class="footer__title h5">Instagram</h5>
+        <a class="footer__link" href="https://www.instagram.com/_gbrlpires/">@_gbrlpires</a>
+      </li>
+      <li class="footer__item">
+        <h5 class="footer__title h5">{{ now.Format "2006" }}</h5>
+      </li>
+    </ul>
   </div>
 </footer>
