@@ -34,3 +34,21 @@
 @mixin for-desktop-up {
   @media (min-width: 1200px) { @content; }
 }
+
+// -- SPACES --
+@mixin space-bottom-tiny {
+  padding-bottom: 20px;
+}
+
+@mixin space-bottom-medium {
+  padding-bottom: 56px;
+}
+
+@mixin space-bottom-large {
+  padding-bottom: 72px;
+}
+
+@mixin space-top-bottom-tiny {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}

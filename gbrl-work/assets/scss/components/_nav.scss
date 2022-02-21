@@ -1,6 +1,7 @@
 .header {
   font-family: geomanist-medium;
   font-size: 1.3em;
+  color: $color-primary;
   width: 100%;
 }
 
@@ -26,6 +27,11 @@
 
 .nav__item:last-child {
   padding-right: 0;
+}
+
+.logo,
+.nav__link {
+  color: $color-primary;
 }
 
 .nav__link:hover {

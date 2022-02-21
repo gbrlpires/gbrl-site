@@ -1,0 +1,15 @@
+.taxonomies {
+  @include space-top-bottom-tiny;
+}
+
+.taxonomies__title {
+  @include space-bottom-medium;
+}
+
+.taxonomies__wrapper {
+  @include space-bottom-tiny;
+}
+
+.taxonomies__list {
+  @include flex-start-wrap;
+}

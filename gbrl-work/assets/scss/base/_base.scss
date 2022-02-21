@@ -6,12 +6,16 @@ html {
   padding: 0 0.8em;
 }
 
+.container--compensation {
+  padding: 0;
+}
+
 a {
   text-decoration: none;
 }
 
 a:visited {
-  color: $color-primary;
+  color: none;
 }
 
 ul, ol {

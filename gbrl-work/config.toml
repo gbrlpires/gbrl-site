@@ -26,3 +26,8 @@ title = "gbrlpires"
       name = "wiki"
       url = "/wiki/"
       weight = 4
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  colab = "colabs"
