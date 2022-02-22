@@ -1,7 +1,13 @@
 ---
-title: "home"
+title: "Teste"
+categories:
+  - editorial
+  - tipografia
+colabs:
+  - daó
+  - giuliafagundes
 draft: false
+client: SESI Editora
 ---
 
-Testando estrutura de conteúdo
-oxeeee
+fazendo um teste de post no blog

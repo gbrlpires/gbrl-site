@@ -1,0 +1,12 @@
+<article class="card">
+  {{ with .Page.Resources.GetMatch "images/*.jpg" }}
+    <img src="{{ .Permalink }}">
+  {{ end }}
+  <h5>{{ .Params.client }}</h5>
+  <h4><a href="{{ .Page.Permalink }}">{{ .Title }}</a></h4>
+  <ul>
+    {{ range (.GetTerms "categories") }}
+      <li>{{ partial "label.html" . }}</li>
+    {{ end }}
+  </ul>
+</article>
