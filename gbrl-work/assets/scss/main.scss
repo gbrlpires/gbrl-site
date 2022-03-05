@@ -1,12 +1,12 @@
+/* --- ABSTRACTS --- */
+@import 'abstracts/_mixins.scss';
+
 /* --- BASE --- */
 @import 'base/_reset.scss';
 @import 'base/_variables.scss';
 @import 'base/_fontface.scss';
 @import 'base/_base.scss';
 @import 'base/_typography.scss';
-
-/* --- ABSTRACTS --- */
-@import 'abstracts/_mixins.scss';
 
 /* --- COMPONENTS --- */
 @import 'components/_nav.scss';

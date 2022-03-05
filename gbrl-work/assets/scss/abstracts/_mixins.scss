@@ -48,7 +48,14 @@
   padding-bottom: 72px;
 }
 
-@mixin space-top-bottom-tiny {
+@mixin space-top-tiny {
   padding-top: 20px;
-  padding-bottom: 20px;
+}
+
+@mixin space-top-medium {
+  padding-top: 56px;
+}
+
+@mixin space-top-large {
+  padding-top: 72px;
 }

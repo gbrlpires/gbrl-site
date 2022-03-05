@@ -1,0 +1,5 @@
+{{ define "main" }}
+ {{ partial "taxonomies.html" . }}
+ <h1 class="h1 h1--section-title">todos os {{ .Title }}</h1>
+ {{ partial "card.html" . }}
+{{ end }}

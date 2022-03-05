@@ -1,5 +1,9 @@
 <section class="taxonomies container">
-  <h3 class="taxonomies__title h3">Outras Categorias</h3>
+  {{ if eq .Section "projetos" }}
+    <h3 class="taxonomies__title h3">categorias</h3>
+  {{ else }}
+    <h3 class="taxonomies__title h3">outras categorias</h3>
+  {{ end }}
 
   <div class="taxonomies__wrapper">
     <ul class="taxonomies__list">
@@ -7,7 +11,7 @@
       <li class="taxonomies__item">{{ partial "label.html" . }}</li>
       {{ end }}
     </ul>
-    <h5 class="item__title h5">Por Área</h5>
+    <h5 class="item__title h5">por área</h5>
   </div>
 
   <div class="taxonomies__wrapper">
@@ -16,6 +20,6 @@
       <li class="taxonomies__item">{{ partial "label.html" . }}</li>
       {{ end }}
     </ul>
-    <h5 class="item__title h5">Por Colaboração</h5>
+    <h5 class="item__title h5">por colaboração</h5>
   </div>
 </section>

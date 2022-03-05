@@ -1,5 +1,6 @@
 .taxonomies {
-  @include space-top-bottom-tiny;
+  @include space-top-medium;
+  @include space-bottom-medium;
 }
 
 .taxonomies__title {

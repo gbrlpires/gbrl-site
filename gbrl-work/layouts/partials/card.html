@@ -1,12 +1,15 @@
-<article class="card">
-  {{ with .Page.Resources.GetMatch "images/*.jpg" }}
-    <img src="{{ .Permalink }}">
-  {{ end }}
+{{$section := .Section}}
+{{range where .Site.Pages "Section" $section }}
+  <article class="card">
+
+    <img class="card__img" src="{{.Section}}/default.jpg" alt="#">
+
   <h5>{{ .Params.client }}</h5>
-  <h4><a href="{{ .Page.Permalink }}">{{ .Title }}</a></h4>
+  <h4>{{ .Title }}</h4>
   <ul>
-    {{ range (.GetTerms "categories") }}
-      <li>{{ partial "label.html" . }}</li>
-    {{ end }}
-  </ul>
+   {{ range (.GetTerms "categories") }}
+     <li>{{ partial "label.html" . }}</li>
+   {{ end }}
+ </ul>
 </article>
+{{end}}

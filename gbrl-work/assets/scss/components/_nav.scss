@@ -32,9 +32,9 @@
 .logo,
 .nav__link {
   color: $color-primary;
+  transition: ease-in-out 0.1s;
 }
 
 .nav__link:hover {
-  color: $color-secondary;
-  box-shadow: inset 0px -24px $color-primary;
+  text-decoration: underline;
 }
