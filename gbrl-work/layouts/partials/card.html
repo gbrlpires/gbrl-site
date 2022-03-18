@@ -1,15 +1,33 @@
-{{$section := .Section}}
-{{range where .Site.Pages "Section" $section }}
-  <article class="card">
+<section class="grid-card container">
+  {{ range .Pages }}
+    {{ $permalink := .Permalink }}
+    <article class="card container--compensation">
+      <figure class="card__thumb">
+        {{ with .Params.images }}
+        <a class="thumb__link" href="{{ $permalink }}">
+          <img class="thumb__img" src="{{ index . 0 }}" alt="#">
+        </a>
+        {{ end }}
+      </figure>
+      <div class="card__content">
+        <h5 class="h5 content__client">{{ .Params.client }}</h5>
+        <h4 class="h4 card__title"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+      </div>
 
-    <img class="card__img" src="{{.Section}}/default.jpg" alt="#">
+      <div class="card__taxonomies taxonomies__wrapper">
+        <ul class="taxonomies__list">
+        {{ range (.GetTerms "categories") }}
+          <li class="taxonomies__item">{{ partial "label.html" . }}</li>
+        {{ end }}
+        </ul>
 
-  <h5>{{ .Params.client }}</h5>
-  <h4>{{ .Title }}</h4>
-  <ul>
-   {{ range (.GetTerms "categories") }}
-     <li>{{ partial "label.html" . }}</li>
-   {{ end }}
- </ul>
-</article>
-{{end}}
+        <ul class="taxonomies__list">
+          {{ range (.GetTerms "colabs") }}
+          <li class="taxonomies__item">{{ partial "label.html" . }}</li>
+          {{ end }}
+        </ul>
+      </div>
+
+    </article>
+  {{ end }}
+</section>

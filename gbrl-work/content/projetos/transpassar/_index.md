@@ -7,7 +7,9 @@ colabs:
   - daó
 draft: false
 client: SESI Editora
-image: /default.jpg
+images:
+  - /projetos/transpassar/images/02.jpg
+  - /projetos/transpassar/images/default.jpg
 ---
 
 hahaiaaiahah

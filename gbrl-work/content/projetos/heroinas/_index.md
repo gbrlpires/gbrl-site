@@ -5,7 +5,9 @@ categories:
   - editorial
 colabs:
   - daó
+  - giulia fagundes
 draft: false
 client: Jandaíra
-image: /04.jpg
+images:
+  - /projetos/heroinas/images/04.jpg
 ---

@@ -1,3 +1,4 @@
+// -- FLEXBOXES --
 @mixin flex-space-between {
   display: flex;
   justify-content: space-between;
@@ -17,6 +18,25 @@
   flex-wrap: wrap;
 }
 
+// -- GRIDS
+
+@mixin grid-1-col {
+  display: grid;
+  gap: 1em;
+  grid-template-columns: 1fr;
+}
+
+@mixin grid-2-col {
+  display: grid;
+  gap: 1em;
+  grid-template-columns: repeat(2, 1fr)
+}
+
+@mixin grid-3-col {
+  display: grid;
+  gap: 1em;
+  grid-template-columns: repeat(3, 1fr)
+}
 
 // -- BREAKPOINTS --
 @mixin for-tablet-up {
@@ -36,6 +56,10 @@
 }
 
 // -- SPACES --
+@mixin space-bottom-micro {
+  padding-bottom: 10px;
+}
+
 @mixin space-bottom-tiny {
   padding-bottom: 20px;
 }
@@ -46,6 +70,10 @@
 
 @mixin space-bottom-large {
   padding-bottom: 72px;
+}
+
+@mixin space-top-micro {
+  padding-bottom: 10px;
 }
 
 @mixin space-top-tiny {

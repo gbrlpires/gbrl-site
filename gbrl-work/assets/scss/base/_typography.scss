@@ -12,11 +12,6 @@ p {
   font-size: 4em;
 }
 
-.h1--section-title {
-  @include space-top-tiny;
-  @include space-bottom-tiny;
-}
-
 .h2,h2 {
   font-size: 4em;
 }
@@ -32,5 +27,5 @@ p {
 }
 
 .h5,h5 {
-  font-size: 1.2em;
+  font-size: 1.3em;
 }
