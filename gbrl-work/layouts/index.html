@@ -1,3 +1,12 @@
 {{ partial "core/head.html" . }}
 {{ partial "core/header.html" . }}
+
+  <section class="grid-card--2-col-desktop container">
+    {{ with .Site.GetPage "/projetos" }}
+      {{ range .Pages }}
+        {{ partial "widgets/card.html" . }}
+      {{ end }}
+    {{ end }}
+  </section>
+
 {{ partial "core/footer"}}

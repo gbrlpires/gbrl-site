@@ -1,0 +1,5 @@
+.grid-card--2-col-desktop {
+  @include for-tablet-landscape-up {
+    @include grid-2-col;
+  }
+}

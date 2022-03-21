@@ -3,8 +3,12 @@ html {
   color: $color-tertiary;
 }
 
-p {
+.p, p {
   font-size: $text-body;
+}
+
+.p--dark {
+  color: $color-primary;
 }
 
 .h1,h1 {

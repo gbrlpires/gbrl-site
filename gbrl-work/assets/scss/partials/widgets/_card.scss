@@ -1,36 +1,5 @@
-.grid-card {
-  @include grid-1-col;
-
-  @include for-tablet-landscape-up {
-    @include grid-2-col;
-  }
-
-  @include for-desktop-up {
-    @include grid-3-col;
-  }
-}
-
 .card__thumb {
   display: block;
   min-height: 250px;
   width: auto;
-}
-
-.card__content {
-  line-height: 1;
-  @include space-bottom-micro;
-  @include space-top-tiny;
-}
-
-.content__client {
-  @include space-bottom-micro;
-}
-
-.card__title {
-  line-height: 1.2;
-  @include space-bottom-micro;
-}
-
-.card__taxonomies {
-  @include flex-start-wrap;
 }

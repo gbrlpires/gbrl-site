@@ -1,0 +1,18 @@
+<div class="meta__content">
+  <h5 class="h5 meta__client">{{ .Params.client }}</h5>
+  <h4 class="h4 meta__title"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+</div>
+
+<div class="meta__taxonomies taxonomies__wrapper">
+  <ul class="taxonomies__list">
+  {{ range (.GetTerms "categories") }}
+    <li class="taxonomies__item">{{ partial "widgets/label.html" . }}</li>
+  {{ end }}
+  </ul>
+
+  <ul class="taxonomies__list">
+    {{ range (.GetTerms "colabs") }}
+    <li class="taxonomies__item">{{ partial "widgets/label.html" . }}</li>
+    {{ end }}
+  </ul>
+</div>

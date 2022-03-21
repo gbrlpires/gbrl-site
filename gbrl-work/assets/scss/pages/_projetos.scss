@@ -2,3 +2,47 @@
   @include space-top-tiny;
   @include space-bottom-tiny;
 }
+
+.grid-card {
+  @include grid-1-col;
+
+  @include for-tablet-landscape-up {
+    @include grid-2-col;
+  }
+
+  @include for-desktop-up {
+    @include grid-3-col;
+  }
+}
+
+.project {
+  @include space-top-medium;
+  @include space-bottom-large;
+}
+.project__hero {
+  position: relative;
+}
+
+.project__text {
+  @include space-top-tiny;
+  @include space-top-tiny;
+}
+
+.hero__title {
+  padding-left: 20px;
+  position: absolute;
+  bottom: 1.5em;
+}
+
+.hero__img {
+  height: 100vh;
+  width: auto;
+}
+
+.project__info {
+  @include grid-1-col;
+
+  @include for-tablet-landscape-up {
+    @include grid-2-col;
+  }
+}

@@ -1,33 +1,11 @@
-<section class="grid-card container">
-  {{ range .Pages }}
-    {{ $permalink := .Permalink }}
-    <article class="card container--compensation">
-      <figure class="card__thumb">
-        {{ with .Params.images }}
-        <a class="thumb__link" href="{{ $permalink }}">
-          <img class="thumb__img" src="{{ index . 0 }}" alt="#">
-        </a>
-        {{ end }}
-      </figure>
-      <div class="card__content">
-        <h5 class="h5 content__client">{{ .Params.client }}</h5>
-        <h4 class="h4 card__title"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
-      </div>
-
-      <div class="card__taxonomies taxonomies__wrapper">
-        <ul class="taxonomies__list">
-        {{ range (.GetTerms "categories") }}
-          <li class="taxonomies__item">{{ partial "widgets/label.html" . }}</li>
-        {{ end }}
-        </ul>
-
-        <ul class="taxonomies__list">
-          {{ range (.GetTerms "colabs") }}
-          <li class="taxonomies__item">{{ partial "widgets/label.html" . }}</li>
-          {{ end }}
-        </ul>
-      </div>
-
-    </article>
-  {{ end }}
-</section>
+{{ $permalink := .Permalink }}
+<article class="card container--compensation">
+  <figure class="card__thumb">
+    {{ with .Params.images }}
+    <a class="thumb__link" href="{{ $permalink }}">
+      <img class="thumb__img" src="{{ index . 0 }}" alt="#">
+    </a>
+    {{ end }}
+  </figure>
+  {{ partial "widgets/meta.html" . }}
+</article>
