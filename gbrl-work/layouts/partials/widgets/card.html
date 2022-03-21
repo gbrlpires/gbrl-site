@@ -17,13 +17,13 @@
       <div class="card__taxonomies taxonomies__wrapper">
         <ul class="taxonomies__list">
         {{ range (.GetTerms "categories") }}
-          <li class="taxonomies__item">{{ partial "label.html" . }}</li>
+          <li class="taxonomies__item">{{ partial "widgets/label.html" . }}</li>
         {{ end }}
         </ul>
 
         <ul class="taxonomies__list">
           {{ range (.GetTerms "colabs") }}
-          <li class="taxonomies__item">{{ partial "label.html" . }}</li>
+          <li class="taxonomies__item">{{ partial "widgets/label.html" . }}</li>
           {{ end }}
         </ul>
       </div>

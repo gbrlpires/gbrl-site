@@ -8,13 +8,15 @@
 @import 'base/_base.scss';
 @import 'base/_typography.scss';
 
-/* --- COMPONENTS --- */
-@import 'components/_nav.scss';
-@import 'components/_footer.scss';
-@import 'components/_links.scss';
-@import 'components/_label.scss';
-@import 'components/_taxonomies.scss';
-@import 'components/_card.scss';
+/* --- PARTIALS --- */
+/* core */
+@import 'partials/core/_footer.scss';
+@import 'partials/core/_nav.scss';
+
+/* widgets */
+@import 'partials/widgets/_label.scss';
+@import 'partials/widgets/_filter.scss';
+@import 'partials/widgets/_card.scss';
 
 /* --- PAGES --- */
 @import 'pages/_projetos.scss';

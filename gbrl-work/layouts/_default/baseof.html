@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="pt-br" dir="ltr">
-  {{ partial "head.html" . }}
+  {{ partial "core/head.html" . }}
 
 <body>
-  {{ partial "header.html" . }}
+  {{ partial "core/header.html" . }}
 
   {{ block "main" . }}
   {{ end }}
 
-  {{ partial "footer.html" . }}
+  {{ partial "core/footer.html" . }}
 </body>
 </html>
