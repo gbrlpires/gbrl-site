@@ -46,3 +46,12 @@
     @include grid-2-col;
   }
 }
+
+.project__gallery {
+  padding-top: 0.5em;
+}
+
+.gallery__img--full > img {
+  height: auto;
+  width: 100vw;
+}

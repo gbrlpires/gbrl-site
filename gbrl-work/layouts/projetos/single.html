@@ -1,25 +1,31 @@
 {{ define "main" }}
-<main class="project container">
-  <section class="project__hero">
-    <h1 class="h1 hero__title">{{ .Title }}</h1>
-    {{ with .Params.images }}
-    <div class="hero__img"
-      style="background: url('{{ index . 0 }}');
-             background-position: center;
-             background-repeat: no-repeat;
-             background-size: cover;"
-      alt="">
-    </div>
-    {{ end }}
-
-  </section>
-  <section class="project__info">
-    <div class="project__meta">
-      {{ partial "widgets/meta.html" . }}
-    </div>
-    <article class="project__text p--dark">
-      {{ .Content }}
-    </article>
-  </section>
-</main>
+  <main class="project container">
+    <section class="project__hero">
+      <h1 class="h1 hero__title">{{ .Title }}</h1>
+      {{ with .Params.images }}
+      <div class="hero__img"
+        style="background: url('{{ index . 0 }}');
+               background-position: center;
+               background-repeat: no-repeat;
+               background-size: cover;"
+        alt="">
+      </div>
+      {{ end }}
+    </section>
+    <section class="project__gallery">
+      {{ with .Resources.GetMatch "gallery.md"}}
+        {{ .Content }}
+      {{ end }}
+    </section>
+    <section class="project__info">
+      <div class="project__meta">
+        {{ partial "widgets/meta.html" . }}
+      </div>
+      <article class="project__text p--dark">
+        {{ .Content }}
+      </article>
+    </section>
+  </main>
+  <span class= "separator"></span>
+  {{ partial "widgets/filter.html" . }}
 {{ end }}

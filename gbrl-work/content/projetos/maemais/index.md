@@ -1,6 +1,6 @@
 ---
 name: maemais
-title: "Mãe & Mais Identidade Visual"
+title: "Mãe & Mais"
 categories:
   - marca
 colabs:
@@ -8,7 +8,7 @@ colabs:
 draft: false
 client: "Mãe & Mais"
 images:
-  - /projetos/maemais/images/06.png
+  - /projetos/maemais/images/default.png
 ---
 
 hahaiaaiahah

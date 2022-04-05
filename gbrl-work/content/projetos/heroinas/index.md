@@ -1,5 +1,4 @@
 ---
-name: heroinas
 title: "Heroínas Negras Brasileiras: em 15 cordéis"
 categories:
   - editorial

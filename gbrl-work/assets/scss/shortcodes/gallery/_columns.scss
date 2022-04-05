@@ -1,0 +1,29 @@
+.gallery--1-col {
+  padding: 0.5em 0 0.5em 0;
+
+  @include grid-1-col;
+}
+
+.gallery--2-col {
+  padding: 0.5em 0 0.5em 0;
+
+  @include grid-1-col;
+
+  @include for-tablet-landscape-up {
+    @include grid-2-col;
+  }
+}
+
+.gallery--3-col{
+  padding: 0.5em 0 0.5em 0;
+
+  @include grid-1-col;
+
+  @include for-tablet-up {
+    @include grid-2-col;    
+  }
+
+  @include for-desktop-up {
+    @include grid-3-col;
+  }
+}
