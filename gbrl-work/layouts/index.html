@@ -1,12 +1,26 @@
 {{ partial "core/head.html" . }}
 {{ partial "core/header.html" . }}
-
-  <section class="grid-card--2-col-desktop container">
+<main class="home container">
+  <section class="home__hero">
+    <h1 class="h1 hero__title">
+      gabriela pires <br>
+      design visual & <br>
+      ilustração
+    </h1>
+    <div class="hero__img"
+      style="background: url('default.jpg');
+             background-position: center;
+             background-repeat: no-repeat;
+             background-size: cover;"
+      alt="">
+    </div>
+  </section>
+  <section class="grid-card--2-col-desktop">
     {{ with .Site.GetPage "/projetos" }}
       {{ range .Pages }}
         {{ partial "widgets/card.html" . }}
       {{ end }}
     {{ end }}
   </section>
-
+</main>
 {{ partial "core/footer"}}

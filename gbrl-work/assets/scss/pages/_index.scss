@@ -1,5 +1,14 @@
 .grid-card--2-col-desktop {
+  @include space-top-tiny;
   @include for-tablet-landscape-up {
     @include grid-2-col;
   }
+}
+.home {
+  @include space-top-micro;
+  @include space-bottom-large;
+}
+
+.home__hero {
+  position: relative;
 }
