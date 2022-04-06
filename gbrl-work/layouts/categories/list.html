@@ -1,0 +1,5 @@
+{{ define "main" }}
+  {{ partial "widgets/filter.html" . }}
+  <h1 class="h1 h1--section-title container"> {{ .Title }}</h1>
+  {{ partial "taxonomies/taxonomy.html" . }}
+{{ end }}

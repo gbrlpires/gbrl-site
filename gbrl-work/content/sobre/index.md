@@ -1,5 +1,4 @@
 ---
-title: "sobre"
+title: sobre
 draft: false
-
 ---

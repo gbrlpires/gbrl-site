@@ -7,8 +7,8 @@
 
 .header__container {
   @include flex-space-between;
-  padding-top: 32px;
-  padding-bottom: 12px;
+  @include space-top-tiny;
+  @include space-bottom-tiny;
 }
 
 .nav__item {

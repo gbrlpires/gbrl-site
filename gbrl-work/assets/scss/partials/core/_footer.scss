@@ -1,5 +1,6 @@
 .footer {
-  padding-top: 32px;
+  @include space-top-tiny;
+  @include space-bottom-medium;
 }
 
 .footer__title,
