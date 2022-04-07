@@ -22,5 +22,28 @@
       {{ end }}
     {{ end }}
   </section>
+  <section class="home__res-about">
+    <span class="separator"></span>
+    <article class="res-about__wrapper">
+      <div class="res-about__content">
+        <h3 class="h3 res-about__title">sobre</h3>
+        {{ .Content }}
+        <div class="res-about__link">
+          <a href="sobre">leia mais</a>
+          <span class="link__decor-01">&#10154;</span>
+        </div>
+      </div>
+      <div class="img__wrapper">
+        <div class="res-about__img"
+          style="background: url('profile.png');
+                 background-position: center;
+                 background-repeat: no-repeat;
+                 background-size: cover;"
+          alt="">
+        </div>
+        <div class="img__credit">foto: guilherme vieira </div>
+      </div>
+    </article>
+  </section>
 </main>
 {{ partial "core/footer"}}

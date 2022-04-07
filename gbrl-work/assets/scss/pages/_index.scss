@@ -1,14 +1,61 @@
 .grid-card--2-col-desktop {
   @include space-top-tiny;
+  @include space-bottom-medium;
   @include for-tablet-landscape-up {
     @include grid-2-col;
   }
 }
+
 .home {
   @include space-top-micro;
-  @include space-bottom-large;
+  @include space-bottom-tiny;
 }
 
 .home__hero {
   position: relative;
+}
+
+.res-about__wrapper {
+  @include space-top-tiny;
+  @include for-desktop-up {
+    @include grid-2-col;
+  }
+}
+
+.res-about__title {
+  @include space-bottom-tiny;
+}
+
+.res-about__content > p {
+  color: $color-primary;
+}
+
+.res-about__link {
+  @include space-top-tiny;
+  @include space-bottom-tiny;
+}
+
+.res-about__link > a:hover {
+  text-decoration: underline;
+}
+
+.img__wrapper {
+  @include space-top-tiny;
+}
+
+.res-about__img {
+  min-height: 350px;
+
+  @include for-tablet-portrait-up {
+    min-height: 500px;
+  }
+  @include for-desktop-up {
+    min-height: 600px;
+  }
+}
+
+.img__credit {
+  font-size: 12px;
+  padding-top: 10px;
+  @include space-bottom-micro;
 }
