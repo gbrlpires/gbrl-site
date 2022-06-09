@@ -1,0 +1,8 @@
+<section class="tag-main__container">
+  <h3 class="tag-main__title h3">Notas divididas por tags, temas ou assuntos</h3>
+  <ul class="tag-main__list">
+    {{ range .Site.Taxonomies.tags.Alphabetical }}
+    <li class="tag-main__item">{{ partial "widgets/tag-item.html" . }}</li>
+    {{ end }}
+  </ul>
+</section>

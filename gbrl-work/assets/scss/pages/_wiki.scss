@@ -1,0 +1,40 @@
+.wiki__text {
+  @include space-top-tiny;
+  @include space-bottom-medium;
+}
+
+.wiki__text > p {
+  font-size: $text-body;
+  @include grid-1-col;
+
+  @include for-desktop-up {
+    @include grid-2-col;
+  }
+}
+
+.posts-list__container {
+  @include space-top-tiny;
+  @include space-bottom-medium;
+}
+
+.posts-list__title  {
+  color: $color-primary;
+}
+
+.posts-list {
+  @include space-top-tiny;
+  @include space-bottom-medium;
+}
+
+.posts-list__item {
+  font-size: 18px;
+  @include space-bottom-micro;
+}
+
+.item__link {
+  color: $color-primary;
+}
+
+.item__link--decoration {
+    text-decoration: underline;
+}

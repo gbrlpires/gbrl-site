@@ -1,0 +1,35 @@
+.tag-main__list {
+  @include space-top-tiny;
+  @include space-bottom-medium;
+
+  @include grid-1-col;
+
+  @include for-tablet-landscape-up {
+    @include grid-2-col;
+  }
+
+  @include for-desktop-up {
+    @include grid-4-col;
+  }
+}
+
+.tag-main__title {
+  color: $color-primary;
+}
+
+.tag-main__item {
+  text-align: center;
+  @include space-top-micro;
+  @include space-bottom-micro;
+  border: 1px solid $color-primary;
+}
+
+.tag-main__item a {
+  color: $color-primary;
+  text-transform: uppercase;
+  padding: 0 20%;
+}
+
+.tag-main__item:hover {
+  border: 1px solid $color-secondary;
+}

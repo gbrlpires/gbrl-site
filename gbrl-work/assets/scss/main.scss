@@ -18,10 +18,12 @@
 @import 'partials/widgets/_filter.scss';
 @import 'partials/widgets/_meta.scss';
 @import 'partials/widgets/_card.scss';
+@import 'partials/widgets/_tag-main.scss';
 
 /* --- PAGES --- */
 @import 'pages/_index.scss';
 @import 'pages/_projetos.scss';
+@import 'pages/_wiki.scss';
 
 /* --- SHORTCODES --- */
 @import 'shortcodes/gallery/_columns.scss';
