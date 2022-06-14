@@ -20,6 +20,11 @@
   @include space-bottom-tiny;
 }
 
+.nav__list {
+  font-size: $text-label;
+  list-style: none;
+}
+
 .nav__item {
   text-align: right;
   display: block;

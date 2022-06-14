@@ -11,8 +11,10 @@
 }
 
 .tag-aside__list {
-  @include flex-start-wrap;
+  font-size: $text-base;
+  list-style: none;
 
+  @include flex-start-wrap;
   @include for-tablet-landscape-up {
     display: inherit;
   }

@@ -9,6 +9,9 @@
 }
 
 .footer__list {
+  font-size: $text-label;
+  list-style: none;
+  
   @include flex-space-between;
   flex-direction: column;
 

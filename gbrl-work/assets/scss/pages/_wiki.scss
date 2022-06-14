@@ -22,12 +22,14 @@
 }
 
 .wiki-posts-list {
+  font-size: 20px;
+  list-style: none;
   @include space-top-tiny;
   @include space-bottom-medium;
 }
 
 .wiki-posts-list__item {
-  font-size: 20px;
+
   @include space-bottom-micro;
 }
 
@@ -63,12 +65,13 @@
 }
 
 .wiki-post__meta {
+  font-size: $text-base;
+  list-style: none;
   @include flex-start-wrap;
 }
 
 .wiki-post__meta > * {
   display: inline-block;
   padding-right: 20px;
-  font-size: $text-label;
 
 }

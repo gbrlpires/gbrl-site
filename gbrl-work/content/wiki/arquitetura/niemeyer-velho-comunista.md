@@ -18,6 +18,10 @@ Both lauded and criticized for being a "sculptor of monuments",[1] Niemeyer was 
 
 Niemeyer was educated at the Escola Nacional de Belas Artes at the Federal University of Rio de Janeiro, and after graduating, he worked at his father's typography house and as a draftsman for local architectural firms. In the 1930s, he interned with [Lúcio Costa](https://en.wikipedia.org/wiki/Oscar_Niemeyer), with the pair collaborating on the design for the Palácio Gustavo Capanema in Rio de Janeiro. Niemeyer's first major project was a series of buildings for Pampulha, a planned suburb north of Belo Horizonte. His work, especially on the Church of Saint Francis of Assisi, received critical acclaim and drew international attention. Throughout the 1940s and 1950s, Niemeyer became one of Brazil's most prolific architects, working both domestically and overseas. This included the design of the Edifício Copan (a large residential building in São Paulo) and a collaboration with Le Corbusier (and others) on the United Nations Headquarters, which yielded invitations to teach at Yale University and the Harvard Graduate School of Design.
 
+  + 300 projetos;
+  + 99 anos;
+  + milhões de reais em dinheiro.
+
 Fonte: [Wikipedia.org](https://en.wikipedia.org/wiki/Oscar_Niemeyer)
 
 {{< figure src="/wiki/arquitetura/images/Oscar_Niemeyer_1968b.jpg" caption="Brazilian architect Oscar Niemeyer (Oscar Ribeiro de Almeida Niemeyer Soares Filho) posing smiling in his studio. The Italian publisher Giorgio Mondadori has recently commissioned the architect to build the new headquarters of Gruppo Mondadori. Segrate, 1968 (Photo by Mondadori Portfolio via Getty Images)" >}}
