@@ -18,7 +18,8 @@
 }
 
 .footer__item {
-  padding: 16px 2em 16px 0;
+  @include space-top-micro;
+  @include space-bottom-tiny;
   line-height: 1.3;
 }
 
@@ -28,4 +29,13 @@
   color: $color-primary;
   vertical-align: baseline;
   border: none;
+
+  &:hover {
+    color: $color-primary;
+    border: none;
+  }
+}
+
+.footer__link:hover {
+  text-decoration: underline;
 }

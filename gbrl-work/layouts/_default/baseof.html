@@ -4,10 +4,10 @@
 
 <body>
   {{ partial "core/header.html" . }}
-
-  {{ block "main" . }}
-  {{ end }}
-
+  <div class="header--height-compensation">
+    {{ block "main" . }}
+    {{ end }}
+  </div>
   {{ partial "core/footer.html" . }}
 </body>
 </html>

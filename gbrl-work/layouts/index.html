@@ -1,49 +1,51 @@
 {{ partial "core/head.html" . }}
 {{ partial "core/header.html" . }}
-<main class="home container">
-  <section class="home__hero">
-    <h1 class="h1 hero__title">
-      gabriela pires <br>
-      design visual & <br>
-      ilustração
-    </h1>
-    <div class="hero__img"
-      style="background: url('default.jpg');
-             background-position: center;
-             background-repeat: no-repeat;
-             background-size: cover;"
-      alt="">
-    </div>
-  </section>
-  <section class="grid-card--2-col-desktop">
-    {{ with .Site.GetPage "/projetos" }}
-      {{ range .Pages }}
-        {{ partial "widgets/card.html" . }}
+<div class=" header--height-compensation">
+  <main class="home">
+    <section class="home__hero container">
+      <h1 class="h1 hero__title">
+        gabriela pires <br>
+        design visual & <br>
+        ilustração
+      </h1>
+      <div class="hero__img"
+        style="background: url('default.jpg');
+               background-position: center;
+               background-repeat: no-repeat;
+               background-size: cover;"
+        alt="">
+      </div>
+    </section>
+    <section class="grid-card--2-col-desktop container">
+      {{ with .Site.GetPage "/projetos" }}
+        {{ range .Pages }}
+          {{ partial "widgets/card.html" . }}
+        {{ end }}
       {{ end }}
-    {{ end }}
-  </section>
-  <section class="home__res-about">
+    </section>
     <span class="separator"></span>
-    <article class="res-about__wrapper">
-      <div class="res-about__content">
-        <h3 class="h3 res-about__title">sobre</h3>
-        {{ .Content }}
-        <div class="res-about__link">
-          <a href="sobre">leia mais</a>
-          <span class="text-icon">&#10154;</span>
+    <section class="home__res-about container">
+      <article class="res-about__wrapper">
+        <div class="res-about__content">
+          <h3 class="h3 res-about__title">sobre</h3>
+          {{ .Content }}
+          <div class="res-about__link">
+            <a href="sobre">leia mais</a>
+            <span class="text-icon">&#10154;</span>
+          </div>
         </div>
-      </div>
-      <div class="img__wrapper">
-        <div class="res-about__img"
-          style="background: url('profile.png');
-                 background-position: center;
-                 background-repeat: no-repeat;
-                 background-size: cover;"
-          alt="">
+        <div class="img__wrapper">
+          <div class="res-about__img"
+            style="background: url('profile.png');
+                   background-position: center;
+                   background-repeat: no-repeat;
+                   background-size: cover;"
+            alt="">
+          </div>
+          <div class="img__credit">foto: guilherme vieira </div>
         </div>
-        <div class="img__credit">foto: guilherme vieira </div>
-      </div>
-    </article>
-  </section>
-</main>
+      </article>
+    </section>
+  </main>
+</div>
 {{ partial "core/footer"}}

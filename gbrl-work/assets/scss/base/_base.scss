@@ -61,6 +61,13 @@ blockquote, .blockquote {
   padding: 0;
 }
 
+.header--height-compensation {
+  padding-top: 210px;
+  @include for-tablet-up {
+    padding-top: 90px;
+  }
+}
+
 .grid-col-span-2 {
   grid-column: span 2;
 }

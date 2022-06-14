@@ -50,6 +50,8 @@
 
 .wiki-post__container {
   @include grid-1-col;
+  @include space-top-tiny;
+  @include space-bottom-tiny;
   @include for-tablet-landscape-up {
     @include grid-3-col;
   }
