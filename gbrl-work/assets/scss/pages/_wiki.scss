@@ -22,14 +22,13 @@
 }
 
 .wiki-posts-list {
-  font-size: 20px;
-  list-style: none;
   @include space-top-tiny;
   @include space-bottom-medium;
 }
 
 .wiki-posts-list__item {
-
+  font-size: 20px;
+  list-style: none;
   @include space-bottom-micro;
 }
 

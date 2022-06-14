@@ -2,15 +2,13 @@
 title: "niemeyer velho comunista"
 draft: false
 tags:
-  - política
   - arquitetura
-  - arte
-  - dança
-  - raça
-  - coisas aleatórias
+
 ---
 
 Oscar Ribeiro de Almeida Niemeyer Soares Filho (December 15, 1907 – December 5, 2012), known as Oscar Niemeyer (Brazilian Portuguese: [ˈoskaʁ ni.eˈmajeʁ]), was a Brazilian architect considered to be one of the key figures in the development of modern architecture. Niemeyer was best known for his design of civic buildings for Brasília, a planned city that became [Brazil's](https://en.wikipedia.org/wiki/Oscar_Niemeyer) capital in 1960, as well as his collaboration with other architects on the headquarters of the United Nations in New York. His exploration of the aesthetic possibilities of reinforced concrete was highly influential in the late 20th and early 21st centuries.
+
+## velho rabugento
 
 Both lauded and criticized for being a "sculptor of monuments",[1] Niemeyer was hailed as a great artist and one of the greatest architects of his generation by his supporters.[2] He said his architecture was strongly influenced by Le Corbusier, but in an interview, assured that this "didn't prevent [his] architecture from going in a different direction".[3] Niemeyer was most famous for his use of abstract forms and curves and wrote in his memoirs:
 

@@ -2,9 +2,8 @@
   font-size: $text-base;
   vertical-align: baseline;
   border: none;
-}
 
-.tag-item__link:hover {
-  text-decoration: underline;
-  border: none;
+  &:hover {
+    border: none;
+  }
 }

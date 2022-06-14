@@ -29,6 +29,7 @@ ul, ol {
 }
 
 p {
+  @include space-top-micro;
   @include space-bottom-tiny;
 }
 

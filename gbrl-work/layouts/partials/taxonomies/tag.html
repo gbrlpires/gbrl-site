@@ -1,5 +1,7 @@
-<section class="grid-card container">
-  {{ range .Pages  }}
-    chamar aqui os posts por tag
+<ul class="wiki-posts-list container">
+  {{ range .Pages }}
+     <li class="wiki-posts-list__item">
+         <a class="item__link" href="{{.Permalink}}">{{ .Date.Format "2006-01-02" }} | <span class="item__link--decoration">{{ .Title }}</span></a>
+     </li>
   {{ end }}
-</section>
+</ul>

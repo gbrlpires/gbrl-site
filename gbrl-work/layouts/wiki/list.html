@@ -1,20 +1,14 @@
 {{ define "main" }}
-  <main class="wiki__container container">
+  <section class="wiki__container container">
     <h1 class="wiki__title h1">{{ .Title }}</h1>
     <article class="wiki__text">
       {{ .Content }}
     </article>
     {{ partial "widgets/tag-main.html" . }}
-
-    <section class="wiki-posts-list__container">
-    <h3 class="wiki-posts-list__title h3">Todas as notas</h3>
-    <ul class="wiki-posts-list">
-    {{ range .Pages }}
-       <li class="wiki-posts-list__item">
-           <a class="item__link" href="{{.Permalink}}">{{ .Date.Format "2006-01-02" }} | <span class="item__link--decoration">{{ .Title }}</span></a>
-       </li>
-    {{ end }}
-    </ul>
   </section>
-  </main>
+
+  <section class="wiki-posts-list__container">
+    <h3 class="wiki-posts-list__title h3 container">Todas as notas</h3>
+      {{ partial "taxonomies/tag.html" . }}
+  </section>
 {{ end }}
