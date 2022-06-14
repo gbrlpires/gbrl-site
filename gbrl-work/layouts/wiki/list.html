@@ -6,11 +6,11 @@
     </article>
     {{ partial "widgets/tag-main.html" . }}
 
-    <section class="posts-list__container">
-    <h3 class="posts-list__title h3">Todas as notas</h3>
-    <ul class="posts-list">
+    <section class="wiki-posts-list__container">
+    <h3 class="wiki-posts-list__title h3">Todas as notas</h3>
+    <ul class="wiki-posts-list">
     {{ range .Pages }}
-       <li class="posts-list__item">
+       <li class="wiki-posts-list__item">
            <a class="item__link" href="{{.Permalink}}">{{ .Date.Format "2006-01-02" }} | <span class="item__link--decoration">{{ .Title }}</span></a>
        </li>
     {{ end }}

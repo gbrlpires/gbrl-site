@@ -13,6 +13,13 @@
   @include space-bottom-micro;
 }
 
+.meta__title a {
+  font-size: inherit;
+  color: $color-tertiary;
+  vertical-align: baseline;
+  border: none;
+}
+
 .meta__taxonomies {
   @include flex-start-wrap;
 }

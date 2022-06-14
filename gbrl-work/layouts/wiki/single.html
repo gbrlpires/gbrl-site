@@ -1,0 +1,18 @@
+{{ define "main" }}
+<main class="wiki-post__container container">
+  <section class="wiki-post grid-col-span-2">
+    <h4 class="wiki-post__title h4">{{ .Title }}</h4>
+    <ul class="wiki-post__meta">
+      <li>{{ .Date.Format "2006-01-02" }}</li>
+      {{ range (.GetTerms "tags") }}
+      <span> · </span>
+      <li>{{ .Page.Title }}</li>
+      {{ end }}
+    </ul>
+    <article class="wiki-post__text">
+        {{ .Content }}
+    </article>
+  </section>
+  {{ partial "widgets/tag-aside.html" . }}
+</main>
+{{ end }}

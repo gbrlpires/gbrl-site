@@ -29,12 +29,21 @@
   padding-right: 0;
 }
 
-.logo,
+.home__link,
 .nav__link {
+  font-size: inherit;
   color: $color-primary;
+  border: none;
   transition: ease-in-out 0.1s;
 }
 
 .nav__link:hover {
   text-decoration: underline;
+  color: $color-primary;
+  border: none;
+}
+
+.home__link:hover {
+  border: none;
+  color: $color-primary;
 }

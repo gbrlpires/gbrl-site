@@ -34,9 +34,16 @@
   @include space-top-tiny;
   @include space-bottom-tiny;
 }
+.res-about__link > a {
+  font-size: $text-base;
+  color: $color-tertiary;
+  vertical-align: baseline;
+  border: none;
+}
 
 .res-about__link > a:hover {
   text-decoration: underline;
+  border: none;
 }
 
 .img__wrapper {

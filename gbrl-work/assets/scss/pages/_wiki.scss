@@ -12,29 +12,61 @@
   }
 }
 
-.posts-list__container {
+.wiki-posts-list__container {
   @include space-top-tiny;
   @include space-bottom-medium;
 }
 
-.posts-list__title  {
+.wiki-posts-list__title  {
   color: $color-primary;
 }
 
-.posts-list {
+.wiki-posts-list {
   @include space-top-tiny;
   @include space-bottom-medium;
 }
 
-.posts-list__item {
-  font-size: 18px;
+.wiki-posts-list__item {
+  font-size: 20px;
   @include space-bottom-micro;
 }
 
 .item__link {
   color: $color-primary;
+  vertical-align: baseline;
+  border: none;
+
+  &:hover {
+    border: none;
+  }
 }
 
 .item__link--decoration {
-    text-decoration: underline;
+    border-bottom: 3px solid $color-primary;
+    &:hover {
+      border-bottom: 3px solid $color-tertiary;
+    }
+}
+
+.wiki-post__container {
+  @include grid-1-col;
+  @include for-tablet-landscape-up {
+    @include grid-3-col;
+  }
+}
+
+.wiki-post__text {
+  @include space-top-medium;
+  @include space-bottom-medium;
+}
+
+.wiki-post__meta {
+  @include flex-start-wrap;
+}
+
+.wiki-post__meta > * {
+  display: inline-block;
+  padding-right: 20px;
+  font-size: $text-label;
+
 }

@@ -19,5 +19,10 @@
 .label__link {
   font-size: $text-label;
   color: $color-secondary;
+  vertical-align: baseline;
+  border: none;
+}
 
+.label__link:hover{
+  border: none;
 }

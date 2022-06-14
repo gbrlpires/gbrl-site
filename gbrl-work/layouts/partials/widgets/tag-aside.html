@@ -1,0 +1,8 @@
+<aside class="tag-aside__container">
+  <h3 class="tag-aside__title h3">Tags</h3>
+  <ul class="tag-aside__list">
+    {{ range .Site.Taxonomies.tags.Alphabetical }}
+    <li class="tag-aside__item">{{ partial "widgets/tag-item.html" . }}</li>
+    {{ end }}
+  </ul>
+</aside>
