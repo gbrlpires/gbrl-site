@@ -1,7 +1,6 @@
 .breadcrumb {
   list-style: none;
   text-transform: uppercase;
-  font-size: 20px;
 
   @include flex-start-wrap;
   @include space-top-tiny;
@@ -11,10 +10,12 @@
 .breadcrumb a {
   border: none;
   vertical-align: inherit;
+  font-size: 18px;
 }
 
 .breadcrumb li + li:before {
   content: ">";
   padding: 0.3rem;
+  font-size: 18px;
   color: $color-primary;
 }

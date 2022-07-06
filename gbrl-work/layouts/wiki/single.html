@@ -4,7 +4,7 @@
     <section class="wiki-post grid-col-span-2">
       <h2 class="wiki-post__title h2">{{ .Title }}</h2>
       <ul class="wiki-post__meta">
-        <li>{{ .Date.Format "2006-01-02" }}</li>
+        <li>{{ .PublishDate | time.Format "2006-01-02" }}</li>
         {{ range (.GetTerms "tags") }}
         <span> · </span>
         <li>{{ .Page.Title }}</li>
@@ -13,6 +13,9 @@
       <article class="wiki-post__text">
           {{ .Content }}
       </article>
+      <ul class="wiki-post__meta">
+          <li> Última atualização em: {{ .Lastmod | time.Format "02 Jan 06 15:04 MST" }}</li>
+      </ul>
     </section>
     {{ partial "widgets/tag-aside.html" . }}
   </main>
