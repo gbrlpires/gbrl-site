@@ -1,26 +1,10 @@
-<ol class="breadcrumb">
+<ol class="breadcrumb container">
   <li><a href="/">Home</a></li>
   {{ $rellink := "" }}
   {{ range (split .RelPermalink "/") }}
-    {{- if gt (len . ) 0 -}}
-      {{- if eq . "wiki" -}}
-      {{ $rellink = printf "%s/%s" $rellink "tags" }}
-        <li><a href="{{ $rellink }}">tags</a></li>
-      {{- else -}}
-        {{ $rellink = printf "%s/%s" $rellink . }}
-        <li><a href="{{ $rellink }}">{{ humanize . }}</a></li>
-      {{ end }}
+    {{ if gt (len . ) 0 -}}
+      {{ $rellink = printf "%s/%s" $rellink . }}
+      <li><a href="{{ $rellink }}">{{ humanize . }}</a></li>
     {{ end }}
   {{ end }}
-</ol>
-
-<ol class="breadcrumb">
-
-  {{ $rellink := split .RelPermalink "/" }}
-
-  <li><a href="/">Home</a></li>
-  <li><a href="/wiki">wiki</a></li>
-  <li><a href="/tags/{{ index $rellink 2 }}">{{ index $rellink 2 }}</a></li>
-  <li>{{ index $rellink 3 }}</li>
-
 </ol>

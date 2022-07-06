@@ -3,7 +3,6 @@ title: "niemeyer velho comunista"
 draft: false
 tags:
   - arquitetura
-  - política
 
 ---
 

@@ -1,7 +1,7 @@
 .breadcrumb {
   list-style: none;
   text-transform: uppercase;
-  font-size: $text-small;
+  font-size: 20px;
 
   @include flex-start-wrap;
   @include space-top-tiny;
