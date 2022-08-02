@@ -12,6 +12,7 @@
 /* core */
 @import 'partials/core/_footer.scss';
 @import 'partials/core/_nav.scss';
+@import 'partials/core/_post.scss';
 
 /* widgets */
 @import 'partials/widgets/_label.scss';
@@ -22,11 +23,14 @@
 @import 'partials/widgets/_tag-main.scss';
 @import 'partials/widgets/_tag-aside.scss';
 @import 'partials/widgets/_breadcrumb.scss';
+@import 'partials/widgets/_blog-card.scss';
 
 /* --- PAGES --- */
 @import 'pages/_index.scss';
 @import 'pages/_projetos.scss';
 @import 'pages/_wiki.scss';
+@import 'pages/_blog.scss';
+
 
 /* --- SHORTCODES --- */
 @import 'shortcodes/gallery/_columns.scss';

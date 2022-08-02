@@ -18,8 +18,7 @@
   flex-wrap: wrap;
 }
 
-// -- GRIDS
-
+// -- GRIDS --
 @mixin grid-1-col {
   display: grid;
   gap: 1em;

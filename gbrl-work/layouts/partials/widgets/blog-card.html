@@ -1,0 +1,26 @@
+{{ $permalink := .Permalink }}
+<div class="blog-card container--compensation">
+  <figure class="card__thumb card__thumb--blog">
+    {{ with .Params.images }}
+    <a class="thumb__link" href="{{ $permalink }}">
+      <div class="thumb__img thumb__img--blog"
+        style="background: url('{{ index . 0 }}');
+               background-position: center;
+               background-repeat: no-repeat;
+               background-size: cover;"
+        alt="">
+      </div>
+    </a>
+    {{ end }}
+  </figure>
+  <div class="blog-card__meta">
+    <p class="blog-card__date">
+      {{ .PublishDate | time.Format "02-01-2006" }}
+    </p>
+    <h2 class="blog-card__title">
+      <a class="blog-card__link" href="{{ $permalink }}">{{ .Title }}</a>
+    </h2>
+    <p class="blog-card__summary">{{ .Summary }}</p>
+    <a class="summary__read-more" href="{{ .RelPermalink }}">Leia + </a>
+  </div>
+</div>

@@ -1,6 +1,7 @@
 baseURL = "https://gbrl.work/"
 languageCode = "pt-br"
 title = "gbrlpires"
+summaryLength = 20
 
 [menu]
   [[menu.main]]

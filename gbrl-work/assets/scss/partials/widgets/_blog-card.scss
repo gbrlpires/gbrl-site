@@ -1,0 +1,54 @@
+.blog-card {
+  @include grid-1-col;
+
+  @include space-top-micro;
+  @include space-bottom-tiny;
+
+  @include for-tablet-landscape-up {
+    @include grid-3-col;
+    grid-template-areas:
+    "thumb blog-meta blog-meta";
+  }
+}
+
+.card__thumb--blog {
+  @include for-tablet-landscape-up {
+    grid-area: thumb
+  }
+}
+
+.blog-card__meta {
+  @include for-tablet-landscape-up {
+    grid-area: blog-meta
+  }
+}
+
+.blog-card__date {
+  font-size: 18px;
+  @include space-bottom-micro;
+}
+
+.blog-card__title {
+  line-height: 0.5;
+}
+
+.blog-card__summary {
+  @include space-bottom-micro;
+}
+
+.thumb__img--blog {
+  height: 100%;
+}
+
+.blog-card__link {
+  border-bottom: none;
+  color: var(--color-tertiary);
+
+  &:hover {
+    border-bottom: none;
+  }
+}
+
+.summary__read-more {
+  font-size: 16px;
+}

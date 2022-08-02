@@ -48,29 +48,3 @@
       border-bottom: 3px solid $color-tertiary;
     }
 }
-
-.wiki-post__container {
-  @include grid-1-col;
-  @include space-top-tiny;
-  @include space-bottom-tiny;
-  @include for-tablet-landscape-up {
-    @include grid-3-col;
-  }
-}
-
-.wiki-post__text {
-  @include space-top-medium;
-  @include space-bottom-medium;
-}
-
-.wiki-post__meta {
-  font-size: $text-base;
-  list-style: none;
-  @include flex-start-wrap;
-}
-
-.wiki-post__meta > * {
-  display: inline-block;
-  padding-right: 20px;
-
-}

@@ -1,0 +1,16 @@
+<section class="post grid-col-span-2">
+  <h2 class="post__title h2">{{ .Title }}</h2>
+  <ul class="post__meta">
+    <li>{{ .PublishDate | time.Format "02-01-2006" }}</li>
+    {{ range (.GetTerms "tags") }}
+    <span> · </span>
+    <li>{{ .Page.Title }}</li>
+    {{ end }}
+  </ul>
+  <article class="post__text">
+      {{ .Content }}
+  </article>
+  <ul class="post__meta">
+      <li> Última atualização em: {{ .Lastmod | time.Format "02 Jan 06" }}</li>
+  </ul>
+</section>

@@ -1,4 +1,3 @@
 ---
-title: "blog"
-draft: false
+title: Blog
 ---

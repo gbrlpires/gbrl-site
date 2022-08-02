@@ -1,0 +1,41 @@
+.post__container {
+  @include grid-1-col;
+  @include space-top-tiny;
+  @include space-bottom-tiny;
+  @include for-tablet-landscape-up {
+    @include grid-3-col;
+  }
+}
+
+.post__meta {
+  font-size: $text-base;
+  list-style: none;
+  @include flex-start-wrap;
+}
+
+.post__meta > * {
+  display: inline-block;
+  padding-right: 20px;
+}
+
+.post__text {
+  @include space-top-medium;
+  @include space-bottom-medium;
+}
+
+.item__link {
+  color: $color-primary;
+  vertical-align: baseline;
+  border: none;
+
+  &:hover {
+    border: none;
+  }
+}
+
+.item__link--decoration {
+    border-bottom: 3px solid $color-primary;
+    &:hover {
+      border-bottom: 3px solid $color-tertiary;
+    }
+}

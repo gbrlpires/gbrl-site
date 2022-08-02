@@ -1,0 +1,13 @@
+{{ define "main" }}
+  <main class="blog__container container">
+    <h1 class="blog__title h1">{{ .Title }}</h1>
+    <section class="blog-posts-list__container">
+      {{ with .Site.GetPage "/blog" }}
+        {{ range .Pages }}
+          {{ partial "widgets/blog-card.html" . }}
+        {{ end }}
+      {{ end }}      
+    </section>
+  </main>
+
+{{ end }}
