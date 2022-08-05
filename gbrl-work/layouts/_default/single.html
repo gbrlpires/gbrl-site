@@ -1,3 +1,10 @@
 {{ define "main" }}
- <p>single</p>
+  <main class="sobre__container container">
+    <section class="post grid-col-span-2">
+      <h2 class="post__title h1">{{ .Title }}</h2>
+      <article class="post__text">
+          {{ .Content }}
+      </article>
+    </section>
+  </main>
 {{ end }}

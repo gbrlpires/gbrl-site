@@ -1,21 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://gbrl.work/blog/</loc>
-  </url>
-  
-  <url>
-    <loc>https://gbrl.work/categories/</loc>
-  </url>
-  
-  <url>
+    <loc>https://gbrl.work/wiki/cultura-negra/</loc>
+    <lastmod>2022-07-06T18:30:50-03:00</lastmod>
+  </url><url>
     <loc>https://gbrl.work/</loc>
-  </url>
-  
-  <url>
+    <lastmod>2022-07-06T18:30:50-03:00</lastmod>
+  </url><url>
+    <loc>https://gbrl.work/tags/negritude/</loc>
+    <lastmod>2022-07-06T18:30:50-03:00</lastmod>
+  </url><url>
     <loc>https://gbrl.work/tags/</loc>
+    <lastmod>2022-07-06T18:30:50-03:00</lastmod>
+  </url><url>
+    <loc>https://gbrl.work/wiki/</loc>
+    <lastmod>2022-07-06T18:30:50-03:00</lastmod>
+  </url><url>
+    <loc>https://gbrl.work/wiki/afrofuturismo/</loc>
+  </url><url>
+    <loc>https://gbrl.work/tags/arquitetura/</loc>
+  </url><url>
+    <loc>https://gbrl.work/blog/</loc>
+  </url><url>
+    <loc>https://gbrl.work/categories/</loc>
+  </url><url>
+    <loc>https://gbrl.work/colabs/</loc>
+  </url><url>
+    <loc>https://gbrl.work/projetos/sobrinho/</loc>
+  </url><url>
+    <loc>https://gbrl.work/colabs/da%C3%B3/</loc>
+  </url><url>
+    <loc>https://gbrl.work/categories/editorial/</loc>
+  </url><url>
+    <loc>https://gbrl.work/gbrlpires/</loc>
+  </url><url>
+    <loc>https://gbrl.work/projetos/heroinas/</loc>
+  </url><url>
+    <loc>https://gbrl.work/tags/hist%C3%B3ria/</loc>
+  </url><url>
+    <loc>https://gbrl.work/categories/ilustra%C3%A7%C3%A3o/</loc>
+  </url><url>
+    <loc>https://gbrl.work/tags/literatura/</loc>
+  </url><url>
+    <loc>https://gbrl.work/categories/marca/</loc>
+  </url><url>
+    <loc>https://gbrl.work/blog/miltinho/</loc>
+  </url><url>
+    <loc>https://gbrl.work/wiki/modernismo/</loc>
+  </url><url>
+    <loc>https://gbrl.work/projetos/maemais/</loc>
+  </url><url>
+    <loc>https://gbrl.work/wiki/niemeyer-velho-comunista/</loc>
+  </url><url>
+    <loc>https://gbrl.work/tags/pol%C3%ADtica/</loc>
+  </url><url>
+    <loc>https://gbrl.work/wiki/politica-e-arquitetura/</loc>
+  </url><url>
+    <loc>https://gbrl.work/projetos/</loc>
+  </url><url>
+    <loc>https://gbrl.work/blog/fone-de-ouvido/</loc>
+  </url><url>
+    <loc>https://gbrl.work/sobre/</loc>
+  </url><url>
+    <loc>https://gbrl.work/projetos/transpassar/</loc>
   </url>
-  
 </urlset>
