@@ -16,12 +16,8 @@
 }
 
 .project {
-  @include space-top-medium;
+  @include space-top-micro;
   @include space-bottom-large;
-}
-
-.project__hero {
-  position: relative;
 }
 
 .project__text {
@@ -29,15 +25,18 @@
   @include space-top-tiny;
 }
 
+.hero__img {
+  height: 88vh;
+  width: auto;
+  position: relative;
+  opacity: 0.7;
+}
+
 .hero__title {
   padding-left: 20px;
   position: absolute;
   bottom: 1.5em;
-}
-
-.hero__img {
-  height: 100vh;
-  width: auto;
+  z-index: 1;
 }
 
 .project__info {
