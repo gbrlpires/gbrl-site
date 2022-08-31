@@ -7,19 +7,19 @@ tags:
  - linux
 ---
 
-##### Atualiza Repositórios/Instala atualizações
-`sudo apt-get update`
+### Atualiza Repositórios/Instala atualizações
+```
+sudo apt-get update
+apt-get upgrade
+```
 
-`apt-get upgrade`
-
-##### Deleta kernels não usados
+### Deleta kernels não usados
 Uso esse especialmente para o PopOS
 
-`apt autoremove`
-
-`dpkg --list | grep linux-image
-
-`sudo apt remove --purge linux-image-[versão]-generic`
-
+```
+apt autoremove
+dpkg --list | grep linux-image
+sudo apt remove --purge linux-image-[versão]-generic
+```
 
 Obs. Das últimas vezes usar o Synaptic teve um resultado melhor pra visualizar o que não estava sendo usado
