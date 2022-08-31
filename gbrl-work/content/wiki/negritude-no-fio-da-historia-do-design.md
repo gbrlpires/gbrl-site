@@ -16,9 +16,11 @@ tags:
 - Por uma educação que interesse aos negros, Diane Lima
 - História Mundial do Design, Victor Margolin
 
+
 ### Pessoas
 - Francisco de Paula Brito | editor, tipógrafo (séc XIX)
 - Irmãos Rebouças | 
+
 
 ### Anotações
 
