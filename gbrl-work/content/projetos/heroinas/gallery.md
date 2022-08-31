@@ -14,3 +14,12 @@ headless: true
   {{< figure class="gallery__img--full" src="/projetos/heroinas/images/heroinas-03.png" >}}
   {{< figure class="gallery__img--full" src="/projetos/heroinas/images/heroinas-03.png" >}}
 {{< /gallery/columns >}}
+
+Ilustrações
+
+{{< gallery/columns class="gallery--3-col" >}}
+  {{< figure src="/projetos/heroinas/images/AntonietaBarros.jpg" >}}
+  {{< figure src="/projetos/heroinas/images/Aqualtune.jpg" >}}
+  {{< figure src="/projetos/heroinas/images/Carolina.jpg" >}}
+  {{< figure src="/projetos/heroinas/images/Dandara.jpg" >}}
+{{< /gallery/columns >}}
