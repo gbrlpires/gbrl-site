@@ -5,13 +5,14 @@
 
 .footer__title,
 .footer__info {
+  font-family: geomanist-medium;
   color: $color-primary;
 }
 
 .footer__list {
   font-size: $text-label;
   list-style: none;
-  
+
   @include flex-space-between;
   flex-direction: column;
 
