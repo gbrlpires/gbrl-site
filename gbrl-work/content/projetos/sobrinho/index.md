@@ -8,7 +8,5 @@ colabs:
 draft: false
 client: Coletivo Sobrinho
 images:
-  - /projetos/sobrinho/images/05.png
+  - /projetos/sobrinho/images/default.webp
 ---
-
-o cacete de agulha

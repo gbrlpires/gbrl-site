@@ -1,14 +1,14 @@
 ---
 name: maemais
-title: "Mãe & Mais"
+title: "Mãe&Mais"
 categories:
   - marca
 colabs:
   - daó
 draft: false
-client: "Mãe & Mais"
+client: "Mãe&Mais"
 images:
-  - /projetos/maemais/images/default.png
+  - /projetos/maemais/images/default.webp
 ---
 
 ### Contexto

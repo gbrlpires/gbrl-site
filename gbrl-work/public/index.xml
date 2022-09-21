@@ -51,7 +51,7 @@ apt autoremove dpkg --list | grep linux-image sudo apt remove --purge linux-imag
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://joyful-lily-300459.netlify.app/projetos/sobrinho/</guid>
-      <description>o cacete de agulha</description>
+      <description></description>
     </item>
     
     <item>
@@ -73,7 +73,7 @@ apt autoremove dpkg --list | grep linux-image sudo apt remove --purge linux-imag
     </item>
     
     <item>
-      <title>Mãe &amp; Mais</title>
+      <title>Mãe&amp;Mais</title>
       <link>https://joyful-lily-300459.netlify.app/projetos/maemais/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -119,12 +119,12 @@ Condutores dinâmicos personalizados de 40 mm de tamanho superior produzem áudi
     </item>
     
     <item>
-      <title>transpassar-gallery</title>
-      <link>https://joyful-lily-300459.netlify.app/projetos/transpassar/gallery/</link>
+      <title>Transpassar: poética em movimento pelas ruas de São Paulo</title>
+      <link>https://joyful-lily-300459.netlify.app/projetos/transpassar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://joyful-lily-300459.netlify.app/projetos/transpassar/gallery/</guid>
-      <description>                                   </description>
+      <guid>https://joyful-lily-300459.netlify.app/projetos/transpassar/</guid>
+      <description>CONTEXTO Trata-se de uma antologia de poemas – muitos dos quais inéditos – sobre as ruas de São Paulo, criados por representantes de várias gerações: uns em atividade, outros que escreveram décadas atrás e alguns que acabaram de publicar seu primeiro livro.</description>
     </item>
     
     <item>
