@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blog on gbrlpires</title>
-    <link>https://gbrl.work/blog/</link>
+    <link>https://joyful-lily-300459.netlify.app/blog/</link>
     <description>Recent content in blog on gbrlpires</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language><atom:link href="https://gbrl.work/blog/index.xml" rel="self" type="application/rss+xml" />
+    <language>pt-br</language><atom:link href="https://joyful-lily-300459.netlify.app/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Miltinho</title>
-      <link>https://gbrl.work/blog/miltinho/</link>
+      <link>https://joyful-lily-300459.netlify.app/blog/miltinho/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gbrl.work/blog/miltinho/</guid>
+      <guid>https://joyful-lily-300459.netlify.app/blog/miltinho/</guid>
       <description>Bicho bonito da porra</description>
     </item>
     
     <item>
       <title>Review fone de ouvido</title>
-      <link>https://gbrl.work/blog/fone-de-ouvido/</link>
+      <link>https://joyful-lily-300459.netlify.app/blog/fone-de-ouvido/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gbrl.work/blog/fone-de-ouvido/</guid>
+      <guid>https://joyful-lily-300459.netlify.app/blog/fone-de-ouvido/</guid>
       <description>Certificação Hi-Res
 Condutores dinâmicos personalizados de 40 mm de tamanho superior produzem áudio de alta resolução - uma certificação atribuída apenas a dispositivos áudio capazes de produzir um som excepcional.</description>
     </item>

@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on gbrlpires</title>
-    <link>https://gbrl.work/categories/</link>
+    <link>https://joyful-lily-300459.netlify.app/categories/</link>
     <description>Recent content in Categories on gbrlpires</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language><atom:link href="https://gbrl.work/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>pt-br</language><atom:link href="https://joyful-lily-300459.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>editorial</title>
-      <link>https://gbrl.work/categories/editorial/</link>
+      <link>https://joyful-lily-300459.netlify.app/categories/editorial/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gbrl.work/categories/editorial/</guid>
+      <guid>https://joyful-lily-300459.netlify.app/categories/editorial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ilustração</title>
-      <link>https://gbrl.work/categories/ilustra%C3%A7%C3%A3o/</link>
+      <link>https://joyful-lily-300459.netlify.app/categories/ilustra%C3%A7%C3%A3o/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gbrl.work/categories/ilustra%C3%A7%C3%A3o/</guid>
+      <guid>https://joyful-lily-300459.netlify.app/categories/ilustra%C3%A7%C3%A3o/</guid>
       <description></description>
     </item>
     
     <item>
       <title>marca</title>
-      <link>https://gbrl.work/categories/marca/</link>
+      <link>https://joyful-lily-300459.netlify.app/categories/marca/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gbrl.work/categories/marca/</guid>
+      <guid>https://joyful-lily-300459.netlify.app/categories/marca/</guid>
       <description></description>
     </item>
     

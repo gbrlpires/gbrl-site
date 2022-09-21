@@ -2,35 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>projetos on gbrlpires</title>
-    <link>https://gbrl.work/projetos/</link>
+    <link>https://joyful-lily-300459.netlify.app/projetos/</link>
     <description>Recent content in projetos on gbrlpires</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language><atom:link href="https://gbrl.work/projetos/index.xml" rel="self" type="application/rss+xml" />
+    <language>pt-br</language><atom:link href="https://joyful-lily-300459.netlify.app/projetos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coletivo Sobrinho de Apoio Escolar</title>
-      <link>https://gbrl.work/projetos/sobrinho/</link>
+      <link>https://joyful-lily-300459.netlify.app/projetos/sobrinho/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gbrl.work/projetos/sobrinho/</guid>
+      <guid>https://joyful-lily-300459.netlify.app/projetos/sobrinho/</guid>
       <description>o cacete de agulha</description>
     </item>
     
     <item>
       <title>Heroínas Negras Brasileiras: em 15 cordéis</title>
-      <link>https://gbrl.work/projetos/heroinas/</link>
+      <link>https://joyful-lily-300459.netlify.app/projetos/heroinas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gbrl.work/projetos/heroinas/</guid>
+      <guid>https://joyful-lily-300459.netlify.app/projetos/heroinas/</guid>
       <description>Projeto editorial, ilustrações e diagramação do livro Heroínas Negras Brasileiras: Em 15 Cordéis. Autoria de Jarid Arraes e lançado em junho de 2017 pela editora Pólen.</description>
     </item>
     
     <item>
       <title>Mãe &amp; Mais</title>
-      <link>https://gbrl.work/projetos/maemais/</link>
+      <link>https://joyful-lily-300459.netlify.app/projetos/maemais/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gbrl.work/projetos/maemais/</guid>
-      <description>hahaiaaiahah</description>
+      <guid>https://joyful-lily-300459.netlify.app/projetos/maemais/</guid>
+      <description>Contexto O Mãe&amp;amp;Mais é um negócio social que leva serviços e informações de saúde de modo acessível, confortável e confiável para mulheres-mães e crianças na primeira infância que vivem em territórios populares do Rio de Janeiro e buscam bem-estar e dignidade no atendimento.</description>
+    </item>
+    
+    <item>
+      <title>Projetos compilados para Editora Taverna</title>
+      <link>https://joyful-lily-300459.netlify.app/projetos/taverna/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://joyful-lily-300459.netlify.app/projetos/taverna/</guid>
+      <description>Projeto editorial, ilustrações e diagramação do livro Heroínas Negras Brasileiras: Em 15 Cordéis. Autoria de Jarid Arraes e lançado em junho de 2017 pela editora Pólen.</description>
+    </item>
+    
+    <item>
+      <title>Vozes Negras</title>
+      <link>https://joyful-lily-300459.netlify.app/projetos/vozesnegras/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://joyful-lily-300459.netlify.app/projetos/vozesnegras/</guid>
+      <description>Projeto editorial, ilustrações e diagramação do livro Heroínas Negras Brasileiras: Em 15 Cordéis. Autoria de Jarid Arraes e lançado em junho de 2017 pela editora Pólen.</description>
     </item>
     
   </channel>

@@ -2,53 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on gbrlpires</title>
-    <link>https://gbrl.work/tags/</link>
+    <link>https://joyful-lily-300459.netlify.app/tags/</link>
     <description>Recent content in Tags on gbrlpires</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Wed, 06 Jul 2022 18:30:50 -0300</lastBuildDate><atom:link href="https://gbrl.work/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Aug 2022 19:45:23 -0300</lastBuildDate><atom:link href="https://joyful-lily-300459.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>negritude</title>
-      <link>https://gbrl.work/tags/negritude/</link>
-      <pubDate>Wed, 06 Jul 2022 18:30:50 -0300</pubDate>
+      <title>design</title>
+      <link>https://joyful-lily-300459.netlify.app/tags/design/</link>
+      <pubDate>Wed, 31 Aug 2022 19:45:23 -0300</pubDate>
       
-      <guid>https://gbrl.work/tags/negritude/</guid>
+      <guid>https://joyful-lily-300459.netlify.app/tags/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://joyful-lily-300459.netlify.app/tags/linux/</link>
+      <pubDate>Wed, 31 Aug 2022 17:19:19 -0300</pubDate>
+      
+      <guid>https://joyful-lily-300459.netlify.app/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tecnologia</title>
+      <link>https://joyful-lily-300459.netlify.app/tags/tecnologia/</link>
+      <pubDate>Wed, 31 Aug 2022 17:19:19 -0300</pubDate>
+      
+      <guid>https://joyful-lily-300459.netlify.app/tags/tecnologia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>editorial</title>
+      <link>https://joyful-lily-300459.netlify.app/tags/editorial/</link>
+      <pubDate>Fri, 12 Aug 2022 17:05:39 -0300</pubDate>
+      
+      <guid>https://joyful-lily-300459.netlify.app/tags/editorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>referências</title>
+      <link>https://joyful-lily-300459.netlify.app/tags/refer%C3%AAncias/</link>
+      <pubDate>Fri, 12 Aug 2022 17:05:39 -0300</pubDate>
+      
+      <guid>https://joyful-lily-300459.netlify.app/tags/refer%C3%AAncias/</guid>
       <description></description>
     </item>
     
     <item>
       <title>arquitetura</title>
-      <link>https://gbrl.work/tags/arquitetura/</link>
+      <link>https://joyful-lily-300459.netlify.app/tags/arquitetura/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gbrl.work/tags/arquitetura/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>história</title>
-      <link>https://gbrl.work/tags/hist%C3%B3ria/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gbrl.work/tags/hist%C3%B3ria/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>literatura</title>
-      <link>https://gbrl.work/tags/literatura/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gbrl.work/tags/literatura/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>política</title>
-      <link>https://gbrl.work/tags/pol%C3%ADtica/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gbrl.work/tags/pol%C3%ADtica/</guid>
+      <guid>https://joyful-lily-300459.netlify.app/tags/arquitetura/</guid>
       <description></description>
     </item>
     
