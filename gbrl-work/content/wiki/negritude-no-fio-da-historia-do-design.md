@@ -22,6 +22,9 @@ tags:
 - Fly in the Buttermilk, Archie Boston
 - Lil' Colored Rascals in the Sunshine City, Archie Boston
 - Black on visual arts, Paul Rand
+- Um pecado de omissão - Guilherme Ribeiro
+- [The Black Experience in Graphic Design - Dorothy Jackson na Print Magazine (1968)](https://www.printmag.com/design-culture/the-black-experience-1968/)
+- The Black Experience in Design - Identity Expression & Reflection (2022) 
 
 ### Pessoas
 - Francisco de Paula Brito | editor, tipógrafo (séc XIX)
@@ -34,7 +37,7 @@ tags:
 - Aaron Douglas, designer estadunidense
 - Thomas Miller, designer estadunidense
 - Gail Anderson, designer estadunidense
-
+- Dorothy Hayes, designer estadunidense
 
 ### Anotações
 #### Aula 0
@@ -110,6 +113,50 @@ A carreira de Archie Boston foi amplamente documentada mas a de seu irmão se pe
 
 Trabalhou com a Pentel, Motorola e Yamaha
 
-##### Sylvia Harris
+##### Sylvia Harris (1953-2011)
 
 Designer estadunidense com foco em sinalização.
+
+#### Aula 3 - The Black Experience in Design
+
+Matéria na Print Magazine
+[The Black Experience in Graphic Design - Dorothy Jackson na Print Magazine (1968)](https://www.printmag.com/design-culture/the-black-experience-1968/)
+
+##### Dorothy Hayes
+Ela é conhecida por organizar "Artistas Negros em Comunicação Gráfica" ao lado de Joyce Hopkins.
+
+{{< figure src="#" alt="#" caption="Cartaz de promocão da organização Black Artist in Graphic Communication" >}}
+
+Outros designers citados na matéria:
++ Dorothy Akubuiro
++ Bill Howell
++ Alex Walker
++ William Wacasey
+
+##### Louise E. Jefferson
+Contexto da queda da bolsa de 29
+{{< figure src="#" alt="#" caption="Fotografia Alabama Boy" >}}
+
+{{< figure src="#" alt="#" caption="Capa do livroThe story of The American Negro" >}}
+
+{{< figure src="#" alt="#" caption="Capa do livro The Decorative arts of Africa - autoria de Louise Jefferson" >}}
+
++ Michele Y. Washington
++ [Gail Anderson](www.gailycurl.com)
++ Thomas Miller
++ Aaron Douglas
++ Emory Douglas
++ Eddie Opara
+
+#### Continente Africano
++ David Adjaye (arquitetura, Tanzânia)
+
+#### América
++ René Azcuy (Cuba)
++ Rodrigo Bleque (Brasil)
++ Marconi Lima
+
+
+
+
+
