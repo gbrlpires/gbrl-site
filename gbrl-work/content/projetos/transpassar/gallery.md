@@ -1,10 +1,10 @@
 ---
-title: maemais-gallery
+title: transpassar-gallery
 headless: true
 ---
 
 {{< gallery/columns class="gallery--1-col" >}}
-  {{< figure class="gallery__img--full" src="/projetos/maemais/images/maemais-01.webp" >}}
+  {{< figure class="gallery__img--full" src="/projetos/transpassar/images/maemais-01.webp" >}}
 {{< /gallery/columns >}}
 
 {{< gallery/columns class="gallery--1-col" >}}

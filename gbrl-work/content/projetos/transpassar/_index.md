@@ -8,7 +8,6 @@ colabs:
 draft: false
 client: SESI Editora
 images:
-  - /projetos/transpassar/images/02.jpg
   - /projetos/transpassar/images/default.jpg
 ---
 

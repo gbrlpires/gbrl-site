@@ -1,5 +1,5 @@
 ---
-title: home
+title: design visual e ilustração
 draft: false
 ---
 
