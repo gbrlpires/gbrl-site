@@ -25,6 +25,7 @@ tags:
 - Um pecado de omissão - Guilherme Ribeiro
 - [The Black Experience in Graphic Design - Dorothy Jackson na Print Magazine (1968)](https://www.printmag.com/design-culture/the-black-experience-1968/)
 - The Black Experience in Design - Identity Expression & Reflection (2022) 
+- Afrikan Alphabets - The story of writing in Afrika, Saki Mafundikwa
 
 ### Pessoas
 - Francisco de Paula Brito | editor, tipógrafo (séc XIX)
@@ -150,12 +151,22 @@ Contexto da queda da bolsa de 29
 
 #### Continente Africano
 + David Adjaye (arquitetura, Tanzânia)
++ Diébedo Francis Keré (arquitetura)
++ Emilly & Martha Masanabo (África do Sul)
 
 #### América
 + René Azcuy (Cuba)
 + Rodrigo Bleque (Brasil)
-+ Marconi Lima
++ Marconi Lima (Brasil)
 
+
+#### Aula 4 - Economia Criativa no Brasil
+
+##### Saki Mafundiwa (Zimbábue) - Tipografia, fundador e diretor do Instituto de Artes Vigitais do Zimbábue (ZIVA). Pesquisador da escrita Nsibidi (da região da Nigéria) e de outras escritas do continente africano.
+
+{{< figure src="#" alt="#" caption="imagem do livro" >}}
+
+{{< youtube gIbIewxHQrk title="TED Talk: Saki Mafundikwa: Criatividade e elegância nos alfabetos africanos antigos  >}}
 
 
 
