@@ -26,6 +26,8 @@ tags:
 - [The Black Experience in Graphic Design - Dorothy Jackson na Print Magazine (1968)](https://www.printmag.com/design-culture/the-black-experience-1968/)
 - The Black Experience in Design - Identity Expression & Reflection (2022) 
 - Afrikan Alphabets - The story of writing in Afrika, Saki Mafundikwa
+- Nations Nègres et Culture, Sheik Anta Diop
+- Something, Virgil Abloh
 
 ### Pessoas
 - Francisco de Paula Brito | editor, tipógrafo (séc XIX)
@@ -153,6 +155,8 @@ Contexto da queda da bolsa de 29
 + David Adjaye (arquitetura, Tanzânia)
 + Diébedo Francis Keré (arquitetura)
 + Emilly & Martha Masanabo (África do Sul)
++ Esther Mahlangu (África do Sul) 
++ Festival Bogo Ja (Bamao, Mali) 
 
 #### América
 + René Azcuy (Cuba)
@@ -160,14 +164,52 @@ Contexto da queda da bolsa de 29
 + Marconi Lima (Brasil)
 
 
-#### Aula 4 - Economia Criativa no Brasil
-
+#### Destaques
 ##### Saki Mafundiwa (Zimbábue) - Tipografia, fundador e diretor do Instituto de Artes Vigitais do Zimbábue (ZIVA). Pesquisador da escrita Nsibidi (da região da Nigéria) e de outras escritas do continente africano.
 
 {{< figure src="#" alt="#" caption="imagem do livro" >}}
 
-{{< youtube gIbIewxHQrk title="TED Talk: Saki Mafundikwa: Criatividade e elegância nos alfabetos africanos antigos  >}}
+{{< youtube id="gIbIewxHQrk" title="TED Talk: Saki Mafundikwa: Criatividade e elegância nos alfabetos africanos antigos" >}}
 
+##### Émilie Aurat (Africa do Sul) Tipografia
 
+{{< figure src="#" alt="#" caption="trabalhos da emilie" >}}
 
+##### Samuel Mensah (Gana) - The Museum of Youth
+{{< figure src="#" alt="#" caption="trabalhos de Samuel" >}}
+
+##### Amos Kennedy Jr. (EUA) - Tipografia
+{{< figure src="#" alt="#" caption="trabalhos do Amos" >}}
+
+##### Lagos Fashion Week (Nigéria) 
+{{< figure src="#" alt="#" caption="trabalhos do Amos" >}}
+
+##### Ozwald Boateng (Gana) - Designer de Moda
+{{< figure src="#" alt="#" caption="trabalhos do Ozwald" >}}
+
+##### Kanye West/Yeezy (EUA) - Domda Creative Agency 
+{{< figure src="#" alt="#" caption="trabalhos do KW" >}}
+
+##### Virgil Abloh (EUA) - Multi designer 
+{{< figure src="#" alt="#" caption="trabalhos do Virgil " >}}
+
+##### Heron Preston (EUA) 
+{{< figure src="#" alt="#" caption="trabalhos do Heron " >}}
+
+##### Wales Bonner (Africa?) Designer de Moda
+{{< figure src="#" alt="#" caption="trabalhos do Wales " >}}
+
+##### Emanuel Araújo (Brasil) Artista, curador
+{{< figure src="#" alt="#" caption="trabalhos do Emanuel " >}}
+
+##### Meste Didi (Brasil) Artista
+{{< figure src="#" alt="#" caption="trabalhos do Mestre Didi" >}}
+
+##### Abdias Nascimento (Brasil) Artista
+{{< figure src="#" alt="#" caption="trabalhos do Abdias" >}}
+
+##### Thiago de Paula Souza, Diane Lima e Beatriz Lemos (Brasil) Artistas e Curadories
+{{< figure src="#" alt="#" caption="trabalhos do trio" >}}
+
+#### Aula 4 - Economia Criativa no Brasil
 
