@@ -27,3 +27,17 @@
     @include grid-3-col;
   }
 }
+
+.gallery--4-col {
+  padding: 0.5em 0 0.5em 0;
+
+  @include grid-1-col;
+
+  @include for-tablet-landscape-up {
+    @include grid-2-col;
+  }
+
+  @include for-desktop-up {
+    @include grid-4-col;
+  }
+}

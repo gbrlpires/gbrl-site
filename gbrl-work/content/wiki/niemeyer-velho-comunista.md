@@ -1,6 +1,6 @@
 ---
 title: "niemeyer velho comunista"
-draft: false
+draft: true
 tags:
   - arquitetura
 

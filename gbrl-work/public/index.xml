@@ -13,7 +13,7 @@
       <pubDate>Wed, 31 Aug 2022 19:45:23 -0300</pubDate>
       
       <guid>https://joyful-lily-300459.netlify.app/wiki/negritude-no-fio-da-historia-do-design/</guid>
-      <description>Bibliografia do curso, por Rodrigo Rosm  A definição de design, por Willian R. Miller E enxada e a lança, Alberto da Costa e Silva De pele escura e tinta preta: a imprensa negra do século XIX Como a Europa subdesenvolveu a Africa, Walter Rodney (Em inglês: How Europe Underdeveloped Africa) Crítica da Razão Negra, Achille Mbembe Por uma educação que interesse aos negros, Diane Lima História Mundial do Design, Victor Margolin Flash of the spirit, Robert Farris Thompson Políticas do design, Ruben Peter O Cometa, WEB Dubois/O fim da supremacia branca, Saidya Hartman Invisible Man, romance de Ralph Ellison Fly in the Buttermilk, Archie Boston Lil&#39; Colored Rascals in the Sunshine City, Archie Boston Black on visual arts, Paul Rand  Pessoas  Francisco de Paula Brito | editor, tipógrafo (séc XIX) Irmãos Rebouças | W.</description>
+      <description>Bibliografia do curso, por Rodrigo Rosm  A definição de design, por Willian R. Miller E enxada e a lança, Alberto da Costa e Silva De pele escura e tinta preta: a imprensa negra do século XIX Como a Europa subdesenvolveu a Africa, Walter Rodney (Em inglês: How Europe Underdeveloped Africa) Crítica da Razão Negra, Achille Mbembe Por uma educação que interesse aos negros, Diane Lima História Mundial do Design, Victor Margolin Flash of the spirit, Robert Farris Thompson Políticas do design, Ruben Peter O Cometa, WEB Dubois/O fim da supremacia branca, Saidya Hartman Invisible Man, romance de Ralph Ellison Fly in the Buttermilk, Archie Boston Lil&#39; Colored Rascals in the Sunshine City, Archie Boston Black on visual arts, Paul Rand Um pecado de omissão - Guilherme Ribeiro The Black Experience in Graphic Design - Dorothy Jackson na Print Magazine (1968) The Black Experience in Design - Identity Expression &amp;amp; Reflection (2022) Afrikan Alphabets - The story of writing in Afrika, Saki Mafundikwa Nations Nègres et Culture, Sheik Anta Diop Something, Virgil Abloh  Pessoas  Francisco de Paula Brito | editor, tipógrafo (séc XIX) Irmãos Rebouças | W.</description>
     </item>
     
     <item>
@@ -55,12 +55,21 @@ apt autoremove dpkg --list | grep linux-image sudo apt remove --purge linux-imag
     </item>
     
     <item>
+      <title>Design Ágil para Inovação Social e Desenvolvimento</title>
+      <link>https://joyful-lily-300459.netlify.app/projetos/dais/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://joyful-lily-300459.netlify.app/projetos/dais/</guid>
+      <description>texto dais dais</description>
+    </item>
+    
+    <item>
       <title>Escrevivência: a escrita de nós</title>
       <link>https://joyful-lily-300459.netlify.app/projetos/escrevivencia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://joyful-lily-300459.netlify.app/projetos/escrevivencia/</guid>
-      <description></description>
+      <description>texto escrevivencia</description>
     </item>
     
     <item>
@@ -70,6 +79,15 @@ apt autoremove dpkg --list | grep linux-image sudo apt remove --purge linux-imag
       
       <guid>https://joyful-lily-300459.netlify.app/projetos/heroinas/</guid>
       <description>Projeto editorial, ilustrações e diagramação do livro Heroínas Negras Brasileiras: Em 15 Cordéis. Autoria de Jarid Arraes e lançado em junho de 2017 pela editora Pólen.</description>
+    </item>
+    
+    <item>
+      <title>IBE60</title>
+      <link>https://joyful-lily-300459.netlify.app/projetos/ibe60/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://joyful-lily-300459.netlify.app/projetos/ibe60/</guid>
+      <description>texto ibe60</description>
     </item>
     
     <item>

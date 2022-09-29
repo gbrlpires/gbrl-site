@@ -49,10 +49,11 @@ em, .em {
 }
 
 blockquote, .blockquote {
-  font-style: italic;
-  padding: 20px 0;
+  font-size: 14px;
+  font-style: normal;
+  padding: 0;
   @include for-tablet-up {
-    padding: 20px 8em;
+    padding: 0 8em;
   }
 }
 
