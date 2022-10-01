@@ -21,6 +21,7 @@ html {
   font-family: geomanist-book;
   font-size: 2em;
   line-height: 1.3;
+  @include space-top-tiny;
 }
 
 .h3,h3 {
@@ -34,9 +35,11 @@ html {
   font-family: geomanist-book;
   font-size: 2em;
   line-height: 1.3;
+  @include space-top-tiny;
 }
 
 .h5,h5 {
   font-family: geomanist-medium;
   font-size: 1.3em;
+  @include space-top-tiny;
 }

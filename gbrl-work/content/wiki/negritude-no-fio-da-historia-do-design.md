@@ -30,19 +30,6 @@ tags:
 - Something, Virgil Abloh
 - Ensinando a transgredir: a educação como prática da liberdade, bell hooks
 
-### Pessoas
-- Francisco de Paula Brito | editor, tipógrafo (séc XIX)
-- Irmãos Rebouças |
-- W.E.B Dubois | sociólogo estadunidense (1900, Tennesse)
-- Irmãos Boston
-- Gordon Parks, fotojornalista estadunidense (1940-1970)
-- Jamel Shabazz, fotógrafo estadunidense (New York, déc 70-80)
-- Sylvia Harris, designer estadunidense (1953-2011)
-- Aaron Douglas, designer estadunidense
-- Thomas Miller, designer estadunidense
-- Gail Anderson, designer estadunidense
-- Dorothy Hayes, designer estadunidense
-
 ### Anotações
 #### Aula 0
 
@@ -73,8 +60,6 @@ A Exposição dos negros na américa ("The Exibhit of American Negroes") - expos
 	{{< figure src="/wiki/images/349d65b4dc62c6c5a2be2005c8c15d0d.webp" alt="#" >}}
 {{< /gallery/columns >}}
 
-{{< figure src="/wiki/images/79ebb599ee4735ec216e0d0efb601ade.webp" alt="#" >}}
-
 O ideário de Gropius/Bauhaus - paralelismo entre teórico e prático, com proximidade com disciplinas de sociologia e antropologia. Experimento educacional
 
 Presença quase nula de mulheres entre o corpo docente e limitação de acesso de disciplinas para as alunas. Gunta Stölzl, única mulher no corpo docente.
@@ -102,11 +87,11 @@ ULM | Escola de Chicago | ESDI
 
 #### Aula 2 - Irmãos Boston
 
-Archie Boston e Bradford Boston foram responsáveis pela criação d primeira agência de propriedade por homens negros, a Boston & Boston (1967)
+Archie Boston e Bradford Boston foram responsáveis pela criação da primeira agência de propriedade de homens negros, a Boston & Boston (1967).
 
 {{< figure src="/wiki/images/for-sale-poste_625.jpg" alt="#" caption="Cartaz de autopromocão da agência" >}}
 
-A carreira de Archie Boston foi amplamente documentada mas a de seu irmão se perdeu após o encerramento da agência. Uma hipótese é o fato de Archie ter mantido uma carreira acadêmica como professor pesquisador na universidade na California State University Long Beach. Isso traz uma pista também dos possíveis motivos de trabalhos de outres designers negres terem se perdido ou terem um acesso limitado, pelo distanciamento dessas pessoas do espaço acadêmico.
+A carreira de Archie Boston foi amplamente documentada mas a de seu irmão se perdeu após o encerramento da agência. Uma hipótese é o fato de Archie ter mantido uma carreira acadêmica como professor pesquisador na universidade na California State University Long Beach. Isso traz uma pista também dos possíveis motivos de trabalhos de outres designers negres terem se perdido ou terem um acesso limitado, pelo distanciamento dessas pessoas do espaço acadêmico. Entre seus maiores clientes estão Pentel, Motorola e Yamaha.
 
 + citação histórica vs. sarcasmo
 + trabalho tipográfico bastante rico
@@ -114,14 +99,14 @@ A carreira de Archie Boston foi amplamente documentada mas a de seu irmão se pe
 + documentação da história negra
 
 
+"Se você está ofendido com meu pôster, então você não é o cliente que queremos" -- Archie Boston
+
 {{< gallery/columns class="gallery--2-col" >}}
   {{< figure src="/wiki/images/fb48fe37ff80b0ee1963dddf72eff804.jpg" alt="#" >}}
 	{{< figure src="/wiki/images/Boston-and-Boston-promotional-poster.png" alt="#" >}}
 {{< /gallery/columns >}}
 
-"se você está ofendido com meu pôster, então você não é o cliente que queremos" -- Archie Boston
 
-Trabalhou com a Pentel, Motorola e Yamaha
 
 {{< gallery/columns class="gallery--2-col" >}}
 	{{< figure src="/wiki/images/Archie-Boston-Graphic-Design-poster-1600x2393.jpg" alt="#" >}}
@@ -131,8 +116,6 @@ Trabalhou com a Pentel, Motorola e Yamaha
 ##### Sylvia Harris (1953-2011)
 
 Designer estadunidense com foco em sinalização.
-
-
 
 #### Aula 3 - The Black Experience in Design
 
@@ -157,7 +140,6 @@ Outros designers citados na matéria:
 Contexto da queda da bolsa de 29
 
 Artigo da Esri Communities
-
 (https://community.esri.com/t5/conservation-gis/1908-2002-louise-e-jefferson-artist-publisher/ta-p/914970)
 
 Citação em matéria sobre mulheres cartógrafas no séc XX (Bloomberg, 2016)
@@ -165,10 +147,20 @@ Citação em matéria sobre mulheres cartógrafas no séc XX (Bloomberg, 2016)
 
 {{< figure src="/wiki/images/alabama-boy-louise-e-jefferson.webp" alt="#" caption="Alabama Boy-Louise E. Jefferson, 1987" >}}
 
-{{< figure src="/wiki/images/the-american-negro-book-cover.png" alt="#" caption="Capa do livro The story of The American Negro" >}}
+{{< gallery/columns class="gallery--2-col" >}}
+	{{< figure src="/wiki/images/the-american-negro-book-cover.png" alt="#" caption="Capa do livro The story of The American Negro" >}}
+  {{< figure src="/wiki/images/decor-arts-africa-louise-jefferson.jpg" alt="#" caption="Capa do livro The Decorative arts of Africa - autoria de Louise E. Jefferson" >}}
+{{< /gallery/columns >}}
 
-{{< figure src="/wiki/images/decor-arts-africa-louise-jefferson.jpg" alt="#" caption="Capa do livro The Decorative arts of Africa - autoria de Louise E. Jefferson" >}}
+### Pessoas
++ Francisco de Paula Brito | editor, tipógrafo (séc XIX)
++ Irmãos Rebouças |
++ W.E.B Dubois | sociólogo estadunidense (1900, Tennesse)
++ Irmãos Boston
++ Gordon Parks, fotojornalista estadunidense (1940-1970)
++ Jamel Shabazz, fotógrafo estadunidense (New York, déc 70-80)
 
+#### EUA
 + Michele Y. Washington
 + [Gail Anderson](www.gailycurl.com)
 + Thomas Miller
@@ -188,11 +180,21 @@ Citação em matéria sobre mulheres cartógrafas no séc XX (Bloomberg, 2016)
 + Rodrigo Bleque (Brasil)
 + Marconi Lima (Brasil)
 
-
 #### Destaques
-##### Saki Mafundiwa (Zimbábue) - Tipografia, fundador e diretor do Instituto de Artes Vigitais do Zimbábue (ZIVA). Pesquisador da escrita Nsibidi (da região da Nigéria) e de outras escritas do continente africano.
+##### Saki Mafundiwa (Zimbábue)
+Estuda tipografia, fundador e diretor do Instituto de Artes Vigitais do Zimbábue (ZIVA). Pesquisador da escrita Nsibidi (da região da Nigéria) e de outras escritas do continente africano.
 
-{{< figure src="#" alt="#" caption="imagem do livro" >}}
+Site pessoal:
+[http://www.sakimafundikwa.com/](http://www.sakimafundikwa.com/)
+
+Matéria no site da Aiga:
+[Saki Mafundikwa on 20 Years Running the Zimbabwe Institute of Vigital Arts](https://eyeondesign.aiga.org/saki-mafundikwa-on-20-years-running-the-zimbabwe-institute-of-vigital-arts/)
+
+{{< figure src="/wiki/images/alphabet_nsibidi-800x347.jpg" alt="#" caption="página do livro Afrikan Alphabets mostrando caracteres da escrita Nsibidi (Nigéria)" >}}
+
+{{< figure src="/wiki/images/alphabet_loma-800x325.jpg" alt="#" caption="Página do livro Afrikan Alphabets mostrando caracteres do alfabeto silábico da escrita Loma (Libéria)" >}}
+
+{{< figure src="/wiki/images/syboles_bantou-1-800x390.jpg" alt="#" caption="Página do livro Afrikan Alphabets mostrando símbolos de origem Bantou" >}}
 
 {{< youtube id="gIbIewxHQrk" title="TED Talk: Saki Mafundikwa: Criatividade e elegância nos alfabetos africanos antigos" >}}
 

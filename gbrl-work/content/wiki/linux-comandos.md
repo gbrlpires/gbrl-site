@@ -23,3 +23,9 @@ sudo apt remove --purge linux-image-[versão]-generic
 ```
 
 Obs. Das últimas vezes usar o Synaptic teve um resultado melhor pra visualizar o que não estava sendo usado
+
+### Erro no apt-upgrade ("dpkg: error processing package libglib2.0-0:i386")
+```
+sudo dpkg --configure -a
+sudo apt --fix-broken install
+```
