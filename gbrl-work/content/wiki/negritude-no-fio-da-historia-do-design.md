@@ -24,7 +24,7 @@ tags:
 - Black on visual arts, Paul Rand
 - Um pecado de omissão - Guilherme Ribeiro
 - [The Black Experience in Graphic Design - Dorothy Jackson na Print Magazine (1968)](https://www.printmag.com/design-culture/the-black-experience-1968/)
-- The Black Experience in Design - Identity Expression & Reflection (2022) 
+- The Black Experience in Design - Identity Expression & Reflection (2022)
 - Afrikan Alphabets - The story of writing in Afrika, Saki Mafundikwa
 - Nations Nègres et Culture, Sheik Anta Diop
 - Something, Virgil Abloh
@@ -48,12 +48,12 @@ tags:
 
 "A história da arte africana é baseada em peças saqueadas e inventariadas em museus europeus";
 
-"A história da arte africana é feita a partir de uma visão europeia" - editada por uma visão colonizada, uma visão reduzida, com saltos no tempo que não são identificáveis; 
+"A história da arte africana é feita a partir de uma visão europeia" - editada por uma visão colonizada, uma visão reduzida, com saltos no tempo que não são identificáveis;
 
 "Incompletude é um fato [na história africana, da arte africana] mas ela não pode paralisar [os nosso estudos]"
 
 "Re-alfabetização da cultura africana"
-{{< figure src="/wiki/images/timbuktu.png" alt="Universidade de Timbuktu" >}}
+{{< figure src="/wiki/images/timbuktu2.jpg" alt="Universidade de Timbuktu" >}}
 
 #### Aula 1 - Bauhaus
 
@@ -67,7 +67,7 @@ A Exposição dos negros na américa ("The Exibhit of American Negroes") - expos
 [Hand-drawn infographics commissioned by W.E.B. Du Bois illuminate how black Americans lived in the 1900s](https://qz.com/906774/w-e-b-du-bois-commissioned-beautiful-hand-drawn-data-visualizations-and-infographics-for-the-paris-world-fair)
 
 {{< figure src="/wiki/images/1d26788227a7b23952eea9a3cfa03710.webp" alt="#" >}}
-	
+
 {{< gallery/columns class="gallery--2-col" >}}
 	{{< figure src="/wiki/images/8ff78ae8d54bd5bb7d66271849687745.webp" alt="#" >}}
 	{{< figure src="/wiki/images/349d65b4dc62c6c5a2be2005c8c15d0d.webp" alt="#" >}}
@@ -104,7 +104,7 @@ ULM | Escola de Chicago | ESDI
 
 Archie Boston e Bradford Boston foram responsáveis pela criação d primeira agência de propriedade por homens negros, a Boston & Boston (1967)
 
-{{< figure src="#" alt="#" caption="Cartaz de autopromocão da agência" >}}
+{{< figure src="/wiki/images/for-sale-poste_625.jpg" alt="#" caption="Cartaz de autopromocão da agência" >}}
 
 A carreira de Archie Boston foi amplamente documentada mas a de seu irmão se perdeu após o encerramento da agência. Uma hipótese é o fato de Archie ter mantido uma carreira acadêmica como professor pesquisador na universidade na California State University Long Beach. Isso traz uma pista também dos possíveis motivos de trabalhos de outres designers negres terem se perdido ou terem um acesso limitado, pelo distanciamento dessas pessoas do espaço acadêmico.
 
@@ -113,13 +113,26 @@ A carreira de Archie Boston foi amplamente documentada mas a de seu irmão se pe
 + trabalhos com carga ativista
 + documentação da história negra
 
+
+{{< gallery/columns class="gallery--2-col" >}}
+  {{< figure src="/wiki/images/fb48fe37ff80b0ee1963dddf72eff804.jpg" alt="#" >}}
+	{{< figure src="/wiki/images/Boston-and-Boston-promotional-poster.png" alt="#" >}}
+{{< /gallery/columns >}}
+
 "se você está ofendido com meu pôster, então você não é o cliente que queremos" -- Archie Boston
 
 Trabalhou com a Pentel, Motorola e Yamaha
 
+{{< gallery/columns class="gallery--2-col" >}}
+	{{< figure src="/wiki/images/Archie-Boston-Graphic-Design-poster-1600x2393.jpg" alt="#" >}}
+	{{< figure src="/wiki/images/eda7035f4a726fb573af8e2685c51f72.jpg" alt="#" >}}
+{{< /gallery/columns >}}
+
 ##### Sylvia Harris (1953-2011)
 
 Designer estadunidense com foco em sinalização.
+
+
 
 #### Aula 3 - The Black Experience in Design
 
@@ -129,7 +142,10 @@ Matéria na Print Magazine
 ##### Dorothy Hayes
 Ela é conhecida por organizar "Artistas Negros em Comunicação Gráfica" ao lado de Joyce Hopkins.
 
-{{< figure src="#" alt="#" caption="Cartaz de promocão da organização Black Artist in Graphic Communication" >}}
+Matéria na Communication Arts
+[Black Artist in Graphic Communication](https://www.commarts.com/features/black-artist-in-graphic-communication)
+
+{{< figure src="/wiki/images/black-artist-in-graphic-comm.jpg" alt="#" caption="Cartaz de promocão da organização Black Artist in Graphic Communication" >}}
 
 Outros designers citados na matéria:
 + Dorothy Akubuiro
@@ -139,11 +155,19 @@ Outros designers citados na matéria:
 
 ##### Louise E. Jefferson
 Contexto da queda da bolsa de 29
-{{< figure src="#" alt="#" caption="Fotografia Alabama Boy" >}}
 
-{{< figure src="#" alt="#" caption="Capa do livroThe story of The American Negro" >}}
+Artigo da Esri Communities
 
-{{< figure src="#" alt="#" caption="Capa do livro The Decorative arts of Africa - autoria de Louise Jefferson" >}}
+(https://community.esri.com/t5/conservation-gis/1908-2002-louise-e-jefferson-artist-publisher/ta-p/914970)
+
+Citação em matéria sobre mulheres cartógrafas no séc XX (Bloomberg, 2016)
+[How 20th-Century Women Put the 'Art' in Cartography](https://www.bloomberg.com/news/articles/2016-03-25/the-women-cartographers-who-mapped-art-and-science-in-the-20th-century)
+
+{{< figure src="/wiki/images/alabama-boy-louise-e-jefferson.webp" alt="#" caption="Alabama Boy-Louise E. Jefferson, 1987" >}}
+
+{{< figure src="/wiki/images/the-american-negro-book-cover.png" alt="#" caption="Capa do livro The story of The American Negro" >}}
+
+{{< figure src="/wiki/images/decor-arts-africa-louise-jefferson.jpg" alt="#" caption="Capa do livro The Decorative arts of Africa - autoria de Louise E. Jefferson" >}}
 
 + Michele Y. Washington
 + [Gail Anderson](www.gailycurl.com)
@@ -156,8 +180,8 @@ Contexto da queda da bolsa de 29
 + David Adjaye (arquitetura, Tanzânia)
 + Diébedo Francis Keré (arquitetura)
 + Emilly & Martha Masanabo (África do Sul)
-+ Esther Mahlangu (África do Sul) 
-+ Festival Bogo Ja (Bamao, Mali) 
++ Esther Mahlangu (África do Sul)
++ Festival Bogo Ja (Bamao, Mali)
 
 #### América
 + René Azcuy (Cuba)
@@ -182,19 +206,19 @@ Contexto da queda da bolsa de 29
 ##### Amos Kennedy Jr. (EUA) - Tipografia
 {{< figure src="#" alt="#" caption="trabalhos do Amos" >}}
 
-##### Lagos Fashion Week (Nigéria) 
+##### Lagos Fashion Week (Nigéria)
 {{< figure src="#" alt="#" caption="trabalhos do Amos" >}}
 
 ##### Ozwald Boateng (Gana) - Designer de Moda
 {{< figure src="#" alt="#" caption="trabalhos do Ozwald" >}}
 
-##### Kanye West/Yeezy (EUA) - Domda Creative Agency 
+##### Kanye West/Yeezy (EUA) - Domda Creative Agency
 {{< figure src="#" alt="#" caption="trabalhos do KW" >}}
 
-##### Virgil Abloh (EUA) - Multi designer 
+##### Virgil Abloh (EUA) - Multi designer
 {{< figure src="#" alt="#" caption="trabalhos do Virgil " >}}
 
-##### Heron Preston (EUA) 
+##### Heron Preston (EUA)
 {{< figure src="#" alt="#" caption="trabalhos do Heron " >}}
 
 ##### Wales Bonner (Africa?) Designer de Moda
@@ -226,4 +250,3 @@ https://transreads.org/wp-content/uploads/2021/08/2021-08-02_61074a87c974d_extra
 https://www.amazon.com/Design-Struggles-Intersecting-Pedagogies-Perspectives/dp/9492095882
 https://www.amazon.com/CAPS-LOCK-Capitalism-Graphic-Design/dp/9492095815
 http://www.designishistory.com/1960/first-things-first/
-
