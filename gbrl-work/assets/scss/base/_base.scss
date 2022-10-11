@@ -26,6 +26,8 @@ ul, ol {
   list-style: circle inside;
   font-size: $text-body-mobile;
 
+  margin: 0;
+  padding: 0;
   @include space-top-micro;
   @include space-bottom-tiny;
 

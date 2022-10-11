@@ -1,7 +1,7 @@
 .tag-aside__container {
   @include space-bottom-tiny;
   @include for-tablet-landscape-up {
-    margin-top: 113px;
+    margin-top: 164px;
     margin-left: 60px;
   }
 }
@@ -13,6 +13,9 @@
 .tag-aside__list {
   font-size: $text-base;
   list-style: none;
+
+  margin: 0;
+  padding: 0;
 
   @include flex-start-wrap;
   @include for-tablet-landscape-up {
