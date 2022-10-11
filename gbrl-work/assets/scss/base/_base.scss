@@ -24,9 +24,10 @@ a:visited {
 
 ul, ol {
   list-style: circle inside;
-  margin: 0;
-  padding: 0;
   font-size: $text-body-mobile;
+
+  @include space-top-micro;
+  @include space-bottom-tiny;
 
   @include for-tablet-up {
     font-size: $text-body;
