@@ -1,10 +1,11 @@
-.h1--section-title {
+.h2--section-title {
   @include space-top-tiny;
   @include space-bottom-tiny;
 }
 
 .grid-card {
   @include grid-1-col;
+  @include space-top-micro;
 
   @include for-tablet-landscape-up {
     @include grid-2-col;

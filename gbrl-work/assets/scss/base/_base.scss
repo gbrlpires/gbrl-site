@@ -7,7 +7,7 @@ a {
   text-decoration: none;
   color: $color-primary;
   vertical-align: super;
-  font-size: smaller;
+  font-size: 20px;
   border-bottom: 3px solid $color-primary;
   transition: ease-in-out 0.1s;
 }
@@ -26,7 +26,11 @@ ul, ol {
   list-style: circle inside;
   margin: 0;
   padding: 0;
-  font-size: $text-body;
+  font-size: $text-body-mobile;
+
+  @include for-tablet-up {
+    font-size: $text-body;
+  }
 }
 
 p {

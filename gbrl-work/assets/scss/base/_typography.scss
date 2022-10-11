@@ -4,7 +4,11 @@ html {
 }
 
 .p, p {
-  font-size: $text-body;
+  font-size: $text-body-mobile;
+
+  @include for-tablet-up {
+    font-size: $text-body;
+  }
 }
 
 .p--dark {
@@ -13,8 +17,12 @@ html {
 
 .h1,h1 {
   font-family: geomanist-book;
-  font-size: 4em;
+  font-size: 3em;
   line-height: 1.1;
+
+  @include for-tablet-up {
+    font-size: 4em;
+  }
 }
 
 .h2,h2 {
@@ -22,6 +30,17 @@ html {
   font-size: 2em;
   line-height: 1.3;
   @include space-top-tiny;
+}
+
+.h2--bigger {
+  font-family: geomanist-book;
+  font-size: 3em;
+  line-height: 1.1;
+  @include space-bottom-tiny;
+
+  @include for-tablet-up {
+    font-size: 4em;
+  }
 }
 
 .h3,h3 {
