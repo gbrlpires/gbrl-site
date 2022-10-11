@@ -15,4 +15,6 @@
   font-size: $text-label;
   list-style: none;
   @include flex-start-wrap;
+  margin: 0;
+  padding: 0;
 }
