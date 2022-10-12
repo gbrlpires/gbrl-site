@@ -4,13 +4,13 @@ date: 2022-10-12T10:12:02-03:00
 draft: false
 ---
 
-Samba-enredo da G.R.E.S Império Serrano composto para o carnaval de 1965, em comemoração aos 400 anos da fundação da cidade do Rio de Janeiro. Fonte:[blog Samba De Escola](https://sambadeescola.blogspot.com/2014/03/gres-imperio-serrano-os-cinco-bailes-da.html)
+Samba-enredo da  G.R.E.S Império Serrano composto para o carnaval de 1965, em comemoração aos 400 anos da fundação da cidade do Rio de Janeiro. Fonte:[blog Samba De Escola](https://sambadeescola.blogspot.com/2014/03/gres-imperio-serrano-os-cinco-bailes-da.html)
 
-Enredo: Os cinco bailes da história do Rio  
+Enredo: Os cinco bailes da história do Rio
 
-Ano: 1965  
+Ano: 1965
 
-Autores: Silas de Oliveira, Dona Ivone Lara e Bacalhau  
+Autores: Silas de Oliveira, Dona Ivone Lara e Bacalhau
 
 ### Letra:
 
