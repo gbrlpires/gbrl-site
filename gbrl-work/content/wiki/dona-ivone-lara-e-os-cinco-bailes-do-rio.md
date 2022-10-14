@@ -61,4 +61,4 @@ Lá rá rá lá rá rá rá rá rá rá.
 {{< youtube id="x3hiBVqPlOM" title="Imagens (sem áudio) do desfile da Império Serrano em 1965 com o enredo Os Cinco Bailes da História do Rio" >}}
 
 
-{{< figure src="images/foto-4dona-ivone-lara-experimenta-fantasia-para-1981.jpg" caption="Dona Ivone Lara experimenta fantasia para o carnaval de 1981. Foto: Luiz Pinto | Fonte: Jornal Extra"
+{{< figure src="images/foto-4dona-ivone-lara-experimenta-fantasia-para-1981.jpg" caption="Dona Ivone Lara experimenta fantasia para o carnaval de 1981. Foto: Luiz Pinto | Fonte: Jornal Extra" >}}
