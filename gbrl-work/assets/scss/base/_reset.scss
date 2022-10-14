@@ -77,3 +77,15 @@ select {
     scroll-behavior: auto !important;
   }
 }
+
+
+/* ---- Custom reset ---- */
+/* Removendo pesos padrão dos títulos que ficam sobrescrevendo/somando ao peso das setadas no fontface */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: normal;
+}
