@@ -7,7 +7,7 @@ a {
   text-decoration: none;
   color: $color-primary;
   vertical-align: super;
-  font-size: 20px;
+  font-size: 1.3rem;
   border-bottom: 3px solid $color-primary;
   transition: ease-in-out 0.1s;
 }
@@ -42,13 +42,16 @@ p {
 }
 
 figcaption {
-  font-size: $text-caption;
   @include space-top-micro;
   @include space-bottom-micro;
 
   @include for-tablet-up {
     width: 80%;
   }
+}
+
+figcaption p {
+  font-size: $text-caption;
 }
 
 em, .em {
