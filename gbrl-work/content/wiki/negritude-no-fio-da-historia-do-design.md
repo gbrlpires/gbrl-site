@@ -40,7 +40,7 @@ tags:
 "Incompletude é um fato [na história africana, da arte africana] mas ela não pode paralisar [os nosso estudos]"
 
 "Re-alfabetização da cultura africana"
-{{< figure src="/wiki/images/timbuktu2.jpg" alt="Universidade de Timbuktu" >}}
+{{< figure src="/wiki/images/negritude-no-fio-da-historia/timbuktu2.jpg" alt="Universidade de Timbuktu" >}}
 
 #### Aula 1 - Bauhaus
 
@@ -53,20 +53,20 @@ A Exposição dos negros na américa ("The Exibhit of American Negroes") - expos
 
 [Hand-drawn infographics commissioned by W.E.B. Du Bois illuminate how black Americans lived in the 1900s](https://qz.com/906774/w-e-b-du-bois-commissioned-beautiful-hand-drawn-data-visualizations-and-infographics-for-the-paris-world-fair)
 
-{{< figure src="/wiki/images/1d26788227a7b23952eea9a3cfa03710.webp" alt="#" >}}
+{{< figure src="/wiki/images/negritude-no-fio-da-historia/1d26788227a7b23952eea9a3cfa03710.webp" alt="#" >}}
 
 {{< gallery/columns class="gallery--2-col" >}}
-	{{< figure src="/wiki/images/8ff78ae8d54bd5bb7d66271849687745.webp" alt="#" >}}
-	{{< figure src="/wiki/images/349d65b4dc62c6c5a2be2005c8c15d0d.webp" alt="#" >}}
+	{{< figure src="/wiki/images/negritude-no-fio-da-historia/8ff78ae8d54bd5bb7d66271849687745.webp" alt="#" >}}
+	{{< figure src="/wiki/images/negritude-no-fio-da-historia/349d65b4dc62c6c5a2be2005c8c15d0d.webp" alt="#" >}}
 {{< /gallery/columns >}}
 
 O ideário de Gropius/Bauhaus - paralelismo entre teórico e prático, com proximidade com disciplinas de sociologia e antropologia. Experimento educacional
 
 Presença quase nula de mulheres entre o corpo docente e limitação de acesso de disciplinas para as alunas. Gunta Stölzl, única mulher no corpo docente.
 
-{{< figure src="/wiki/images/bauhaus_curriculum_1922.gif" alt="#" caption="Modelo curricular da Bauhaus" >}}
+{{< figure src="/wiki/images/negritude-no-fio-da-historia/bauhaus_curriculum_1922.gif" alt="#" caption="Modelo curricular da Bauhaus" >}}
 
-{{< figure src="/wiki/images/bauhaus-ballet-costumes-01.jpg" alt="#" caption="Balé triádico da Bauhaus" >}}
+{{< figure src="/wiki/images/negritude-no-fio-da-historia/bauhaus-ballet-costumes-01.jpg" alt="#" caption="Balé triádico da Bauhaus" >}}
 
 
 Modelo educacional da Bauhaus se espalhou pelo mundo a partir do êxodo dos professores em decorrência da II Guerra Mundial.
@@ -89,7 +89,7 @@ ULM | Escola de Chicago | ESDI
 
 Archie Boston e Bradford Boston foram responsáveis pela criação da primeira agência de propriedade de homens negros, a Boston & Boston (1967).
 
-{{< figure src="/wiki/images/for-sale-poste_625.jpg" alt="#" caption="Cartaz de autopromocão da agência" >}}
+{{< figure src="/wiki/images/negritude-no-fio-da-historia/for-sale-poste_625.jpg" alt="#" caption="Cartaz de autopromocão da agência" >}}
 
 A carreira de Archie Boston foi amplamente documentada mas a de seu irmão se perdeu após o encerramento da agência. Uma hipótese é o fato de Archie ter mantido uma carreira acadêmica como professor pesquisador na universidade na California State University Long Beach. Isso traz uma pista também dos possíveis motivos de trabalhos de outres designers negres terem se perdido ou terem um acesso limitado, pelo distanciamento dessas pessoas do espaço acadêmico. Entre seus maiores clientes estão Pentel, Motorola e Yamaha.
 
@@ -102,15 +102,15 @@ A carreira de Archie Boston foi amplamente documentada mas a de seu irmão se pe
 "Se você está ofendido com meu pôster, então você não é o cliente que queremos" -- Archie Boston
 
 {{< gallery/columns class="gallery--2-col" >}}
-  {{< figure src="/wiki/images/fb48fe37ff80b0ee1963dddf72eff804.jpg" alt="#" >}}
-	{{< figure src="/wiki/images/Boston-and-Boston-promotional-poster.png" alt="#" >}}
+  {{< figure src="/wiki/images/negritude-no-fio-da-historia/fb48fe37ff80b0ee1963dddf72eff804.jpg" alt="#" >}}
+	{{< figure src="/wiki/images/negritude-no-fio-da-historia/Boston-and-Boston-promotional-poster.png" alt="#" >}}
 {{< /gallery/columns >}}
 
 
 
 {{< gallery/columns class="gallery--2-col" >}}
-	{{< figure src="/wiki/images/Archie-Boston-Graphic-Design-poster-1600x2393.jpg" alt="#" >}}
-	{{< figure src="/wiki/images/eda7035f4a726fb573af8e2685c51f72.jpg" alt="#" >}}
+	{{< figure src="/wiki/images/negritude-no-fio-da-historia/Archie-Boston-Graphic-Design-poster-1600x2393.jpg" alt="#" >}}
+	{{< figure src="/wiki/images/negritude-no-fio-da-historia/eda7035f4a726fb573af8e2685c51f72.jpg" alt="#" >}}
 {{< /gallery/columns >}}
 
 ##### Sylvia Harris (1953-2011)
@@ -128,7 +128,7 @@ Ela é conhecida por organizar "Artistas Negros em Comunicação Gráfica" ao la
 Matéria na Communication Arts
 [Black Artist in Graphic Communication](https://www.commarts.com/features/black-artist-in-graphic-communication)
 
-{{< figure src="/wiki/images/black-artist-in-graphic-comm.jpg" alt="#" caption="Cartaz de promocão da organização Black Artist in Graphic Communication" >}}
+{{< figure src="/wiki/images/negritude-no-fio-da-historia/black-artist-in-graphic-comm.jpg" alt="#" caption="Cartaz de promocão da organização Black Artist in Graphic Communication" >}}
 
 Outros designers citados na matéria:
 + Dorothy Akubuiro
@@ -145,11 +145,11 @@ Artigo da Esri Communities
 Citação em matéria sobre mulheres cartógrafas no séc XX (Bloomberg, 2016)
 [How 20th-Century Women Put the 'Art' in Cartography](https://www.bloomberg.com/news/articles/2016-03-25/the-women-cartographers-who-mapped-art-and-science-in-the-20th-century)
 
-{{< figure src="/wiki/images/alabama-boy-louise-e-jefferson.webp" alt="#" caption="Alabama Boy-Louise E. Jefferson, 1987" >}}
+{{< figure src="/wiki/images/negritude-no-fio-da-historia/alabama-boy-louise-e-jefferson.webp" alt="#" caption="Alabama Boy-Louise E. Jefferson, 1987" >}}
 
 {{< gallery/columns class="gallery--2-col" >}}
-	{{< figure src="/wiki/images/the-american-negro-book-cover.png" alt="#" caption="Capa do livro The story of The American Negro" >}}
-  {{< figure src="/wiki/images/decor-arts-africa-louise-jefferson.jpg" alt="#" caption="Capa do livro The Decorative arts of Africa - autoria de Louise E. Jefferson" >}}
+	{{< figure src="/wiki/images/negritude-no-fio-da-historia/the-american-negro-book-cover.png" alt="#" caption="Capa do livro The story of The American Negro" >}}
+  {{< figure src="/wiki/images/negritude-no-fio-da-historia/decor-arts-africa-louise-jefferson.jpg" alt="#" caption="Capa do livro The Decorative arts of Africa - autoria de Louise E. Jefferson" >}}
 {{< /gallery/columns >}}
 
 ### Pessoas
@@ -190,11 +190,11 @@ Site pessoal:
 Matéria no site da Aiga:
 [Saki Mafundikwa on 20 Years Running the Zimbabwe Institute of Vigital Arts](https://eyeondesign.aiga.org/saki-mafundikwa-on-20-years-running-the-zimbabwe-institute-of-vigital-arts/)
 
-{{< figure src="/wiki/images/alphabet_nsibidi-800x347.jpg" alt="#" caption="página do livro Afrikan Alphabets mostrando caracteres da escrita Nsibidi (Nigéria)" >}}
+{{< figure src="/wiki/images/negritude-no-fio-da-historia/alphabet_nsibidi-800x347.jpg" alt="#" caption="página do livro Afrikan Alphabets mostrando caracteres da escrita Nsibidi (Nigéria)" >}}
 
-{{< figure src="/wiki/images/alphabet_loma-800x325.jpg" alt="#" caption="Página do livro Afrikan Alphabets mostrando caracteres do alfabeto silábico da escrita Loma (Libéria)" >}}
+{{< figure src="/wiki/images/negritude-no-fio-da-historia/alphabet_loma-800x325.jpg" alt="#" caption="Página do livro Afrikan Alphabets mostrando caracteres do alfabeto silábico da escrita Loma (Libéria)" >}}
 
-{{< figure src="/wiki/images/syboles_bantou-1-800x390.jpg" alt="#" caption="Página do livro Afrikan Alphabets mostrando símbolos de origem Bantou" >}}
+{{< figure src="/wiki/images/negritude-no-fio-da-historia/syboles_bantou-1-800x390.jpg" alt="#" caption="Página do livro Afrikan Alphabets mostrando símbolos de origem Bantou" >}}
 
 {{< youtube id="gIbIewxHQrk" title="TED Talk: Saki Mafundikwa: Criatividade e elegância nos alfabetos africanos antigos" >}}
 
