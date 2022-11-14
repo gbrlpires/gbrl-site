@@ -1,0 +1,14 @@
+{{ define "main" }}
+  <section class="notas__container container">
+    <h2 class="notas__title h2--bigger">{{ .Title }}</h2>
+    <article class="notas__text">
+      {{ .Content }}
+    </article>
+    {{ partial "widgets/tag-main.html" . }}
+  </section>
+
+  <section class="notas-posts-list__container">
+    <h3 class="notas-posts-list__title h3 container">Todas as notas</h3>
+      {{ partial "taxonomies/tag.html" . }}
+  </section>
+{{ end }}

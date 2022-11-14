@@ -1,9 +1,9 @@
-.wiki__text {
+.notas__text {
   @include space-top-tiny;
   @include space-bottom-medium;
 }
 
-.wiki__text > p {
+.notas__text > p {
   font-size: $text-body;
   @include grid-1-col;
 
@@ -12,21 +12,21 @@
   }
 }
 
-.wiki-posts-list__container {
+.notas-posts-list__container {
   @include space-top-tiny;
   @include space-bottom-medium;
 }
 
-.wiki-posts-list__title  {
+.notas-posts-list__title  {
   color: $color-primary;
 }
 
-.wiki-posts-list {
+.notas-posts-list {
   @include space-top-tiny;
   @include space-bottom-medium;
 }
 
-.wiki-posts-list__item {
+.notas-posts-list__item {
   font-size: 20px;
   list-style: none;
   @include space-bottom-micro;

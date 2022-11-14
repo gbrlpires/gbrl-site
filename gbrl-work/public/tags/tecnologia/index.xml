@@ -9,10 +9,10 @@
     <lastBuildDate>Wed, 31 Aug 2022 17:19:19 -0300</lastBuildDate><atom:link href="https://joyful-lily-300459.netlify.app/tags/tecnologia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Comandos Linux que sempre preciso mas sempre esqueço</title>
-      <link>https://joyful-lily-300459.netlify.app/wiki/linux-comandos/</link>
+      <link>https://joyful-lily-300459.netlify.app/notas/linux-comandos/</link>
       <pubDate>Wed, 31 Aug 2022 17:19:19 -0300</pubDate>
       
-      <guid>https://joyful-lily-300459.netlify.app/wiki/linux-comandos/</guid>
+      <guid>https://joyful-lily-300459.netlify.app/notas/linux-comandos/</guid>
       <description>Atualiza Repositórios/Instala atualizações sudo apt-get update apt-get upgrade Deleta kernels não usados Uso esse especialmente para o PopOS
 apt autoremove dpkg --list | grep linux-image sudo apt remove --purge linux-image-[versão]-generic Obs.</description>
     </item>

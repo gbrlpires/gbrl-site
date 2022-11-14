@@ -23,9 +23,9 @@ summaryLength = 20
       weight = 3
 
     [[menu.main]]
-      identifier = "wiki"
-      name = "wiki"
-      url = "/wiki/"
+      identifier = "notas"
+      name = "notas"
+      url = "/notas/"
       weight = 4
 
 [taxonomies]
