@@ -12,6 +12,3 @@ client: Mina Comunicação e Arte
 images:
   - /projetos/escrevivencia/images/default.webp
 ---
-
-
-texto escrevivencia

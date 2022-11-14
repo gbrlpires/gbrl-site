@@ -1,9 +1,9 @@
 /* --- ABSTRACTS --- */
 @import 'abstracts/_mixins.scss';
+@import 'abstracts/_variables.scss';
 
 /* --- BASE --- */
 @import 'base/_reset.scss';
-@import 'base/_variables.scss';
 @import 'base/_fontface.scss';
 @import 'base/_base.scss';
 @import 'base/_typography.scss';

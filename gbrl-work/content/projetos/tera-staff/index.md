@@ -8,5 +8,3 @@ client: Tera
 images:
   - /projetos/tera-staff/images/default.webp
 ---
-
-texto tera staff

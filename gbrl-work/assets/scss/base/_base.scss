@@ -42,8 +42,7 @@ p {
 }
 
 figcaption {
-  @include space-top-micro;
-  @include space-bottom-micro;
+  @include space-bottom-tiny;
 
   @include for-tablet-up {
     width: 80%;
@@ -52,6 +51,18 @@ figcaption {
 
 figcaption p {
   font-size: $text-caption;
+}
+
+iframe {
+  @include space-top-tiny;
+  @include space-bottom-tiny;
+}
+
+pre {
+  background-color: #282828;
+  padding: 16px 12px;
+  margin-top: 8px;
+  margin-bottom: 20px;
 }
 
 em, .em {

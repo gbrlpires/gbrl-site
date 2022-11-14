@@ -8,5 +8,3 @@ client: Ibrasotope
 images:
   - /projetos/ibe60/images/default.webp
 ---
-
-texto ibe60

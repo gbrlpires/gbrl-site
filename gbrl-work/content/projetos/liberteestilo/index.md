@@ -8,5 +8,3 @@ client: Érica Minchin
 images:
   - /projetos/liberteestilo/images/default.webp
 ---
-
-texto liberte

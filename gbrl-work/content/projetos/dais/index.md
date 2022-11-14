@@ -12,5 +12,3 @@ client: Catálise
 images:
   - /projetos/dais/images/default.webp
 ---
-
-texto dais dais

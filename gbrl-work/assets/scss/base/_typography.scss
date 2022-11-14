@@ -5,6 +5,7 @@ html {
 }
 
 .p, p {
+  line-height: 1.4;
   font-size: $text-body-mobile;
 
   @include for-tablet-up {
