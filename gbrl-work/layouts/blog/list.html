@@ -1,6 +1,8 @@
 {{ define "main" }}
   <main class="blog__container container">
     <h2 class="blog__title h2--bigger">{{ .Title }}</h2>
+    <!-- TIRAR QUANDO DO PRIMEIRO POST -->
+    <p>-- EM BREVE --</p>
     <section class="blog-posts-list__container">
       {{ with .Site.GetPage "/blog" }}
         {{ range .Pages }}
