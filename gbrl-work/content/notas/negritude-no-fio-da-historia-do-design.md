@@ -141,8 +141,8 @@ Outros designers citados na matéria:
 ##### Louise E. Jefferson
 Contexto da queda da bolsa de 29
 
-Artigo da Esri Communities
-(https://community.esri.com/t5/conservation-gis/1908-2002-louise-e-jefferson-artist-publisher/ta-p/914970)
+Artigo da Esri Communities  
+https://community.esri.com/t5/conservation-gis/1908-2002-louise-e-jefferson-artist-publisher/ta-p/914970
 
 Citação em matéria sobre mulheres cartógrafas no séc XX (Bloomberg, 2016)
 [How 20th-Century Women Put the 'Art' in Cartography](https://www.bloomberg.com/news/articles/2016-03-25/the-women-cartographers-who-mapped-art-and-science-in-the-20th-century)
