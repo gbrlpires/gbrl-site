@@ -245,10 +245,10 @@ formação X autodidatismo = Capital Simbólico
 ##### Dicas dadas pela galera
 
 "12 passos para o designer não solicitado"
-Extra Bold, Ellen Lupton
-https://www.kixart.lt/media/images/Nuotraukos/nike-x-off-white/textbook.pdf
-https://www.firstthingsfirst2020.org/
-https://transreads.org/wp-content/uploads/2021/08/2021-08-02_61074a87c974d_extrabold.pdf
-https://www.amazon.com/Design-Struggles-Intersecting-Pedagogies-Perspectives/dp/9492095882
-https://www.amazon.com/CAPS-LOCK-Capitalism-Graphic-Design/dp/9492095815
-http://www.designishistory.com/1960/first-things-first/
+Extra Bold, Ellen Lupton  
+https://www.kixart.lt/media/images/Nuotraukos/nike-x-off-white/textbook.pdf  
+https://www.firstthingsfirst2020.org/  
+https://transreads.org/wp-content/uploads/2021/08/2021-08-02_61074a87c974d_extrabold.pdf  
+https://www.amazon.com/Design-Struggles-Intersecting-Pedagogies-Perspectives/dp/9492095882  
+https://www.amazon.com/CAPS-LOCK-Capitalism-Graphic-Design/dp/9492095815  
+http://www.designishistory.com/1960/first-things-first/  
