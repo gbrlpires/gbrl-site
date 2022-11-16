@@ -10,3 +10,6 @@ tags:
 Compilado de artigos e informações sobre Nossa Senhora do Livramento, pertencente ao distrito de Santa Rita-PB, cidade de origem da minha família paterna.
 
 [ARTIGO: Vida e cotidiano dos pescadores artesanais de Nossa Senhora do Livramento, Santa Rita-PB](https://repositorio.ufpb.br/jspui/handle/tede/5880)
+
+
+{{< youtube id="jZHxKz3NEdA" title="Documentário de Ipojuca Pontes - Os Homens no Caranguejo" >}}
