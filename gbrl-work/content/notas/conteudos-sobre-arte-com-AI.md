@@ -3,6 +3,7 @@ title: "Conteúdos sobre arte com AI"
 date: 2022-11-16T10:15:08-03:00
 tags:
  - tecnologia
+ - arte
 draft: false
 ---
 

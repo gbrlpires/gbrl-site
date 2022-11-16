@@ -18,4 +18,5 @@
   {{ $style := resources.Get "scss/main.scss" | resources.ToCSS $options}}
   {{ $style = $style | fingerprint | minify }}
   <link rel="stylesheet" href="{{ $style.Permalink }}">
+  <link rel="me" href="https://bantu.social/@_gbrlpires">
 </head>

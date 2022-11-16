@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>arte on gbrlpires</title>
+    <link>https://www.gbrl.work/tags/arte/</link>
+    <description>Recent content in arte on gbrlpires</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 16 Nov 2022 10:15:08 -0300</lastBuildDate><atom:link href="https://www.gbrl.work/tags/arte/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Conteúdos sobre arte com AI</title>
+      <link>https://www.gbrl.work/notas/conteudos-sobre-arte-com-ai/</link>
+      <pubDate>Wed, 16 Nov 2022 10:15:08 -0300</pubDate>
+      
+      <guid>https://www.gbrl.work/notas/conteudos-sobre-arte-com-ai/</guid>
+      <description>Lista de repositórios públicos com a tag #ai-art no github github.com/topics/ai-art
+SDK for interacting with stability.ai APIs github.com/Stability-AI/stability-sdk
+Awesome Generative Deep Art Repositório com uma lista de ferramentas, modelos, projetos de Generative Deep Art, por Filipe Calegario</description>
+    </item>
+    
+  </channel>
+</rss>

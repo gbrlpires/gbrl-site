@@ -4,6 +4,8 @@ date: 2022-08-31T19:45:23-03:00
 draft: false
 tags:
  - design
+ - negritude
+
 ---
 
 ### Bibliografia do curso, por Rodrigo Rosm

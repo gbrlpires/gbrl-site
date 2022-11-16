@@ -2,107 +2,125 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on gbrlpires</title>
-    <link>https://joyful-lily-300459.netlify.app/tags/</link>
+    <link>https://www.gbrl.work/tags/</link>
     <description>Recent content in Tags on gbrlpires</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Sat, 08 Oct 2022 19:42:30 -0300</lastBuildDate><atom:link href="https://joyful-lily-300459.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Nov 2022 10:15:08 -0300</lastBuildDate><atom:link href="https://www.gbrl.work/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>música</title>
-      <link>https://joyful-lily-300459.netlify.app/tags/m%C3%BAsica/</link>
-      <pubDate>Sat, 08 Oct 2022 19:42:30 -0300</pubDate>
+      <title>arte</title>
+      <link>https://www.gbrl.work/tags/arte/</link>
+      <pubDate>Wed, 16 Nov 2022 10:15:08 -0300</pubDate>
       
-      <guid>https://joyful-lily-300459.netlify.app/tags/m%C3%BAsica/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>artes</title>
-      <link>https://joyful-lily-300459.netlify.app/tags/artes/</link>
-      <pubDate>Fri, 30 Sep 2022 19:21:19 -0300</pubDate>
-      
-      <guid>https://joyful-lily-300459.netlify.app/tags/artes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>design</title>
-      <link>https://joyful-lily-300459.netlify.app/tags/design/</link>
-      <pubDate>Fri, 30 Sep 2022 19:21:19 -0300</pubDate>
-      
-      <guid>https://joyful-lily-300459.netlify.app/tags/design/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>negritude</title>
-      <link>https://joyful-lily-300459.netlify.app/tags/negritude/</link>
-      <pubDate>Fri, 30 Sep 2022 19:21:19 -0300</pubDate>
-      
-      <guid>https://joyful-lily-300459.netlify.app/tags/negritude/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>artigos acadêmicos</title>
-      <link>https://joyful-lily-300459.netlify.app/tags/artigos-acad%C3%AAmicos/</link>
-      <pubDate>Thu, 29 Sep 2022 19:15:48 -0300</pubDate>
-      
-      <guid>https://joyful-lily-300459.netlify.app/tags/artigos-acad%C3%AAmicos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>repertório pessoal</title>
-      <link>https://joyful-lily-300459.netlify.app/tags/repert%C3%B3rio-pessoal/</link>
-      <pubDate>Thu, 29 Sep 2022 19:15:48 -0300</pubDate>
-      
-      <guid>https://joyful-lily-300459.netlify.app/tags/repert%C3%B3rio-pessoal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>literatura</title>
-      <link>https://joyful-lily-300459.netlify.app/tags/literatura/</link>
-      <pubDate>Thu, 29 Sep 2022 09:42:19 -0300</pubDate>
-      
-      <guid>https://joyful-lily-300459.netlify.app/tags/literatura/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>linux</title>
-      <link>https://joyful-lily-300459.netlify.app/tags/linux/</link>
-      <pubDate>Wed, 31 Aug 2022 17:19:19 -0300</pubDate>
-      
-      <guid>https://joyful-lily-300459.netlify.app/tags/linux/</guid>
+      <guid>https://www.gbrl.work/tags/arte/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tecnologia</title>
-      <link>https://joyful-lily-300459.netlify.app/tags/tecnologia/</link>
+      <link>https://www.gbrl.work/tags/tecnologia/</link>
+      <pubDate>Wed, 16 Nov 2022 10:15:08 -0300</pubDate>
+      
+      <guid>https://www.gbrl.work/tags/tecnologia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>arquitetura</title>
+      <link>https://www.gbrl.work/tags/arquitetura/</link>
+      <pubDate>Sun, 16 Oct 2022 20:14:34 -0300</pubDate>
+      
+      <guid>https://www.gbrl.work/tags/arquitetura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>design</title>
+      <link>https://www.gbrl.work/tags/design/</link>
+      <pubDate>Sun, 16 Oct 2022 20:14:34 -0300</pubDate>
+      
+      <guid>https://www.gbrl.work/tags/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>música</title>
+      <link>https://www.gbrl.work/tags/m%C3%BAsica/</link>
+      <pubDate>Wed, 12 Oct 2022 10:12:02 -0300</pubDate>
+      
+      <guid>https://www.gbrl.work/tags/m%C3%BAsica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>negritude</title>
+      <link>https://www.gbrl.work/tags/negritude/</link>
+      <pubDate>Wed, 12 Oct 2022 10:12:02 -0300</pubDate>
+      
+      <guid>https://www.gbrl.work/tags/negritude/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>artes</title>
+      <link>https://www.gbrl.work/tags/artes/</link>
+      <pubDate>Fri, 30 Sep 2022 19:21:19 -0300</pubDate>
+      
+      <guid>https://www.gbrl.work/tags/artes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>artigos acadêmicos</title>
+      <link>https://www.gbrl.work/tags/artigos-acad%C3%AAmicos/</link>
+      <pubDate>Thu, 29 Sep 2022 19:15:48 -0300</pubDate>
+      
+      <guid>https://www.gbrl.work/tags/artigos-acad%C3%AAmicos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>repertório pessoal</title>
+      <link>https://www.gbrl.work/tags/repert%C3%B3rio-pessoal/</link>
+      <pubDate>Thu, 29 Sep 2022 19:15:48 -0300</pubDate>
+      
+      <guid>https://www.gbrl.work/tags/repert%C3%B3rio-pessoal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>literatura</title>
+      <link>https://www.gbrl.work/tags/literatura/</link>
+      <pubDate>Thu, 29 Sep 2022 09:42:19 -0300</pubDate>
+      
+      <guid>https://www.gbrl.work/tags/literatura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://www.gbrl.work/tags/linux/</link>
       <pubDate>Wed, 31 Aug 2022 17:19:19 -0300</pubDate>
       
-      <guid>https://joyful-lily-300459.netlify.app/tags/tecnologia/</guid>
+      <guid>https://www.gbrl.work/tags/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>editorial</title>
-      <link>https://joyful-lily-300459.netlify.app/tags/editorial/</link>
+      <link>https://www.gbrl.work/tags/editorial/</link>
       <pubDate>Fri, 12 Aug 2022 17:05:39 -0300</pubDate>
       
-      <guid>https://joyful-lily-300459.netlify.app/tags/editorial/</guid>
+      <guid>https://www.gbrl.work/tags/editorial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>referências</title>
-      <link>https://joyful-lily-300459.netlify.app/tags/refer%C3%AAncias/</link>
+      <link>https://www.gbrl.work/tags/refer%C3%AAncias/</link>
       <pubDate>Fri, 12 Aug 2022 17:05:39 -0300</pubDate>
       
-      <guid>https://joyful-lily-300459.netlify.app/tags/refer%C3%AAncias/</guid>
+      <guid>https://www.gbrl.work/tags/refer%C3%AAncias/</guid>
       <description></description>
     </item>
     
