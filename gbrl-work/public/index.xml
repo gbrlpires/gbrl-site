@@ -6,7 +6,17 @@
     <description>Recent content in design visual e ilustração on gbrlpires</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Wed, 16 Nov 2022 10:15:08 -0300</lastBuildDate><atom:link href="https://www.gbrl.work/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Nov 2022 13:29:44 -0300</lastBuildDate><atom:link href="https://www.gbrl.work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Capas De Disco Incríveis</title>
+      <link>https://www.gbrl.work/notas/capas-de-disco-incriveis/</link>
+      <pubDate>Mon, 21 Nov 2022 13:29:44 -0300</pubDate>
+      
+      <guid>https://www.gbrl.work/notas/capas-de-disco-incriveis/</guid>
+      <description>Jiro Inagaki &amp;amp; Soul Media - Funky Stuff (1975
+   Isso sim é carnaval! - Coletânea Vol.01</description>
+    </item>
+    
     <item>
       <title>Conteúdos sobre arte com AI</title>
       <link>https://www.gbrl.work/notas/conteudos-sobre-arte-com-ai/</link>
@@ -88,8 +98,8 @@ Awesome Generative Deep Art Repositório com uma lista de ferramentas, modelos, 
       <pubDate>Wed, 31 Aug 2022 17:19:19 -0300</pubDate>
       
       <guid>https://www.gbrl.work/notas/linux-comandos/</guid>
-      <description>Atualiza Repositórios/Instala atualizações sudo apt-get update apt-get upgrade Deleta kernels não usados Uso esse especialmente para o PopOS
-apt autoremove dpkg --list | grep linux-image sudo apt remove --purge linux-image-[versão]-generic Obs.</description>
+      <description>Atualiza Repositórios/Instala atualizações sudo apt-get updateapt-get upgradeDeleta kernels não usados Uso esse especialmente para o PopOS
+apt autoremovedpkg --list | grep linux-imagesudo apt remove --purge linux-image-[versão]-genericObs.</description>
     </item>
     
     <item>
@@ -156,6 +166,17 @@ apt autoremove dpkg --list | grep linux-image sudo apt remove --purge linux-imag
       
       <guid>https://www.gbrl.work/projetos/ibe60/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>lab</title>
+      <link>https://www.gbrl.work/lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gbrl.work/lab/</guid>
+      <description>Compilado de experimentações, acidentes de processo e imagens sem destino.
+Inspirado no projeto Outra parte do processo
+   </description>
     </item>
     
     <item>
