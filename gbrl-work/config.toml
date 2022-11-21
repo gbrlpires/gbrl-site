@@ -28,6 +28,12 @@ summaryLength = 20
       url = "/notas/"
       weight = 4
 
+       [[menu.main]]
+      identifier = "lab"
+      name = "lab"
+      url = "/lab/"
+      weight = 5
+
 [taxonomies]
   tag = "tags"
   category = "categories"
