@@ -8,6 +8,10 @@ Inspirado no projeto [Outra parte do processo](https://outrapartedoprocesso.tumb
 
 
 {{< gallery/columns class="gallery--1-col" >}}
+  {{< figure src="/lab/images/EscuteTeusilencio__Fundo02.jpg" >}}
+{{< /gallery/columns >}}
+
+{{< gallery/columns class="gallery--1-col" >}}
   {{< figure src="/lab/images/ilustracao_pinscher.jpg" >}}
 {{< /gallery/columns >}}
 
@@ -44,12 +48,6 @@ Inspirado no projeto [Outra parte do processo](https://outrapartedoprocesso.tumb
   {{< figure src="/lab/images/Intrinseca_AgainstWhiteFeminism__Estudo_01_33.png" >}}
   {{< figure src="/lab/images/Intrinseca_AgainstWhiteFeminism__Estudo_Capa_01_06.png" >}}
   {{< figure src="/lab/images/Intrinseca_AgainstWhiteFeminism__Estudo_Capa_013.png" >}}
-{{< /gallery/columns >}}
-
-{{< gallery/columns class="gallery--2-col" >}}
-  {{< figure src="/lab/images/contra-feminismo-branco.jpg" >}}
-  {{< figure src="/lab/images/contra-feminismo-pexels-anna-shvets-3851099.png" >}}
-
 {{< /gallery/columns >}}
 
 

@@ -5,7 +5,7 @@ draft: false
 tags:
  - negritude
  - design
- - artes
+ - arte
 ---
 
 ### Artes Visuais e Design
