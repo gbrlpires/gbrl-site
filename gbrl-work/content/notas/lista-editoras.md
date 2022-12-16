@@ -8,19 +8,20 @@ tags:
 
 ### Brasil  
 ##### Ciências Humanas/Política
-+ Ubu
++ [Ubu](https://www.ubueditora.com.br/)
 + Boitempo
 
-#### Generalistas
+##### Generalistas
 + Cia. das Letras
 + Intrínseca
 + Planeta de Livros
 
-#### Literatura/ficção
+##### Literatura/ficção
 + Tag Livros
 
 
-### Estrangeiras 
+### Estrangeiras
+ 
 #### EUA
  
 ##### Ciências Humanas/Política  
