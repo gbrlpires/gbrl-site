@@ -17,10 +17,10 @@ carnaval! - Coletânea Vol.03" >}}
 
 {{< figure src="/notas/images/capas-de-disco/dave-brubeck-quartet-time-out-front.jpg" caption="Dave Brubeck Quartet - Time Out" >}}
 
-{{< figure src="/notas/images/capas-de-disco/ryo-fukui-scenery-front-with-label.png" caption="Ryo Fukui - Scenery (Frente)" >}}
-{{< figure src="/notas/images/capas-de-disco/ryo-fukui-scenery-back-with-label.png" caption="Ryo Fukui - Scenery (Verso)" >}}
-{{< figure src="/notas/images/capas-de-disco/ryo-fukui-scenery-insert.png" caption="Ryo Fukui - Scenery (Encarte)" >}}
-{{< figure src="/notas/images/capas-de-disco/ryo-fukui-scenery-lp.png" caption="Ryo Fukui - Scenery (LP)" >}}
+{{< figure src="/notas/images/capas-de-disco/ryo-fukui-scenery-front-with-label.jpg" caption="Ryo Fukui - Scenery (Frente)" >}}
+{{< figure src="/notas/images/capas-de-disco/ryo-fukui-scenery-back-with-label.jpg" caption="Ryo Fukui - Scenery (Verso)" >}}
+{{< figure src="/notas/images/capas-de-disco/ryo-fukui-scenery-insert.jpg" caption="Ryo Fukui - Scenery (Encarte)" >}}
+{{< figure src="/notas/images/capas-de-disco/ryo-fukui-scenery-lp.jpg" caption="Ryo Fukui - Scenery (LP)" >}}
 
 
 {{< /gallery/columns >}}
