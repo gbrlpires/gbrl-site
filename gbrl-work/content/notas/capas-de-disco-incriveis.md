@@ -12,8 +12,7 @@ tags:
 
 {{< figure src="/notas/images/capas-de-disco/isso-sim-carnaval01.png" caption="Isso sim é carnaval! - Coletânea Vol.01" >}}
 {{< figure src="/notas/images/capas-de-disco/isso-sim-carnaval02.png" caption="Isso sim é carnaval! - Coletânea Vol.02" >}}
-{{< figure src="/notas/images/capas-de-disco/isso-sim-carnaval03.png" caption="Isso sim é 
-carnaval! - Coletânea Vol.03" >}}
+{{< figure src="/notas/images/capas-de-disco/isso-sim-carnaval03.png" caption="Isso sim é carnaval! - Coletânea Vol.03" >}}
 
 {{< figure src="/notas/images/capas-de-disco/dave-brubeck-quartet-time-out-front.jpg" caption="Dave Brubeck Quartet - Time Out" >}}
 
