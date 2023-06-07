@@ -8,7 +8,7 @@ tags:
 ---
 
 {{< gallery/columns class="gallery--2-col" >}}
-{{< figure src="/notas/images/capas-de-disco/Jiro Inagaki & Soul Media - Funky Stuff (1975).png" caption="Jiro Inagaki & Soul Media - Funky Stuff (1975" >}}
+{{< figure src="/notas/images/capas-de-disco/Jiro Inagaki & Soul Media - Funky Stuff (1975).png" caption="Jiro Inagaki & Soul Media - Funky Stuff (1975)" >}}
 
 {{< figure src="/notas/images/capas-de-disco/isso-sim-carnaval01.png" caption="Isso sim é carnaval! - Coletânea Vol.01" >}}
 {{< figure src="/notas/images/capas-de-disco/isso-sim-carnaval02.png" caption="Isso sim é carnaval! - Coletânea Vol.02" >}}
