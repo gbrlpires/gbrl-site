@@ -13,9 +13,9 @@ Achei depois, indo mais a fundo na bagunça, o envelope que Elke reservou para m
 {{< figure src="/blog/images/sobre-desenho/nuno_ramos__desenho2.png" alt="mesmo texto da imagem anterior, porém as marcações no textos se diferenciam um pouco por conta do traçar espontâneo" >}}
 
 {{< gallery/columns class="gallery--2-col" >}}
-{{< figure src="/blog/images/sobre-desenho/nuno_ramos__envelope-frente.png" alt="vista frontal de um pequeno envelope escaneado aberto. Ele é vermelho e pode-se ler \"Para Gabriela\" escrito a mão em letras de forma, com caneta preta, aparentemente de ponta fina e de feltro. Na lingueta de fechamento, um pequeno adesivo transparente e redondo" >}}
-{{< figure src="/blog/images/sobre-desenho/nuno_ramos__envelope-verso.png" alt="vista posterior do mesmo envelope da imagem anterior" >}}
-{{</ gallery/columns }}
+    {{< figure src="/blog/images/sobre-desenho/nuno_ramos__envelope-frente.png" alt="vista frontal de um pequeno envelope escaneado aberto. Ele é vermelho e pode-se ler \"Para Gabriela\" escrito a mão em letras de forma, com caneta preta, aparentemente de ponta fina e de feltro. Na lingueta de fechamento, um pequeno adesivo transparente e redondo" >}}
+    {{< figure src="/blog/images/sobre-desenho/nuno_ramos__envelope-verso.png" alt="vista posterior do mesmo envelope da imagem anterior" >}}
+{{< /gallery/columns >}}
 
 O texto é o mesmo e os trechos destacados também. Mas curioso perceber as intervenções feitas na folha. Traços, setas, texturas diferentes da caneta. Acho que esse é o tipo de coisa que Elke nos fazia reparar e pensar sobre. Minúcias que parecem pouco importantes mas, revelam tanto. No meu caso, principalmente lembranças de aulas, de falas e de presença. Coisas que absorvi naquele período de tempo e que ressoam em mim até hoje. Algumas dessas coisas e este próprio texto de Nuno, me fazem pensar sobre a minha relação com o desenho. Apesar da presença constante no dia a dia e no meu trabalho, uma relação bastante conflituosa. 
 
