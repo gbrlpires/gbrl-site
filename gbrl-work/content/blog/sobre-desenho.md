@@ -11,7 +11,7 @@ Achei uma xerox de uma página de livro que a Elke Coelho, minha professora de d
 Achei depois, indo mais a fundo na bagunça, o envelope que Elke reservou para mim, junto com um trecho do mesmo texto.
 
 {{< figure src="/blog/images/sobre-desenho/nuno_ramos__desenho2.png" alt="mesmo texto da imagem anterior, porém as marcações no textos se diferenciam um pouco por conta do traçar espontâneo" >}}
-{{< figure src="/blog/images/sobre-desenho/nuno_ramos__envelope-frente.png" alt="vista frontal de um pequeno envelope escaneado aberto. Ele é vermelho e pode-se ler "Para Gabriela" escrito a mão em letras de forma, com caneta preta, aparentemente de ponta fina e de feltro" >}}
+{{< figure src="/blog/images/sobre-desenho/nuno_ramos__envelope-frente.png" alt="vista frontal de um pequeno envelope escaneado aberto. Ele é vermelho e pode-se ler \"Para Gabriela\" escrito a mão em letras de forma, com caneta preta, aparentemente de ponta fina e de feltro" >}}
 {{< figure src="/blog/images/sobre-desenho/nuno_ramos__envelope-verso.png" alt="vista posterior do mesmo envelope da imagem anterior" >}}
 
 O texto é o mesmo e os trechos destacados também. Mas curioso perceber as intervenções feitas na folha. Traços, setas, cores diferentes de canetas. Acho que esse é o tipo de coisa que Elke nos fazia reparar e pensar sobre. Minúcias que parecem pouco importantes mas, revelam tanto. No meu caso, principalmente lembranças de aulas, de falas e de presença.
