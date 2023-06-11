@@ -2,6 +2,8 @@
 title: "Sobre Desenho"
 date: 2023-06-10T17:11:10-03:00
 draft: false
+images:
+  - /blog/images/sobre-desenho/default.jpg
 ---
 
 Achei uma xerox de uma página de livro que Elke Coelho, minha professora de desenho durante a graduação, nos separou para fazermos um exercício. Curiosamente, o trecho que achei entre minhas coisas era para a Erika, uma amiga e colega de classe. Não tenho ideia do motivo de estar no meio das minhas coisas mas, naquela época, eram muitas as vezes que trocávamos materiais, textos, favores, então não me surpreende. Do trecho, só lembro que era de um livro do Nuno Ramos mas procurei e ainda não descobri de que livro foi retirado. 
