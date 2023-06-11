@@ -2,8 +2,6 @@
 title: "Sobre Desenho"
 date: 2023-06-10T17:11:10-03:00
 draft: false
-images:
-  - /blog/images/sobre-desenho/default.jpg
 ---
 
 Achei uma xerox de uma página de livro que Elke Coelho, minha professora de desenho durante a graduação, nos separou para fazermos um exercício. Curiosamente, o trecho que achei entre minhas coisas era para a Erika, uma amiga e colega de classe. Não tenho ideia do motivo de estar no meio das minhas coisas mas, naquela época, eram muitas as vezes que trocávamos materiais, textos, favores, então não me surpreende. Do trecho, só lembro que era de um livro do Nuno Ramos mas procurei e ainda não descobri de que livro foi retirado. 
@@ -17,7 +15,7 @@ Achei depois, indo mais a fundo na bagunça, o envelope que Elke reservou para m
 {{< gallery/columns class="gallery--2-col" >}}
 {{< figure src="/blog/images/sobre-desenho/nuno_ramos__envelope-frente.png" alt="vista frontal de um pequeno envelope escaneado aberto. Ele é vermelho e pode-se ler \"Para Gabriela\" escrito a mão em letras de forma, com caneta preta, aparentemente de ponta fina e de feltro. Na lingueta de fechamento, um pequeno adesivo transparente e redondo" >}}
 {{< figure src="/blog/images/sobre-desenho/nuno_ramos__envelope-verso.png" alt="vista posterior do mesmo envelope da imagem anterior" >}}
-{{< /gallery/columns }}
+{{</ gallery/columns }}
 
 O texto é o mesmo e os trechos destacados também. Mas curioso perceber as intervenções feitas na folha. Traços, setas, texturas diferentes da caneta. Acho que esse é o tipo de coisa que Elke nos fazia reparar e pensar sobre. Minúcias que parecem pouco importantes mas, revelam tanto. No meu caso, principalmente lembranças de aulas, de falas e de presença. Coisas que absorvi naquele período de tempo e que ressoam em mim até hoje. Algumas dessas coisas e este próprio texto de Nuno, me fazem pensar sobre a minha relação com o desenho. Apesar da presença constante no dia a dia e no meu trabalho, uma relação bastante conflituosa. 
 
