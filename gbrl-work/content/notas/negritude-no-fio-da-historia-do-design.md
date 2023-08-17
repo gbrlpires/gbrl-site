@@ -27,7 +27,7 @@ tags:
 - Um pecado de omissão - Guilherme Ribeiro
 - [The Black Experience in Graphic Design - Dorothy Jackson na Print Magazine (1968)](https://www.printmag.com/design-culture/the-black-experience-1968/)
 - The Black Experience in Design - Identity Expression & Reflection (2022)
-- Afrikan Alphabets - The story of writing in Afrika, Saki Mafundikwa
+- [Afrikan Alphabets - The story of writing in Afrika, Saki Mafundikwa](https://archive.org/details/afrikanalphabets0000mafu)
 - Nations Nègres et Culture, Sheik Anta Diop
 - Something, Virgil Abloh
 - Ensinando a transgredir: a educação como prática da liberdade, bell hooks

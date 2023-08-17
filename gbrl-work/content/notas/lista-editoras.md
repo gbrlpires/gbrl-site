@@ -19,6 +19,11 @@ tags:
 ##### Literatura/ficção
 + Tag Livros
 
+##### Infantis
++ [Selo Baobá](https://rhjlivros.com.br/)
++ [Panda Books](https://www.pandabooks.com.br/)
++ [Cora](https://www.coraeditora.com/)
+
 
 ### Estrangeiras
  
