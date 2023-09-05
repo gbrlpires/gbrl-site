@@ -9,15 +9,17 @@ tags:
 ### Brasil  
 ##### Ciências Humanas/Política
 + [Ubu](https://www.ubueditora.com.br/)
-+ Boitempo
++ [Boitempo](https://www.boitempoeditorial.com.br/)
++ [SobInfluência](https://www.sobinfluencia.com/)
++ [Elefante](https://elefanteeditora.com.br/)
 
 ##### Generalistas
-+ Cia. das Letras
-+ Intrínseca
-+ Planeta de Livros
++ [Cia. das Letras](https://www.companhiadasletras.com.br/)
++ [Intrínseca](https://intrinseca.com.br/)
++ [Planeta de Livros](https://www.planetadelivros.com.br/)
 
 ##### Literatura/ficção
-+ Tag Livros
++ [Tag Livros](https://site.taglivros.com/)
 
 ##### Infantis
 + [Selo Baobá](https://rhjlivros.com.br/)
@@ -26,9 +28,6 @@ tags:
 
 
 ### Estrangeiras
- 
-#### EUA
- 
 ##### Ciências Humanas/Política  
 + [AK Press](https://www.akpress.org/)
 + [Beacon](http://www.beacon.org/)
