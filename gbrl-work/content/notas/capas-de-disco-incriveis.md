@@ -8,6 +8,12 @@ tags:
 ---
 
 {{< gallery/columns class="gallery--2-col" >}}
+
+{{< figure src="/notas/images/capas-de-disco/meb-that-you-not-dare-to-forget.jpg" caption="M.E.B. (Miles Electric Band) - That You Not Dare to Forget" >}}
+{{< figure src="/notas/images/capas-de-disco/les-ambassadeurs-du-motel-bamako.jpg" caption="Les Ambassadeurs du Motel de Bamako - Vol.02" >}}
+{{< figure src="/notas/images/capas-de-disco/ary-lobo-1958​-​1966-analog-africa.jpg" caption="Ary Lobo 1958​-​1966 (Limited Dance Edition No​.​19/Press by Analog Africa)" >}}
+{{< figure src="/notas/images/capas-de-disco/jambu-os-miticos-sons-amazonia.jpg" caption="Jambú e os Míticos Sons da Amazônia (Analog Africa Nr. 28)" >}}
+
 {{< figure src="/notas/images/capas-de-disco/Jiro Inagaki & Soul Media - Funky Stuff (1975).png" caption="Jiro Inagaki & Soul Media - Funky Stuff (1975)" >}}
 
 {{< figure src="/notas/images/capas-de-disco/isso-sim-carnaval01.png" caption="Isso sim é carnaval! - Coletânea Vol.01" >}}
