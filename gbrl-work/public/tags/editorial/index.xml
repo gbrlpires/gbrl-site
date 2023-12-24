@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>editorial on gbrlpires</title>
-    <link>https://www.gbrl.work/tags/editorial/</link>
+    <link>http://localhost:1313/tags/editorial/</link>
     <description>Recent content in editorial on gbrlpires</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 15 Dec 2022 14:40:02 -0300</lastBuildDate>
-    <atom:link href="https://www.gbrl.work/tags/editorial/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/editorial/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lista de editoras e selos (país/categoria)</title>
-      <link>https://www.gbrl.work/notas/lista-editoras/</link>
+      <link>http://localhost:1313/notas/lista-editoras/</link>
       <pubDate>Thu, 15 Dec 2022 14:40:02 -0300</pubDate>
-      <guid>https://www.gbrl.work/notas/lista-editoras/</guid>
+      <guid>http://localhost:1313/notas/lista-editoras/</guid>
       <description>Brasil Ciências Humanas/Política Ubu Boitempo SobInfluência Elefante Generalistas Cia. das Letras Intrínseca Planeta de Livros Literatura/ficção Tag Livros Infantis Selo Baobá Panda Books Cora Estrangeiras Ciências Humanas/Política AK Press Beacon </description>
     </item>
     <item>
       <title>Mateus Valadares [ref.] </title>
-      <link>https://www.gbrl.work/notas/mateus-valadares/</link>
+      <link>http://localhost:1313/notas/mateus-valadares/</link>
       <pubDate>Fri, 12 Aug 2022 17:05:39 -0300</pubDate>
-      <guid>https://www.gbrl.work/notas/mateus-valadares/</guid>
+      <guid>http://localhost:1313/notas/mateus-valadares/</guid>
       <description>Mateus Valadares - Site/Portifólio&#xA;Capa do livro Eloquência da Sardinha, Bill François | Editora Todavia - Design por Mateus Valadares</description>
     </item>
   </channel>

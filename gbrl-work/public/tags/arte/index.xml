@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>arte on gbrlpires</title>
-    <link>https://www.gbrl.work/tags/arte/</link>
+    <link>http://localhost:1313/tags/arte/</link>
     <description>Recent content in arte on gbrlpires</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 05 Dec 2022 16:01:11 -0300</lastBuildDate>
-    <atom:link href="https://www.gbrl.work/tags/arte/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/arte/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Catálogos e Acervos de Imagens em Domínio Publico</title>
-      <link>https://www.gbrl.work/notas/catalogos-e-acervos-imagens-dominio-publico/</link>
+      <link>http://localhost:1313/notas/catalogos-e-acervos-imagens-dominio-publico/</link>
       <pubDate>Mon, 05 Dec 2022 16:01:11 -0300</pubDate>
-      <guid>https://www.gbrl.work/notas/catalogos-e-acervos-imagens-dominio-publico/</guid>
+      <guid>http://localhost:1313/notas/catalogos-e-acervos-imagens-dominio-publico/</guid>
       <description>História Natural, Biologia e Ciências Biodiversity Heritage Library Geral Flickr Commons Wiki Commons Internet Archive </description>
     </item>
     <item>
       <title>Conteúdos sobre arte com AI</title>
-      <link>https://www.gbrl.work/notas/conteudos-sobre-arte-com-ai/</link>
+      <link>http://localhost:1313/notas/conteudos-sobre-arte-com-ai/</link>
       <pubDate>Wed, 16 Nov 2022 10:15:08 -0300</pubDate>
-      <guid>https://www.gbrl.work/notas/conteudos-sobre-arte-com-ai/</guid>
+      <guid>http://localhost:1313/notas/conteudos-sobre-arte-com-ai/</guid>
       <description>Lista de repositórios públicos com a tag #ai-art no github github.com/topics/ai-art&#xA;SDK for interacting with stability.ai APIs github.com/Stability-AI/stability-sdk&#xA;Awesome Generative Deep Art Repositório com uma lista de ferramentas, modelos, projetos de Generative Deep Art, por Filipe Calegario</description>
     </item>
     <item>
       <title>Publicacoes Negras e Não-Brancas Nas Artes Visuais</title>
-      <link>https://www.gbrl.work/notas/publicacoes-negras-e-nao-brancas-nas-artes-visuais/</link>
+      <link>http://localhost:1313/notas/publicacoes-negras-e-nao-brancas-nas-artes-visuais/</link>
       <pubDate>Fri, 30 Sep 2022 19:21:19 -0300</pubDate>
-      <guid>https://www.gbrl.work/notas/publicacoes-negras-e-nao-brancas-nas-artes-visuais/</guid>
+      <guid>http://localhost:1313/notas/publicacoes-negras-e-nao-brancas-nas-artes-visuais/</guid>
       <description>Artes Visuais e Design Shades of Noir &amp;ldquo;In 2009 Shades of Noir (SoN) was created by Aisha Richards. SoN is an independent program that supports: + Curriculum design + Pedagogies of social justice through representation + Cultural currency + Accessible knowledge&amp;rdquo;</description>
     </item>
   </channel>

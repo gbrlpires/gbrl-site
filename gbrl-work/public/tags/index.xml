@@ -2,115 +2,115 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on gbrlpires</title>
-    <link>https://www.gbrl.work/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on gbrlpires</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 15 Dec 2022 14:40:02 -0300</lastBuildDate>
-    <atom:link href="https://www.gbrl.work/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>editorial</title>
-      <link>https://www.gbrl.work/tags/editorial/</link>
+      <link>http://localhost:1313/tags/editorial/</link>
       <pubDate>Thu, 15 Dec 2022 14:40:02 -0300</pubDate>
-      <guid>https://www.gbrl.work/tags/editorial/</guid>
+      <guid>http://localhost:1313/tags/editorial/</guid>
       <description></description>
     </item>
     <item>
       <title>ilustração</title>
-      <link>https://www.gbrl.work/tags/ilustra%C3%A7%C3%A3o/</link>
+      <link>http://localhost:1313/tags/ilustra%C3%A7%C3%A3o/</link>
       <pubDate>Tue, 13 Dec 2022 15:07:07 -0300</pubDate>
-      <guid>https://www.gbrl.work/tags/ilustra%C3%A7%C3%A3o/</guid>
+      <guid>http://localhost:1313/tags/ilustra%C3%A7%C3%A3o/</guid>
       <description></description>
     </item>
     <item>
       <title>literatura</title>
-      <link>https://www.gbrl.work/tags/literatura/</link>
+      <link>http://localhost:1313/tags/literatura/</link>
       <pubDate>Tue, 13 Dec 2022 15:07:07 -0300</pubDate>
-      <guid>https://www.gbrl.work/tags/literatura/</guid>
+      <guid>http://localhost:1313/tags/literatura/</guid>
       <description></description>
     </item>
     <item>
       <title>quadrinhos</title>
-      <link>https://www.gbrl.work/tags/quadrinhos/</link>
+      <link>http://localhost:1313/tags/quadrinhos/</link>
       <pubDate>Tue, 13 Dec 2022 15:07:07 -0300</pubDate>
-      <guid>https://www.gbrl.work/tags/quadrinhos/</guid>
+      <guid>http://localhost:1313/tags/quadrinhos/</guid>
       <description></description>
     </item>
     <item>
       <title>referências</title>
-      <link>https://www.gbrl.work/tags/refer%C3%AAncias/</link>
+      <link>http://localhost:1313/tags/refer%C3%AAncias/</link>
       <pubDate>Tue, 13 Dec 2022 15:07:07 -0300</pubDate>
-      <guid>https://www.gbrl.work/tags/refer%C3%AAncias/</guid>
+      <guid>http://localhost:1313/tags/refer%C3%AAncias/</guid>
       <description></description>
     </item>
     <item>
       <title>acadêmico</title>
-      <link>https://www.gbrl.work/tags/acad%C3%AAmico/</link>
+      <link>http://localhost:1313/tags/acad%C3%AAmico/</link>
       <pubDate>Mon, 05 Dec 2022 16:01:11 -0300</pubDate>
-      <guid>https://www.gbrl.work/tags/acad%C3%AAmico/</guid>
+      <guid>http://localhost:1313/tags/acad%C3%AAmico/</guid>
       <description></description>
     </item>
     <item>
       <title>arte</title>
-      <link>https://www.gbrl.work/tags/arte/</link>
+      <link>http://localhost:1313/tags/arte/</link>
       <pubDate>Mon, 05 Dec 2022 16:01:11 -0300</pubDate>
-      <guid>https://www.gbrl.work/tags/arte/</guid>
+      <guid>http://localhost:1313/tags/arte/</guid>
       <description></description>
     </item>
     <item>
       <title>design</title>
-      <link>https://www.gbrl.work/tags/design/</link>
+      <link>http://localhost:1313/tags/design/</link>
       <pubDate>Mon, 05 Dec 2022 16:01:11 -0300</pubDate>
-      <guid>https://www.gbrl.work/tags/design/</guid>
+      <guid>http://localhost:1313/tags/design/</guid>
       <description></description>
     </item>
     <item>
       <title>música</title>
-      <link>https://www.gbrl.work/tags/m%C3%BAsica/</link>
+      <link>http://localhost:1313/tags/m%C3%BAsica/</link>
       <pubDate>Mon, 21 Nov 2022 13:29:44 -0300</pubDate>
-      <guid>https://www.gbrl.work/tags/m%C3%BAsica/</guid>
+      <guid>http://localhost:1313/tags/m%C3%BAsica/</guid>
       <description></description>
     </item>
     <item>
       <title>tecnologia</title>
-      <link>https://www.gbrl.work/tags/tecnologia/</link>
+      <link>http://localhost:1313/tags/tecnologia/</link>
       <pubDate>Wed, 16 Nov 2022 10:15:08 -0300</pubDate>
-      <guid>https://www.gbrl.work/tags/tecnologia/</guid>
+      <guid>http://localhost:1313/tags/tecnologia/</guid>
       <description></description>
     </item>
     <item>
       <title>arquitetura</title>
-      <link>https://www.gbrl.work/tags/arquitetura/</link>
+      <link>http://localhost:1313/tags/arquitetura/</link>
       <pubDate>Sun, 16 Oct 2022 20:14:34 -0300</pubDate>
-      <guid>https://www.gbrl.work/tags/arquitetura/</guid>
+      <guid>http://localhost:1313/tags/arquitetura/</guid>
       <description></description>
     </item>
     <item>
       <title>negritude</title>
-      <link>https://www.gbrl.work/tags/negritude/</link>
+      <link>http://localhost:1313/tags/negritude/</link>
       <pubDate>Wed, 12 Oct 2022 10:12:02 -0300</pubDate>
-      <guid>https://www.gbrl.work/tags/negritude/</guid>
+      <guid>http://localhost:1313/tags/negritude/</guid>
       <description></description>
     </item>
     <item>
       <title>artigos acadêmicos</title>
-      <link>https://www.gbrl.work/tags/artigos-acad%C3%AAmicos/</link>
+      <link>http://localhost:1313/tags/artigos-acad%C3%AAmicos/</link>
       <pubDate>Thu, 29 Sep 2022 19:15:48 -0300</pubDate>
-      <guid>https://www.gbrl.work/tags/artigos-acad%C3%AAmicos/</guid>
+      <guid>http://localhost:1313/tags/artigos-acad%C3%AAmicos/</guid>
       <description></description>
     </item>
     <item>
       <title>repertório pessoal</title>
-      <link>https://www.gbrl.work/tags/repert%C3%B3rio-pessoal/</link>
+      <link>http://localhost:1313/tags/repert%C3%B3rio-pessoal/</link>
       <pubDate>Thu, 29 Sep 2022 19:15:48 -0300</pubDate>
-      <guid>https://www.gbrl.work/tags/repert%C3%B3rio-pessoal/</guid>
+      <guid>http://localhost:1313/tags/repert%C3%B3rio-pessoal/</guid>
       <description></description>
     </item>
     <item>
       <title>linux</title>
-      <link>https://www.gbrl.work/tags/linux/</link>
+      <link>http://localhost:1313/tags/linux/</link>
       <pubDate>Wed, 31 Aug 2022 17:19:19 -0300</pubDate>
-      <guid>https://www.gbrl.work/tags/linux/</guid>
+      <guid>http://localhost:1313/tags/linux/</guid>
       <description></description>
     </item>
   </channel>

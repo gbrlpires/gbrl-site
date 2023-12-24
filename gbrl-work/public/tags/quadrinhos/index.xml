@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>quadrinhos on gbrlpires</title>
-    <link>https://www.gbrl.work/tags/quadrinhos/</link>
+    <link>http://localhost:1313/tags/quadrinhos/</link>
     <description>Recent content in quadrinhos on gbrlpires</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 13 Dec 2022 15:07:07 -0300</lastBuildDate>
-    <atom:link href="https://www.gbrl.work/tags/quadrinhos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/quadrinhos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Taiyo Matsumoto</title>
-      <link>https://www.gbrl.work/notas/taiyo-matsumoto/</link>
+      <link>http://localhost:1313/notas/taiyo-matsumoto/</link>
       <pubDate>Tue, 13 Dec 2022 15:07:07 -0300</pubDate>
-      <guid>https://www.gbrl.work/notas/taiyo-matsumoto/</guid>
+      <guid>http://localhost:1313/notas/taiyo-matsumoto/</guid>
       <description>Ilustração para o anime/manga Ping Pong&#xA;Ilustração interna do manga Sunny&#xA;Ilustração interna do manga Sunny&#xA;Ilustração interna do manga Tekkonkinkreet/Preto e Branco(pt-br)</description>
     </item>
   </channel>

@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Colabs on gbrlpires</title>
-    <link>https://www.gbrl.work/colabs/</link>
+    <link>http://localhost:1313/colabs/</link>
     <description>Recent content in Colabs on gbrlpires</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <atom:link href="https://www.gbrl.work/colabs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/colabs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>daó</title>
-      <link>https://www.gbrl.work/colabs/da%C3%B3/</link>
+      <link>http://localhost:1313/colabs/da%C3%B3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.gbrl.work/colabs/da%C3%B3/</guid>
+      <guid>http://localhost:1313/colabs/da%C3%B3/</guid>
       <description></description>
     </item>
     <item>
       <title>giulia fagundes</title>
-      <link>https://www.gbrl.work/colabs/giulia-fagundes/</link>
+      <link>http://localhost:1313/colabs/giulia-fagundes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.gbrl.work/colabs/giulia-fagundes/</guid>
+      <guid>http://localhost:1313/colabs/giulia-fagundes/</guid>
       <description></description>
     </item>
     <item>
       <title>goya lopes</title>
-      <link>https://www.gbrl.work/colabs/goya-lopes/</link>
+      <link>http://localhost:1313/colabs/goya-lopes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.gbrl.work/colabs/goya-lopes/</guid>
+      <guid>http://localhost:1313/colabs/goya-lopes/</guid>
       <description></description>
     </item>
     <item>
       <title>guilherme vieira</title>
-      <link>https://www.gbrl.work/colabs/guilherme-vieira/</link>
+      <link>http://localhost:1313/colabs/guilherme-vieira/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.gbrl.work/colabs/guilherme-vieira/</guid>
+      <guid>http://localhost:1313/colabs/guilherme-vieira/</guid>
       <description></description>
     </item>
     <item>
       <title>henrique vieira</title>
-      <link>https://www.gbrl.work/colabs/henrique-vieira/</link>
+      <link>http://localhost:1313/colabs/henrique-vieira/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.gbrl.work/colabs/henrique-vieira/</guid>
+      <guid>http://localhost:1313/colabs/henrique-vieira/</guid>
       <description></description>
     </item>
   </channel>

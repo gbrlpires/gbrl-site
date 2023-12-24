@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on gbrlpires</title>
-    <link>https://www.gbrl.work/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on gbrlpires</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <atom:link href="https://www.gbrl.work/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>direção de arte</title>
-      <link>https://www.gbrl.work/categories/dire%C3%A7%C3%A3o-de-arte/</link>
+      <link>http://localhost:1313/categories/dire%C3%A7%C3%A3o-de-arte/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.gbrl.work/categories/dire%C3%A7%C3%A3o-de-arte/</guid>
+      <guid>http://localhost:1313/categories/dire%C3%A7%C3%A3o-de-arte/</guid>
       <description></description>
     </item>
     <item>
       <title>editorial</title>
-      <link>https://www.gbrl.work/categories/editorial/</link>
+      <link>http://localhost:1313/categories/editorial/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.gbrl.work/categories/editorial/</guid>
+      <guid>http://localhost:1313/categories/editorial/</guid>
       <description></description>
     </item>
     <item>
       <title>ilustração</title>
-      <link>https://www.gbrl.work/categories/ilustra%C3%A7%C3%A3o/</link>
+      <link>http://localhost:1313/categories/ilustra%C3%A7%C3%A3o/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.gbrl.work/categories/ilustra%C3%A7%C3%A3o/</guid>
+      <guid>http://localhost:1313/categories/ilustra%C3%A7%C3%A3o/</guid>
       <description></description>
     </item>
     <item>
       <title>marca</title>
-      <link>https://www.gbrl.work/categories/marca/</link>
+      <link>http://localhost:1313/categories/marca/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.gbrl.work/categories/marca/</guid>
+      <guid>http://localhost:1313/categories/marca/</guid>
       <description></description>
     </item>
     <item>
       <title>promocional</title>
-      <link>https://www.gbrl.work/categories/promocional/</link>
+      <link>http://localhost:1313/categories/promocional/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.gbrl.work/categories/promocional/</guid>
+      <guid>http://localhost:1313/categories/promocional/</guid>
       <description></description>
     </item>
   </channel>

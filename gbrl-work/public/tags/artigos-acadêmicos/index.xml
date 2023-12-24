@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>artigos acadêmicos on gbrlpires</title>
-    <link>https://www.gbrl.work/tags/artigos-acad%C3%AAmicos/</link>
+    <link>http://localhost:1313/tags/artigos-acad%C3%AAmicos/</link>
     <description>Recent content in artigos acadêmicos on gbrlpires</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 29 Sep 2022 19:15:48 -0300</lastBuildDate>
-    <atom:link href="https://www.gbrl.work/tags/artigos-acad%C3%AAmicos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/artigos-acad%C3%AAmicos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nossa Senhora do Livramento, Santa Rita-PB</title>
-      <link>https://www.gbrl.work/notas/nossa-senhora-do-livramento/</link>
+      <link>http://localhost:1313/notas/nossa-senhora-do-livramento/</link>
       <pubDate>Thu, 29 Sep 2022 19:15:48 -0300</pubDate>
-      <guid>https://www.gbrl.work/notas/nossa-senhora-do-livramento/</guid>
+      <guid>http://localhost:1313/notas/nossa-senhora-do-livramento/</guid>
       <description>Compilado de artigos e informações sobre Nossa Senhora do Livramento, pertencente ao distrito de Santa Rita-PB, cidade de origem da minha família paterna.</description>
     </item>
   </channel>
