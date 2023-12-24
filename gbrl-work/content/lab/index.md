@@ -19,6 +19,10 @@ Inspirado no projeto [Outra parte do processo](https://outrapartedoprocesso.tumb
 {{< /gallery/columns >}}
 
 {{< gallery/columns class="gallery--1-col" >}}
+  {{< figure src="/lab/images/Captura de tela 2023-12-23 222140.png" >}}
+{{< /gallery/columns >}}
+
+{{< gallery/columns class="gallery--1-col" >}}
   {{< figure src="/lab/images/Captura de tela 2023-12-23 101509.png" >}}
 {{< /gallery/columns >}}
 
@@ -31,6 +35,10 @@ Inspirado no projeto [Outra parte do processo](https://outrapartedoprocesso.tumb
   {{< figure src="/lab/images/TacklingTheEveryday_v01_B-1.png" >}}
   {{< figure src="/lab/images/TacklingTheEveryday_v01_B-3.png" >}}
   {{< figure src="/lab/images/TacklingTheEveryday_v01_B-5.png" >}}
+{{< /gallery/columns >}}
+
+{{< gallery/columns class="gallery--1-col" >}}
+  {{< figure src="/lab/images/AlfabetoSamba__DonaIvoneLara_Processo.gif" >}}
 {{< /gallery/columns >}}
 
 {{< gallery/columns class="gallery--4-col" >}}

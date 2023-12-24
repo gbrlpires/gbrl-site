@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linux on gbrlpires</title>
+    <link>https://www.gbrl.work/tags/linux/</link>
+    <description>Recent content in linux on gbrlpires</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 31 Aug 2022 17:19:19 -0300</lastBuildDate>
+    <atom:link href="https://www.gbrl.work/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comandos Linux que sempre preciso mas sempre esqueço</title>
+      <link>https://www.gbrl.work/notas/linux-comandos/</link>
+      <pubDate>Wed, 31 Aug 2022 17:19:19 -0300</pubDate>
+      <guid>https://www.gbrl.work/notas/linux-comandos/</guid>
+      <description>Atualiza Repositórios/Instala atualizações sudo apt-get update&#xD;apt-get upgrade Deleta kernels não usados Uso esse especialmente para o PopOS&#xA;apt autoremove&#xD;dpkg --list | grep linux-image&#xD;sudo apt remove --purge linux-image-[versão]-generic Obs.</description>
+    </item>
+  </channel>
+</rss>

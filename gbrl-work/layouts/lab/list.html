@@ -1,8 +1,10 @@
 {{ define "main" }}
-<section class="lab__container container">
-  <h2 class="lab__title h2--bigger">{{ .Title }}</h2>
-  <article class="lab__text">
-    {{ .Content }}
-  </article>  
-</section>
+<main class="post__container container">
+  <section class="post grid-col-span-2">
+    <h2 class="lab__title h2--bigger">{{ .Title }}</h2>
+    <article class="lab__text">
+      {{ .Content }}
+    </article>  
+  </section>
+</main>
 {{ end }}
