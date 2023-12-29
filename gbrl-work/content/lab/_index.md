@@ -4,14 +4,17 @@ draft: false
 ---
 
 Compilado de experimentações, rascunhos, acidentes de processo e imagens sem destino.  
-Inspirado no projeto [Outra parte do processo](https://outrapartedoprocesso.tumblr.com/)
+Inspirado no projeto [Outra parte do processo](https://guilhermevieira.info/processos/)
 
 
 {{< gallery/columns class="gallery--1-col" >}}
+  {{< figure src="/lab/images/donut_v04.png" >}}
+  {{< figure src="/lab/images/donut_v03.png" >}}
+  {{< figure src="/lab/images/donut_v02.png" >}}
   {{< figure src="/lab/images/donut_v01.png" >}}
 {{< /gallery/columns >}}
 
-{{< gallery/columns class="gallery--2-col" >}}
+{{< gallery/columns class="gallery--1-col" >}}
   {{< figure src="/lab/images/Taverna__OJUDUDU_ProjetoMiolo__Estudo-02.jpg" >}}
   {{< figure src="/lab/images/Captura de tela 2023-10-26 104323.png" >}}
   {{< figure src="/lab/images/Captura de tela 2023-10-23 142544.png" >}}

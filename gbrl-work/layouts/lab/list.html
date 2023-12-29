@@ -1,12 +1,10 @@
 {{ define "main" }}
-  <div class="post__container container">
+  <main class="post__container container">
     <section class="post grid-col-span-2">
       <h2 class="lab__title h2--bigger">{{ .Title }}</h2>
-      <h3 class="lab__title h2--bigger">UM CARALEO DE PIROCA</h3>
       <article class="lab__text">
-        <p> uma frase de teste</p>
         {{ .Content }}
       </article>  
     </section>
-  </div>
+  </main>
 {{ end }}
