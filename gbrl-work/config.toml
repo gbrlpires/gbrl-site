@@ -39,3 +39,14 @@ summaryLength = 20
   category = "categories"
   colab = "colabs"
   author = "gbrlpires"
+
+[outputs]
+  home = ['html', 'rss']
+  section = ['html', 'rss']
+  taxonomy = ['html']
+  term = ['html']
+
+[services]
+  [services.rss]
+    limit = 20
+
