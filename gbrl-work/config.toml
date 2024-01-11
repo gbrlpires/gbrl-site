@@ -1,6 +1,6 @@
 baseURL = "https://www.gbrl.work"
 languageCode = "pt-br"
-title = "gbrlpires"
+title = "gbrlpires | design visual e ilustração"
 summaryLength = 20
 
 [menu]
@@ -46,7 +46,18 @@ summaryLength = 20
   taxonomy = ['html']
   term = ['html']
 
+[outputFormats]
+  [outputFormats.RSS]
+    mediatype = "application/rss"
+    baseName = "rss"
+
 [services]
   [services.rss]
     limit = 20
+
+[minify]
+  disableXML = true
+    [minify.tdewolff]
+      [minify.tdewolff.xml]
+        keepWhitespace = false
 

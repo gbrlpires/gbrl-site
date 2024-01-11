@@ -1,7 +1,4 @@
 <head>
-  {{ with .OutputFormats.Get "rss" -}}
-    {{ printf `<link rel=%q type=%q href=%q title=%q>` .Rel .MediaType.Type .Permalink site.Title | safeHTML }}
-  {{ end }}
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -23,4 +20,8 @@
   <link rel="stylesheet" href="{{ $style.Permalink }}">
   <link rel="icon" type="image/png" href="images/favicon.png"/>
   <link rel="me" href="https://bantu.social/@_gbrlpires">
+
+  {{ with .OutputFormats.Get "rss" -}}
+  {{ printf `<link rel=%q type=%q href=%q title=%q>` .Rel .MediaType.Type .Permalink site.Title | safeHTML }}
+{{ end }}
 </head>
