@@ -57,7 +57,5 @@ summaryLength = 20
 
 [minify]
   disableXML = true
-    [minify.tdewolff]
-      [minify.tdewolff.xml]
-        keepWhitespace = false
+  minifyOutput = true
 
