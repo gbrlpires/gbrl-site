@@ -61,9 +61,9 @@ summaryLength = 20
   [services.rss]
     limit = 20
 
-[minify]
   # Linha abaixo foi adicionada para consertar a indentação na renderização da página rss.xml causada pelo --minify na hora do build 
   # em netlify.toml apaguei o --minify junto da flag [build] 
-  disableXML = true
+[minify]
+   disableXML = true
   minifyOutput = true
 
