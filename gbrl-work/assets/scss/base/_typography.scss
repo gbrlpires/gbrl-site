@@ -49,6 +49,7 @@ html {
   font-family: geomanist-medium;
   font-size: 1.4rem;
   text-transform: uppercase;
+  @include space-top-tiny;
 }
 
 .h4,h4 {
