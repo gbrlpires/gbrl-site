@@ -13,9 +13,14 @@ tags:
 **Comentário**: Desenho muito bonito, história curta e densa. Tem uma virada na história quem é bem violenta, pode ser bem dilacerante. O que me incomodou foi a abordagem de gênero sob uma perspectiva de trauma por que, apesar de não achar que seja obrigatoriamente problemática, pode deixar a falsa impressão, na minha opinião, de que dissidências de gênero são consequências de traumas. Quando escolhi a leitura, eu também estava procurando uma história com uma abordagem mais positiva, "queer joy" e acho que o plot acabou me pegando de surpresa. Então por mais que eu tenha gostado, fiquei com um gostinho amargo na boca.
 
 ## Em andamento
+
+### Sunny
+**Autoria** Matsumoto, Taiyou  
+**Comentário**: Um dos meus desenhistas favoritos, de uma das minha animações favoritas(Tekkonkinkreet). Altas expectativas, rs.
+
 ### 3-gatsu no lion  ★★★★★
 **Outros títulos**: March comes in like a lion  
-**Autoria**: Umino Chika  
+**Autoria**: Umino, Chika  
 **Comentário**: Um dos meus favoritos até agora. Tenho tanta coisa pra falar que vou deixar pra outro momento xD
 
 ### Super no Ura de Yani Suu Hanashi ★★★★★
@@ -39,6 +44,8 @@ tags:
 ### Tungstênio
 ### Blue Period
 ### Cardcaptor Sakura
+### Sunny
+### Tekkonkinkkreet
 
 
 ## Desisti
