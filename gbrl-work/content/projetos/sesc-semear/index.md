@@ -6,7 +6,7 @@ categories:
   - redes sociais
 colabs:
 draft: false
-client: Sesc São Paulo
+client: SESC São Paulo
 images:
-  - /projetos/sesc-semear/images/default.webp
+  - /projetos/sesc-semear/images/default.png
 ---
