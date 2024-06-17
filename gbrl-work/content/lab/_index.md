@@ -6,6 +6,13 @@ draft: false
 Compilado de experimentações, rascunhos, acidentes de processo e imagens sem destino.  
 Inspirado no projeto [Outra parte do processo](https://guilhermevieira.info/processos/)
 
+{{< gallery/columns class="gallery--1-col" >}}
+  {{< figure src="/lab/images/blender__escritorio_blocagem.png" >}}
+{{< /gallery/columns >}}
+
+{{< gallery/columns class="gallery--1-col" >}}
+  {{< figure src="/lab/images/2023-06-05 14_44_56-Planeta__ArteInsubordinacao_Estudo-01.ai.png" >}}
+{{< /gallery/columns >}}
 
 {{< gallery/columns class="gallery--1-col" >}}
   {{< figure src="/lab/images/donut_v04.png" >}}
