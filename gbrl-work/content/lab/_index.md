@@ -6,6 +6,11 @@ draft: false
 Compilado de experimentações, rascunhos, acidentes de processo e imagens sem destino.  
 Inspirado no projeto [Outra parte do processo](https://guilhermevieira.info/processos/)
 
+{{< gallery/columns class="gallery--2-col" >}}
+  {{< figure src="/lab/images/parafuso-3d-01.png" >}}
+  {{< figure src="/lab/images/parafuso-3d-02.png" >}}
+{{< /gallery/columns >}}
+
 {{< gallery/columns class="gallery--4-col" >}}
   {{< figure src="/lab/images/fanta.png" >}}
   {{< figure src="/lab/images/verissimo.png" >}}
