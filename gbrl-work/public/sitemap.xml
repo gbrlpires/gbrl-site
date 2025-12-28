@@ -2,159 +2,168 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.gbrl.work/blog/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-01-24T18:54:29-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notas/lista-de-mangas-e-hqs-lidos/</loc>
+    <lastmod>2024-01-24T18:54:29-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/literatura/</loc>
+    <lastmod>2024-01-24T18:54:29-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notas/</loc>
+    <lastmod>2024-01-24T18:54:29-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/quadrinhos/</loc>
+    <lastmod>2024-01-24T18:54:29-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-01-24T18:54:29-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2023-06-10T17:11:10-03:00</lastmod>
   </url><url>
-    <loc>https://www.gbrl.work/</loc>
+    <loc>http://localhost:1313/blog/sobre-desenho/</loc>
     <lastmod>2023-06-10T17:11:10-03:00</lastmod>
   </url><url>
-    <loc>https://www.gbrl.work/blog/sobre-desenho/</loc>
-    <lastmod>2023-06-10T17:11:10-03:00</lastmod>
-  </url><url>
-    <loc>https://www.gbrl.work/tags/editorial/</loc>
+    <loc>http://localhost:1313/tags/editorial/</loc>
     <lastmod>2022-12-15T14:40:02-03:00</lastmod>
   </url><url>
-    <loc>https://www.gbrl.work/notas/lista-editoras/</loc>
+    <loc>http://localhost:1313/notas/lista-editoras/</loc>
     <lastmod>2022-12-15T14:40:02-03:00</lastmod>
   </url><url>
-    <loc>https://www.gbrl.work/notas/</loc>
-    <lastmod>2022-12-15T14:40:02-03:00</lastmod>
-  </url><url>
-    <loc>https://www.gbrl.work/tags/</loc>
-    <lastmod>2022-12-15T14:40:02-03:00</lastmod>
-  </url><url>
-    <loc>https://www.gbrl.work/tags/ilustra%C3%A7%C3%A3o/</loc>
+    <loc>http://localhost:1313/tags/ilustra%C3%A7%C3%A3o/</loc>
     <lastmod>2022-12-13T15:07:07-03:00</lastmod>
   </url><url>
-    <loc>https://www.gbrl.work/tags/literatura/</loc>
+    <loc>http://localhost:1313/tags/refer%C3%AAncias/</loc>
     <lastmod>2022-12-13T15:07:07-03:00</lastmod>
   </url><url>
-    <loc>https://www.gbrl.work/tags/quadrinhos/</loc>
+    <loc>http://localhost:1313/notas/taiyo-matsumoto/</loc>
     <lastmod>2022-12-13T15:07:07-03:00</lastmod>
   </url><url>
-    <loc>https://www.gbrl.work/tags/refer%C3%AAncias/</loc>
-    <lastmod>2022-12-13T15:07:07-03:00</lastmod>
-  </url><url>
-    <loc>https://www.gbrl.work/notas/taiyo-matsumoto/</loc>
-    <lastmod>2022-12-13T15:07:07-03:00</lastmod>
-  </url><url>
-    <loc>https://www.gbrl.work/tags/acad%C3%AAmico/</loc>
+    <loc>http://localhost:1313/tags/acad%C3%AAmico/</loc>
     <lastmod>2022-12-05T16:01:11-03:00</lastmod>
   </url><url>
-    <loc>https://www.gbrl.work/tags/arte/</loc>
+    <loc>http://localhost:1313/tags/arte/</loc>
     <lastmod>2022-12-05T16:01:11-03:00</lastmod>
   </url><url>
-    <loc>https://www.gbrl.work/notas/catalogos-e-acervos-imagens-dominio-publico/</loc>
+    <loc>http://localhost:1313/notas/catalogos-e-acervos-imagens-dominio-publico/</loc>
     <lastmod>2022-12-05T16:01:11-03:00</lastmod>
   </url><url>
-    <loc>https://www.gbrl.work/tags/design/</loc>
+    <loc>http://localhost:1313/tags/design/</loc>
     <lastmod>2022-12-05T16:01:11-03:00</lastmod>
   </url><url>
-    <loc>https://www.gbrl.work/notas/capas-de-disco-incriveis/</loc>
+    <loc>http://localhost:1313/notas/capas-de-disco-incriveis/</loc>
     <lastmod>2022-11-21T13:29:44-03:00</lastmod>
   </url><url>
-    <loc>https://www.gbrl.work/tags/m%C3%BAsica/</loc>
+    <loc>http://localhost:1313/tags/m%C3%BAsica/</loc>
     <lastmod>2022-11-21T13:29:44-03:00</lastmod>
   </url><url>
-    <loc>https://www.gbrl.work/notas/conteudos-sobre-arte-com-ai/</loc>
+    <loc>http://localhost:1313/notas/conteudos-sobre-arte-com-ai/</loc>
     <lastmod>2022-11-16T10:15:08-03:00</lastmod>
   </url><url>
-    <loc>https://www.gbrl.work/tags/tecnologia/</loc>
+    <loc>http://localhost:1313/tags/tecnologia/</loc>
     <lastmod>2022-11-16T10:15:08-03:00</lastmod>
   </url><url>
-    <loc>https://www.gbrl.work/tags/arquitetura/</loc>
+    <loc>http://localhost:1313/tags/arquitetura/</loc>
     <lastmod>2022-10-16T20:14:34-03:00</lastmod>
   </url><url>
-    <loc>https://www.gbrl.work/notas/arquitetura-e-interior-japoneses/</loc>
+    <loc>http://localhost:1313/notas/arquitetura-e-interior-japoneses/</loc>
     <lastmod>2022-10-16T20:14:34-03:00</lastmod>
   </url><url>
-    <loc>https://www.gbrl.work/notas/dona-ivone-lara-e-os-cinco-bailes-do-rio/</loc>
+    <loc>http://localhost:1313/notas/dona-ivone-lara-e-os-cinco-bailes-do-rio/</loc>
     <lastmod>2022-10-12T10:12:02-03:00</lastmod>
   </url><url>
-    <loc>https://www.gbrl.work/tags/negritude/</loc>
+    <loc>http://localhost:1313/tags/negritude/</loc>
     <lastmod>2022-10-12T10:12:02-03:00</lastmod>
   </url><url>
-    <loc>https://www.gbrl.work/notas/music-metadata-style-guide/</loc>
+    <loc>http://localhost:1313/notas/music-metadata-style-guide/</loc>
     <lastmod>2022-10-08T19:42:30-03:00</lastmod>
   </url><url>
-    <loc>https://www.gbrl.work/notas/publicacoes-negras-e-nao-brancas-nas-artes-visuais/</loc>
+    <loc>http://localhost:1313/notas/publicacoes-negras-e-nao-brancas-nas-artes-visuais/</loc>
     <lastmod>2022-09-30T19:21:19-03:00</lastmod>
   </url><url>
-    <loc>https://www.gbrl.work/tags/artigos-acad%C3%AAmicos/</loc>
+    <loc>http://localhost:1313/tags/artigos-acad%C3%AAmicos/</loc>
     <lastmod>2022-09-29T19:15:48-03:00</lastmod>
   </url><url>
-    <loc>https://www.gbrl.work/notas/nossa-senhora-do-livramento/</loc>
+    <loc>http://localhost:1313/notas/nossa-senhora-do-livramento/</loc>
     <lastmod>2022-09-29T19:15:48-03:00</lastmod>
   </url><url>
-    <loc>https://www.gbrl.work/tags/repert%C3%B3rio-pessoal/</loc>
+    <loc>http://localhost:1313/tags/repert%C3%B3rio-pessoal/</loc>
     <lastmod>2022-09-29T19:15:48-03:00</lastmod>
   </url><url>
-    <loc>https://www.gbrl.work/notas/prefacio-homens-e-caranguejos/</loc>
+    <loc>http://localhost:1313/notas/prefacio-homens-e-caranguejos/</loc>
     <lastmod>2022-09-29T09:42:19-03:00</lastmod>
   </url><url>
-    <loc>https://www.gbrl.work/notas/negritude-no-fio-da-historia-do-design/</loc>
+    <loc>http://localhost:1313/notas/negritude-no-fio-da-historia-do-design/</loc>
     <lastmod>2022-08-31T19:45:23-03:00</lastmod>
   </url><url>
-    <loc>https://www.gbrl.work/notas/linux-comandos/</loc>
+    <loc>http://localhost:1313/notas/linux-comandos/</loc>
     <lastmod>2022-08-31T17:19:19-03:00</lastmod>
   </url><url>
-    <loc>https://www.gbrl.work/tags/linux/</loc>
+    <loc>http://localhost:1313/tags/linux/</loc>
     <lastmod>2022-08-31T17:19:19-03:00</lastmod>
   </url><url>
-    <loc>https://www.gbrl.work/notas/mateus-valadares/</loc>
+    <loc>http://localhost:1313/notas/mateus-valadares/</loc>
     <lastmod>2022-08-12T17:05:39-03:00</lastmod>
   </url><url>
-    <loc>https://www.gbrl.work/notas/paletas-cor/</loc>
+    <loc>http://localhost:1313/notas/paletas-cor/</loc>
     <lastmod>2022-08-12T16:58:51-03:00</lastmod>
   </url><url>
-    <loc>https://www.gbrl.work/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://www.gbrl.work/colabs/</loc>
+    <loc>http://localhost:1313/colabs/</loc>
   </url><url>
-    <loc>https://www.gbrl.work/projetos/sobrinho/</loc>
+    <loc>http://localhost:1313/projetos/sobrinho/</loc>
   </url><url>
-    <loc>https://www.gbrl.work/colabs/da%C3%B3/</loc>
+    <loc>http://localhost:1313/colabs/da%C3%B3/</loc>
   </url><url>
-    <loc>https://www.gbrl.work/projetos/dais/</loc>
+    <loc>http://localhost:1313/projetos/dais/</loc>
   </url><url>
-    <loc>https://www.gbrl.work/categories/dire%C3%A7%C3%A3o-de-arte/</loc>
+    <loc>http://localhost:1313/categories/dire%C3%A7%C3%A3o-de-arte/</loc>
   </url><url>
-    <loc>https://www.gbrl.work/categories/editorial/</loc>
+    <loc>http://localhost:1313/categories/editorial/</loc>
   </url><url>
-    <loc>https://www.gbrl.work/projetos/escrevivencia/</loc>
+    <loc>http://localhost:1313/projetos/escrevivencia/</loc>
   </url><url>
-    <loc>https://www.gbrl.work/gbrlpires/</loc>
+    <loc>http://localhost:1313/gbrlpires/</loc>
   </url><url>
-    <loc>https://www.gbrl.work/colabs/giulia-fagundes/</loc>
+    <loc>http://localhost:1313/colabs/giulia-fagundes/</loc>
   </url><url>
-    <loc>https://www.gbrl.work/colabs/goya-lopes/</loc>
+    <loc>http://localhost:1313/colabs/goya-lopes/</loc>
   </url><url>
-    <loc>https://www.gbrl.work/colabs/guilherme-vieira/</loc>
+    <loc>http://localhost:1313/colabs/guilherme-vieira/</loc>
   </url><url>
-    <loc>https://www.gbrl.work/colabs/henrique-vieira/</loc>
+    <loc>http://localhost:1313/colabs/henrique-vieira/</loc>
   </url><url>
-    <loc>https://www.gbrl.work/projetos/heroinas/</loc>
+    <loc>http://localhost:1313/projetos/heroinas/</loc>
   </url><url>
-    <loc>https://www.gbrl.work/projetos/ibe60/</loc>
+    <loc>http://localhost:1313/projetos/ibe60/</loc>
   </url><url>
-    <loc>https://www.gbrl.work/categories/ilustra%C3%A7%C3%A3o/</loc>
+    <loc>http://localhost:1313/categories/ilustra%C3%A7%C3%A3o/</loc>
   </url><url>
-    <loc>https://www.gbrl.work/lab/</loc>
+    <loc>http://localhost:1313/projetos/sesc-semear/</loc>
   </url><url>
-    <loc>https://www.gbrl.work/projetos/liberteestilo/</loc>
+    <loc>http://localhost:1313/lab/</loc>
   </url><url>
-    <loc>https://www.gbrl.work/projetos/maemais/</loc>
+    <loc>http://localhost:1313/projetos/liberteestilo/</loc>
   </url><url>
-    <loc>https://www.gbrl.work/categories/marca/</loc>
+    <loc>http://localhost:1313/projetos/maemais/</loc>
   </url><url>
-    <loc>https://www.gbrl.work/projetos/</loc>
+    <loc>http://localhost:1313/categories/marca/</loc>
   </url><url>
-    <loc>https://www.gbrl.work/categories/promocional/</loc>
+    <loc>http://localhost:1313/projetos/catalise/</loc>
   </url><url>
-    <loc>https://www.gbrl.work/sobre/</loc>
+    <loc>http://localhost:1313/projetos/</loc>
   </url><url>
-    <loc>https://www.gbrl.work/projetos/tera-staff/</loc>
+    <loc>http://localhost:1313/categories/promocional/</loc>
   </url><url>
-    <loc>https://www.gbrl.work/projetos/transpassar/</loc>
+    <loc>http://localhost:1313/categories/redes-sociais/</loc>
+  </url><url>
+    <loc>http://localhost:1313/sobre/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projetos/tera-staff/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projetos/transpassar/</loc>
   </url>
 </urlset>

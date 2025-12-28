@@ -1,5 +1,5 @@
 html {
-  font-family: geomanist-book;
+  font-family: InterTight-Regular;
   font-size: $text-base;
   color: $color-tertiary;
 }
@@ -18,7 +18,7 @@ html {
 }
 
 .h1,h1 {
-  font-family: geomanist-medium;
+  font-family: InterTight-Medium;
   font-size: 2.5rem;
   line-height: 1.1;
 
@@ -28,14 +28,14 @@ html {
 }
 
 .h2,h2 {
-  font-family: geomanist-medium;
+  font-family: InterTight-Medium;
   font-size: 2rem;
   line-height: 1.3;
   @include space-top-medium;
 }
 
 .h2--bigger {
-  font-family: geomanist-medium;
+  font-family: InterTight-Medium;
   font-size: 3rem;
   line-height: 1.1;
   @include space-bottom-tiny;
@@ -46,19 +46,19 @@ html {
 }
 
 .h3,h3 {
-  font-family: geomanist-medium;
+  font-family: InterTight-Medium;
   font-size: 1.4rem;
   text-transform: uppercase;
   @include space-top-tiny;
 }
 
 .h4,h4 {
-  font-family: geomanist-medium;
+  font-family: InterTight-Medium;
   font-size: 2rem;
   line-height: 1.3;
 }
 
 .h5,h5 {
-  font-family: geomanist-medium;
+  font-family: InterTight-Medium;
   font-size: 1.4rem;
 }

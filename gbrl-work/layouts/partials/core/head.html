@@ -15,7 +15,7 @@
     {{ $options = (dict "enableSourceMap" true) }}
   {{ end }}
 
-  {{ $style := resources.Get "scss/main.scss" | resources.ToCSS $options}}
+  {{ $style := resources.Get "scss/main.scss" | css.Sass $options}}
   {{ $style = $style | fingerprint | minify }}
   <link rel="stylesheet" href="{{ $style.Permalink }}">
   <link rel="icon" type="image/png" href="images/favicon.png"/>
