@@ -6,6 +6,44 @@ draft: false
 Compilado de experimentações, rascunhos, acidentes de processo e imagens sem destino.  
 Inspirado no projeto [Outra parte do processo](https://guilhermevieira.info/processos/)
 
+{{< gallery/columns class="gallery--4-col" >}}
+  {{< figure src="/lab/images/fanta.png" >}}
+  {{< figure src="/lab/images/verissimo.png" >}}
+  {{< figure src="/lab/images/posfacio.png" >}}
+  {{< figure src="/lab/images/racistas.png" >}}
+{{< /gallery/columns >}}
+
+{{< gallery/columns class="gallery--2-col" >}}
+  {{< figure src="/lab/images/lovelace&.png" >}}
+  {{< figure src="/lab/images/racismo.png" >}}
+{{< /gallery/columns >}}
+
+{{< gallery/columns class="gallery--1-col" >}}
+  {{< figure src="/lab/images/bellhooks-ps-background.png" >}}
+{{< /gallery/columns >}}
+
+{{< gallery/columns class="gallery--1-col" >}}
+  {{< figure src="/lab/images/bad-translate.png" >}}
+{{< /gallery/columns >}}
+
+{{< gallery/columns class="gallery--2-col" >}}
+  {{< figure src="/lab/images/eduque-caos.png" >}}
+  {{< figure src="/lab/images/manualempresa-estudos.png" >}}
+{{< /gallery/columns >}}
+
+{{< gallery/columns class="gallery--2-col" >}}
+  {{< figure src="/lab/images/adiar-fim.png" >}}
+  {{< figure src="/lab/images/fe-python.png" >}}
+{{< /gallery/columns >}}
+
+{{< gallery/columns class="gallery--1-col" >}}
+  {{< figure src="/lab/images/tamanhodascoisas-estudos.png" >}}
+{{< /gallery/columns >}}
+
+{{< gallery/columns class="gallery--1-col" >}}
+  {{< figure src="/lab/images/tamanhodascoisas-base.png" >}}
+{{< /gallery/columns >}}
+
 {{< gallery/columns class="gallery--1-col" >}}
   {{< figure src="/lab/images/blender__escritorio_blocagem.png" >}}
 {{< /gallery/columns >}}

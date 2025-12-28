@@ -9,6 +9,9 @@ tags:
 
 {{< gallery/columns class="gallery--2-col" >}}
 
+{{< figure src="/notas/images/capas-de-disco/bondage-fruit.jpg" caption="Bondage Fruit - Bondage Fruit IV(1999)" >}}
+{{< figure src="/notas/images/capas-de-disco/anouar-brahem-souvenance.jpg" caption="Anouar Brahem - Souvenance(2014)" >}}
+
 {{< figure src="/notas/images/capas-de-disco/meb-that-you-not-dare-to-forget.jpg" caption="M.E.B. (Miles Electric Band) - That You Not Dare to Forget" >}}
 {{< figure src="/notas/images/capas-de-disco/les-ambassadeurs-du-motel-bamako.jpg" caption="Les Ambassadeurs du Motel de Bamako - Vol.02" >}}
 {{< figure src="/notas/images/capas-de-disco/ary-lobo-1958​-​1966-analog-africa.jpg" caption="Ary Lobo 1958​-​1966 (Limited Dance Edition No​.​19/Press by Analog Africa)" >}}
