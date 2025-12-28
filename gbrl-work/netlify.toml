@@ -1,6 +1,9 @@
 [build]
 publish = "public"
-command = "hugo --gc"
+command = """\
+  git config core.quotepath false && \
+  hugo --gc --minify --baseURL "${URL}"
+  """
 
 [context.production.environment]
 HUGO_VERSION = "v0.153.2"
