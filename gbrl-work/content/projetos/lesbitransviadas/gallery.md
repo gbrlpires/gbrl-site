@@ -14,3 +14,11 @@ headless: true
 {{< gallery/columns class="gallery--1-col" >}}
   {{< figure class="gallery__img--full" src="/projetos/vozes-retratos-intimos/images/vozesretratos-03.jpg" >}}
 {{< /gallery/columns >}}
+
+{{< gallery/columns class="gallery--1-col" >}}
+  {{< figure class="gallery__img--full" src="/projetos/vozes-retratos-intimos/images/vozesretratos-04.jpg" >}}
+{{< /gallery/columns >}}
+
+{{< gallery/columns class="gallery--1-col" >}}
+  {{< figure class="gallery__img--full" src="/projetos/vozes-retratos-intimos/images/vozesretratos-05.jpg" >}}
+{{< /gallery/columns >}}
