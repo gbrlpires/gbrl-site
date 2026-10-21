@@ -11,4 +11,4 @@ images:
 
 
 IMAGEM DE CAPA:
-Ana Julia Vilela | <a href="https://www.instagram.com/anaxuliavilela/"> @anaxuliavilela </a>
+Ana Julia Vilela | [@anaxuliavilela](https://www.instagram.com/anaxuliavilela/)
